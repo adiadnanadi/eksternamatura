@@ -16,8 +16,10 @@ export const api = {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(body),
-    }).then(r => handle<{ user: import('./types').UserInfo }>(r))
-    identifyVisit() // posjeta iz ovog sessiona → email u admin panelu
+    }).then(r =>
+      handle<{ user?: import('./types').UserInfo; needsVerification?: boolean }>(r)
+    )
+    if (data.user) identifyVisit() // posjeta iz ovog sessiona → email u admin panelu
     return data
   },
 
@@ -30,6 +32,13 @@ export const api = {
     identifyVisit() // posjeta iz ovog sessiona → email u admin panelu
     return data
   },
+
+  resendVerification: (email: string) =>
+    fetch('/api/auth/resend-verification', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ email }),
+    }).then(() => undefined),
 
   logout: () => fetch('/api/auth/logout', { method: 'POST' }).then(() => undefined),
 

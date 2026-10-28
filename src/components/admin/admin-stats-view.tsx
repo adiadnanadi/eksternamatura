@@ -182,6 +182,7 @@ export function AdminStatsView({ stats, email }: { stats: AdminStats; email: str
                 <TableHead>Izvor</TableHead>
                 <TableHead>Lokacija</TableHead>
                 <TableHead>Uređaj</TableHead>
+                <TableHead>IP</TableHead>
                 <TableHead>Stranica</TableHead>
                 <TableHead>Korisnik</TableHead>
               </TableRow>
@@ -189,7 +190,7 @@ export function AdminStatsView({ stats, email }: { stats: AdminStats; email: str
             <TableBody>
               {stats.recent.length === 0 && (
                 <TableRow>
-                  <TableCell colSpan={6} className="text-center text-muted-foreground">
+                  <TableCell colSpan={7} className="text-center text-muted-foreground">
                     Još nema zabilježenih posjeta.
                   </TableCell>
                 </TableRow>
@@ -205,6 +206,9 @@ export function AdminStatsView({ stats, email }: { stats: AdminStats; email: str
                     {r.city ? ` · ${r.city}` : ''}
                   </TableCell>
                   <TableCell className="text-xs">{r.device}</TableCell>
+                  <TableCell className="whitespace-nowrap font-mono text-[11px] text-muted-foreground">
+                    {r.ip || '—'}
+                  </TableCell>
                   <TableCell className="max-w-[140px] truncate text-xs">{r.path}</TableCell>
                   <TableCell className="max-w-[180px] truncate text-xs text-muted-foreground">
                     {r.email || '—'}

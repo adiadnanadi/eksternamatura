@@ -33,6 +33,16 @@ export async function POST(req: Request) {
       { status: 401 }
     )
   }
+  if (!user.emailVerified) {
+    return NextResponse.json(
+      {
+        error:
+          'Email još nije potvrđen. Provjeri sanduče (i spam folder) ili pošalji ponovo.',
+        code: 'EMAIL_UNVERIFIED',
+      },
+      { status: 403 }
+    )
+  }
   const token = await createSessionToken(user.id, user.email)
   await setAuthCookie(token)
   return NextResponse.json({ user: { id: user.id, name: user.name, email: user.email } })

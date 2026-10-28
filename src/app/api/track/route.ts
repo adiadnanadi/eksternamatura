@@ -5,7 +5,6 @@ import { getSessionUser } from '@/lib/auth'
 import { isAdminEmail } from '@/lib/admin'
 import { rateLimit, clientIp } from '@/lib/rate-limit'
 import { classifySource, classifyDevice, isBot } from '@/lib/visit-source'
-
 const schema = z.object({
   sid: z.string().max(64).optional(),
   path: z.string().max(180).optional(),
@@ -50,6 +49,7 @@ export async function POST(req: Request) {
   const finalCity = cfCity || (city ? city.slice(0, 80) : null)
 
   try {
+    const ip = clientIp(req)
     await db.visit.create({
       data: {
         sid: sid || null,
@@ -59,6 +59,7 @@ export async function POST(req: Request) {
         country: finalCountry,
         city: finalCity,
         device: classifyDevice(ua),
+        ip: ip === 'local' ? null : ip,
         userId: session?.uid ?? null,
       },
     })

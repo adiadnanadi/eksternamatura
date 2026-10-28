@@ -10,14 +10,16 @@ datasource db {
 }
 
 model User {
-  id           String        @id @default(cuid())
-  email        String        @unique
-  passwordHash String
-  name         String
-  createdAt    DateTime      @default(now())
-  updatedAt    DateTime      @updatedAt
-  quizSessions QuizSession[]
-  visits       Visit[]
+  id                 String        @id @default(cuid())
+  email              String        @unique
+  passwordHash       String
+  name               String
+  emailVerified      DateTime? // null = email još nije potvrđen
+  verificationToken  String?       @unique
+  createdAt          DateTime      @default(now())
+  updatedAt          DateTime      @updatedAt
+  quizSessions       QuizSession[]
+  visits             Visit[]
 }
 
 model Question {
@@ -84,6 +86,7 @@ model Visit {
   country   String   @default("?") // ISO kod npr. BA
   city      String?
   device    String   @default("?") // Desktop | Mobitel | Tablet
+  ip        String? // klijentska IP adresa (iz X-Forwarded-For)
   userId    String?
   user      User?    @relation(fields: [userId], references: [id], onDelete: SetNull)
   createdAt DateTime @default(now())

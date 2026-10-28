@@ -1,8 +1,10 @@
 import { NextResponse } from 'next/server'
 import { z } from 'zod'
+import { randomBytes } from 'crypto'
 import { db } from '@/lib/db'
 import { hashPassword, createSessionToken, setAuthCookie } from '@/lib/auth'
 import { rateLimit, clientIp } from '@/lib/rate-limit'
+import { sendVerificationEmail } from '@/lib/mailer'
 
 const schema = z.object({
   name: z.string().trim().min(2, 'Ime mora imati najmanje 2 slova').max(60),
@@ -11,10 +13,12 @@ const schema = z.object({
 })
 
 export async function POST(req: Request) {
-  const rl = rateLimit(`reg:${clientIp(req)}`, 10, 60_000)
-  if (!rl.ok) {
+  const ip = clientIp(req)
+  const rl = rateLimit(`reg:${ip}`, 5, 60_000)
+  const rlDay = rateLimit(`regd:${ip}`, 20, 60 * 60_000)
+  if (!rl.ok || !rlDay.ok) {
     return NextResponse.json(
-      { error: `Previše pokušaja. Pokušajte za ${rl.retryAfterSec}s.` },
+      { error: `Previše pokušaja. Pokušajte za ${(!rl.ok ? rl : rlDay).retryAfterSec}s.` },
       { status: 429 }
     )
   }
@@ -30,13 +34,30 @@ export async function POST(req: Request) {
   const exists = await db.user.findUnique({ where: { email } })
   if (exists) {
     return NextResponse.json(
-      { error: 'Korisnik sa ovim emailom već postoji.' },
+      { error: 'Korisnik sa ovim emailom već postoji. Ako je tvoj — prijavi se.' },
       { status: 409 }
     )
   }
   const passwordHash = await hashPassword(password)
-  const user = await db.user.create({ data: { name, email, passwordHash } })
+  const verificationToken = randomBytes(32).toString('hex')
+  const user = await db.user.create({
+    data: { name, email, passwordHash, verificationToken },
+  })
+
+  // Pošalji verifikacioni email; ako SMTP nije podešen ili slanje stvarno
+  // nije uspjelo — auto-verifikuj da app nikad ne ostane blokiran.
+  const sent = await sendVerificationEmail(email, name, verificationToken)
+  if (sent) {
+    return NextResponse.json({ needsVerification: true })
+  }
+  await db.user.update({
+    where: { id: user.id },
+    data: { emailVerified: new Date(), verificationToken: null },
+  })
   const token = await createSessionToken(user.id, user.email)
   await setAuthCookie(token)
-  return NextResponse.json({ user: { id: user.id, name: user.name, email: user.email } })
+  return NextResponse.json({
+    user: { id: user.id, name: user.name, email: user.email },
+    needsVerification: false,
+  })
 }

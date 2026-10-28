@@ -27,6 +27,7 @@ export type AdminStats = {
     city: string | null
     device: string
     path: string
+    ip: string | null
     email: string | null
   }[]
 }
@@ -106,7 +107,7 @@ export async function loadAdminStats(): Promise<AdminStats> {
     }),
     db.visit.findMany({
       orderBy: { createdAt: 'desc' },
-      take: 25,
+      take: 100, // uzmemo više pa deduplikujemo: po osobi samo zadnja posjeta
       select: {
         id: true,
         createdAt: true,
@@ -115,6 +116,8 @@ export async function loadAdminStats(): Promise<AdminStats> {
         city: true,
         device: true,
         path: true,
+        ip: true,
+        userId: true,
         user: { select: { email: true } },
       },
     }),
@@ -137,6 +140,16 @@ export async function loadAdminStats(): Promise<AdminStats> {
   }
   const daily: DayPoint[] = [...bucket.entries()].map(([day, count]) => ({ day, count }))
 
+  // Recent: po ulogovanoj osobi SAMO zadnja posjeta (lista je desc → prvi viđen = zadnji).
+  // Anonimne posjete (bez naloga) ostaju pojedinačno.
+  const seenUsers = new Set<string>()
+  const recentDeduped = recent.filter(r => {
+    if (!r.userId) return true
+    if (seenUsers.has(r.userId)) return false
+    seenUsers.add(r.userId)
+    return true
+  })
+
   return {
     totals: {
       visits,
@@ -152,7 +165,7 @@ export async function loadAdminStats(): Promise<AdminStats> {
     countries: byCountry.map(r => ({ label: countryName(r.country), count: groupCount(r) })),
     devices: byDevice.map(r => ({ label: r.device, count: groupCount(r) })),
     pages: byPath.map(r => ({ label: r.path, count: groupCount(r) })),
-    recent: recent.map(r => ({
+    recent: recentDeduped.slice(0, 25).map(r => ({
       id: r.id,
       createdAt: r.createdAt.toISOString(),
       source: r.source,
@@ -160,6 +173,7 @@ export async function loadAdminStats(): Promise<AdminStats> {
       city: r.city,
       device: r.device,
       path: r.path,
+      ip: r.ip,
       email: r.user?.email ?? null,
     })),
   }

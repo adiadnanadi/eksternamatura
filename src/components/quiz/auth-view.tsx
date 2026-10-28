@@ -2,7 +2,16 @@
 
 import { useState } from 'react'
 import { motion } from 'framer-motion'
-import { GraduationCap, Mail, Lock, User as UserIcon, Loader2, ArrowLeft } from 'lucide-react'
+import {
+  GraduationCap,
+  Mail,
+  Lock,
+  User as UserIcon,
+  Loader2,
+  ArrowLeft,
+  MailCheck,
+  Send,
+} from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
@@ -24,25 +33,78 @@ export function AuthView({
   const [password, setPassword] = useState('')
   const [error, setError] = useState<string | null>(null)
   const [loading, setLoading] = useState(false)
+  const [verifySentTo, setVerifySentTo] = useState<string | null>(null)
+  const [unverified, setUnverified] = useState(false)
+  const [resendState, setResendState] = useState<'idle' | 'sending' | 'sent'>('idle')
 
   async function submit(e: React.FormEvent) {
     e.preventDefault()
     setError(null)
+    setUnverified(false)
     setLoading(true)
     try {
-      const res =
-        mode === 'login'
-          ? await api.login({ email, password })
-          : await api.register({ name, email, password })
-      onSuccess(res.user)
+      if (mode === 'login') {
+        const res = await api.login({ email, password })
+        onSuccess(res.user)
+      } else {
+        const res = await api.register({ name, email, password })
+        if (res.needsVerification) {
+          setVerifySentTo(email)
+          return
+        }
+        if (res.user) onSuccess(res.user)
+      }
     } catch (err) {
-      setError(err instanceof Error ? err.message : 'Došlo je do greške.')
+      const msg = err instanceof Error ? err.message : 'Došlo je do greške.'
+      setError(msg)
+      if (msg.toLowerCase().includes('nije potvrđen')) setUnverified(true)
     } finally {
       setLoading(false)
     }
   }
 
+  async function resend() {
+    if (resendState !== 'idle') return
+    setResendState('sending')
+    try {
+      await api.resendVerification(email)
+      setResendState('sent')
+    } catch {
+      setResendState('idle')
+    }
+  }
+
   const isLogin = mode === 'login'
+
+  // ekran: "provjeri email" nakon uspješne registracije
+  if (verifySentTo) {
+    return (
+      <main className="relative flex min-h-[calc(100dvh-4rem)] items-center justify-center overflow-hidden px-4 py-10">
+        <div className="hero-blob left-[-12%] top-[5%] h-[360px] w-[360px] bg-emerald-300/50 dark:bg-emerald-700/25" />
+        <motion.div
+          initial={{ opacity: 0, y: 24 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.45 }}
+          className="relative w-full max-w-md rounded-3xl border bg-card p-8 text-center shadow-xl"
+        >
+          <span className="mx-auto mb-4 flex h-14 w-14 items-center justify-center rounded-2xl bg-gradient-to-br from-emerald-500 to-teal-600 text-white shadow-lg shadow-emerald-500/25">
+            <MailCheck className="h-7 w-7" />
+          </span>
+          <h1 className="text-xl font-bold">Provjeri svoj email</h1>
+          <p className="mt-2 text-sm text-muted-foreground">
+            Poslali smo ti link za potvrdu na<br />
+            <b className="text-foreground">{verifySentTo}</b>
+            <br />
+            Klikni na link u emailu da aktiviraš nalog, pa se onda prijavi. (Provjeri i spam folder.)
+          </p>
+          <Button variant="outline" className="mt-6 rounded-xl" onClick={onBack}>
+            <ArrowLeft className="mr-2 h-4 w-4" />
+            Nazad na prijavu
+          </Button>
+        </motion.div>
+      </main>
+    )
+  }
 
   return (
     <main className="relative flex min-h-[calc(100dvh-4rem)] items-center justify-center overflow-hidden px-4 py-10">
@@ -88,6 +150,8 @@ export function AuthView({
                 onClick={() => {
                   setMode(m)
                   setError(null)
+                  setUnverified(false)
+                  setResendState('idle')
                 }}
                 className={`rounded-xl py-2 text-sm font-semibold transition-all ${
                   mode === m
@@ -156,9 +220,36 @@ export function AuthView({
             </div>
 
             {error && (
-              <p className="pop-in rounded-xl bg-destructive/10 px-3.5 py-2.5 text-sm font-medium text-destructive">
-                {error}
-              </p>
+              <div className="pop-in space-y-2 rounded-xl bg-destructive/10 px-3.5 py-2.5">
+                <p className="text-sm font-medium text-destructive">{error}</p>
+                {unverified && (
+                  <Button
+                    type="button"
+                    variant="outline"
+                    size="sm"
+                    onClick={resend}
+                    disabled={resendState !== 'idle'}
+                    className="h-8 rounded-lg text-xs"
+                  >
+                    {resendState === 'sent' ? (
+                      <>
+                        <MailCheck className="mr-1.5 h-3.5 w-3.5" />
+                        Poslano ponovo
+                      </>
+                    ) : resendState === 'sending' ? (
+                      <>
+                        <Loader2 className="mr-1.5 h-3.5 w-3.5 animate-spin" />
+                        Šaljem...
+                      </>
+                    ) : (
+                      <>
+                        <Send className="mr-1.5 h-3.5 w-3.5" />
+                        Pošalji verifikaciju ponovo
+                      </>
+                    )}
+                  </Button>
+                )}
+              </div>
             )}
 
             <Button

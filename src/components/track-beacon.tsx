@@ -2,14 +2,25 @@
 
 import { useEffect } from 'react'
 
-// Šalje beacon POST /api/track jednom po učitavanju stranice.
+// Šalje beacon POST /api/track samo pri PRVOM dolasku u sesiji (tab).
+// Refresh/ponovno učitavanje u istom tabu NE šalje ponovo — statistika
+// pokazuje osobu kad je nova pristupila, ne svaki refresh.
 // Geo (država/grad) se povlači iz ipwho.is-a i kešira 24h u localStorage —
 // fetch radi BROWSER, ne Render servis (ne troši outband sa servisa).
 
 type Geo = { country?: string; city?: string; t: number }
 
+const FLAG = 'kviz_session_tracked'
+
 export function TrackBeacon() {
   useEffect(() => {
+    // već zabilježena posjeta u ovoj sesiji (isti tab) → bez ponavljanja
+    try {
+      if (sessionStorage.getItem(FLAG)) return
+    } catch {
+      // sessionStorage blokiran → svejedno pokušaj
+    }
+
     const send = async () => {
       try {
         let geo: Geo | null = null
@@ -34,7 +45,7 @@ export function TrackBeacon() {
             geo = null
           }
         }
-        await fetch('/api/track', {
+        const res = await fetch('/api/track', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           keepalive: true,
@@ -45,6 +56,14 @@ export function TrackBeacon() {
             city: geo?.city || null,
           }),
         })
+        // bilježi "već viđeno" samo ako je server prihvatio (204)
+        if (res.ok || res.status === 204) {
+          try {
+            sessionStorage.setItem(FLAG, '1')
+          } catch {
+            // ignore
+          }
+        }
       } catch {
         // tiho — statistika nikad ne smije kvariti app
       }

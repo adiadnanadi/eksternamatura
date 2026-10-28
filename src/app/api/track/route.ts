@@ -1,7 +1,8 @@
 import { NextResponse } from 'next/server'
 import { z } from 'zod'
 import { db } from '@/lib/db'
-import { getAuthUserId } from '@/lib/auth'
+import { getSessionUser } from '@/lib/auth'
+import { isAdminEmail } from '@/lib/admin'
 import { rateLimit, clientIp } from '@/lib/rate-limit'
 import { classifySource, classifyDevice, isBot } from '@/lib/visit-source'
 
@@ -24,7 +25,22 @@ export async function POST(req: Request) {
   if (!parsed.success) return new NextResponse(null, { status: 204 })
 
   const { path, referrer, country, city } = parsed.data
+  const finalPath = (path && path.startsWith('/') ? path : '/').slice(0, 180)
   const host = req.headers.get('host') || ''
+
+  // Admin (vlasnik) se nikad ne broji — njegovi refresh-ovi ne pune statistiku
+  let session: { uid: string; email: string } | null = null
+  try {
+    session = await getSessionUser()
+  } catch {
+    session = null
+  }
+  if (session && isAdminEmail(session.email)) return new NextResponse(null, { status: 204 })
+
+  // /admin mogu posjetiti samo admini — nikad ne ulazi u statistiku
+  if (finalPath === '/admin' || finalPath.startsWith('/admin/')) {
+    return new NextResponse(null, { status: 204 })
+  }
 
   // Geo: Cloudflare header ima prednost (tačniji), fallback je klijentov fetch (ipwho.is)
   const cfCountry = (req.headers.get('cf-ipcountry') || '').trim()
@@ -32,23 +48,16 @@ export async function POST(req: Request) {
   const finalCountry = (cfCountry || country || '?').toUpperCase().slice(0, 8)
   const finalCity = cfCity || (city ? city.slice(0, 80) : null)
 
-  let userId: string | null = null
-  try {
-    userId = await getAuthUserId()
-  } catch {
-    userId = null
-  }
-
   try {
     await db.visit.create({
       data: {
-        path: (path && path.startsWith('/') ? path : '/').slice(0, 180),
+        path: finalPath,
         referrer: referrer || null,
         source: classifySource(referrer, host),
         country: finalCountry,
         city: finalCity,
         device: classifyDevice(ua),
-        userId,
+        userId: session?.uid ?? null,
       },
     })
   } catch {

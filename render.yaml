@@ -12,10 +12,10 @@ services:
     plan: free
     region: frankfurt        # najbliži region Bosni i Hercegovini
     buildCommand: npx prisma generate && npm run db:push && npm run seed && npm run build
-    startCommand: HOSTNAME=0.0.0.0 npm run start
+    startCommand: export HOSTNAME=0.0.0.0 && npx prisma db push --accept-data-loss && npm run seed && npm run start
     envVars:
       - key: DATABASE_URL
-        value: file:./custom.db   # Prisma rješava relativno u odnosu na prisma/
+        value: file:/opt/render/project/src/prisma/custom.db  # apsolutna putanja — CLI i runtime klijent moraju dijeliti isti fajl
       - key: AUTH_SECRET
         generateValue: true       # Render sam generiše dugi nasumični tajni ključ
       - key: NODE_VERSION

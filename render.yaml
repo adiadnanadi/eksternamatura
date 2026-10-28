@@ -1,10 +1,11 @@
-# Render Blueprint — BESPLATAN plan (Free)
-# Nakon pusha na GitHub: dashboard.render.com → New + → Blueprint → izaberi repo → Apply
-# Rezultat: https://kviz-maturasve.onrender.com (HTTPS, auto-deploy pri svakom pushu)
+# Render Blueprint — BESPLATAN plan (Free) + Neon Postgres baza
 #
-# Napomena: Free plan nema trajni disk, pa se SQLite baza rekreira pri svakom
-# cold startu (startCommand: db:push + seed). Pitanja su uvijek tu, ali korisnički
-# nalozi i rezultati kvizova se gase kad servis stane nakon ~15 min neaktivnosti.
+# Rezultat: https://maturatk.onrender.com (HTTPS, auto-deploy pri svakom pushu)
+#
+# Baza: vanjski Neon Postgres (free) — login/registracija i statistika
+# preživljavaju gašenje servisa. tokene/veze se NE čuvaju u git-u:
+#   - DATABASE_URL  → Neon connection string (Render → Env → DATABASE_URL)
+#   - ADMIN_EMAILS  → zarezom odvojeni email-ovi za /admin stranicu
 services:
   - type: web
     name: kviz-maturasve
@@ -12,12 +13,14 @@ services:
     plan: free
     region: frankfurt        # najbliži region Bosni i Hercegovini
     buildCommand: npx prisma generate && npm run db:push && npm run seed && npm run build
-    startCommand: export HOSTNAME=0.0.0.0 && npx prisma db push --accept-data-loss && npm run seed && npm run start
+    startCommand: export HOSTNAME=0.0.0.0 && npm run start
     envVars:
       - key: DATABASE_URL
-        value: file:/opt/render/project/src/prisma/custom.db  # apsolutna putanja — CLI i runtime klijent moraju dijeliti isti fajl
+        sync: false          # Neon Postgres connection string — postavi ručno u dashboardu
+      - key: ADMIN_EMAILS
+        sync: false          # npr. "moj@email.com,admin@email.com" — ko vidi /admin
       - key: AUTH_SECRET
-        generateValue: true       # Render sam generiše dugi nasumični tajni ključ
+        generateValue: true  # Render sam generiše dugi nasumični tajni ključ
       - key: NODE_VERSION
         value: "22"
       - key: NODE_OPTIONS

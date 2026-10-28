@@ -5,7 +5,7 @@ generator client {
 }
 
 datasource db {
-  provider = "sqlite"
+  provider = "postgresql"
   url      = env("DATABASE_URL")
 }
 
@@ -17,6 +17,7 @@ model User {
   createdAt    DateTime      @default(now())
   updatedAt    DateTime      @updatedAt
   quizSessions QuizSession[]
+  visits       Visit[]
 }
 
 model Question {
@@ -71,4 +72,22 @@ model QuizAnswer {
   createdAt     DateTime    @default(now())
 
   @@index([sessionId])
+}
+
+// Posjeta stranici — statistika odakle ljudi ulaze (izvor, država, uređaj)
+model Visit {
+  id        String   @id @default(cuid())
+  path      String   @default("/")
+  referrer  String?
+  source    String   @default("Direktno") // Google | Instagram | Direktno | ...
+  country   String   @default("?") // ISO kod npr. BA
+  city      String?
+  device    String   @default("?") // Desktop | Mobitel | Tablet
+  userId    String?
+  user      User?    @relation(fields: [userId], references: [id], onDelete: SetNull)
+  createdAt DateTime @default(now())
+
+  @@index([createdAt])
+  @@index([source])
+  @@index([country])
 }

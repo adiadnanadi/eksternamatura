@@ -52,3 +52,18 @@ export async function getAuthUserId(): Promise<string | null> {
     return null
   }
 }
+
+export async function getSessionUser(): Promise<{ uid: string; email: string } | null> {
+  try {
+    const store = await cookies()
+    const token = store.get(COOKIE)?.value
+    if (!token) return null
+    const { payload } = await jwtVerify(token, SECRET)
+    const uid = payload.uid as string
+    const email = payload.email as string
+    if (!uid || !email) return null
+    return { uid, email }
+  } catch {
+    return null
+  }
+}

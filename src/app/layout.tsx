@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from "next";
 import { Sora, Inter } from "next/font/google";
 import "./globals.css";
 import { Toaster } from "@/components/ui/sonner";
+import { TrackBeacon } from "@/components/track-beacon";
 
 const sora = Sora({
   variable: "--font-heading",
@@ -39,6 +40,7 @@ export default function RootLayout({
         className={`${sora.variable} ${inter.variable} antialiased bg-background text-foreground`}
       >
         {children}
+        <TrackBeacon />
         <Toaster position="top-center" richColors />
       </body>
     </html>

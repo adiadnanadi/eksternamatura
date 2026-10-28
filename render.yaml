@@ -1,0 +1,24 @@
+# Render Blueprint — BESPLATAN plan (Free)
+# Nakon pusha na GitHub: dashboard.render.com → New + → Blueprint → izaberi repo → Apply
+# Rezultat: https://kviz-maturasve.onrender.com (HTTPS, auto-deploy pri svakom pushu)
+#
+# Napomena: Free plan nema trajni disk, pa se SQLite baza rekreira pri svakom
+# cold startu (startCommand: db:push + seed). Pitanja su uvijek tu, ali korisnički
+# nalozi i rezultati kvizova se gase kad servis stane nakon ~15 min neaktivnosti.
+services:
+  - type: web
+    name: kviz-maturasve
+    runtime: node
+    plan: free
+    region: frankfurt        # najbliži region Bosni i Hercegovini
+    buildCommand: npx prisma generate && npm run db:push && npm run seed && npm run build
+    startCommand: npx prisma db push --accept-data-loss && npm run seed && npm run start
+    envVars:
+      - key: DATABASE_URL
+        value: file:./custom.db   # Prisma rješava relativno u odnosu na prisma/
+      - key: AUTH_SECRET
+        generateValue: true       # Render sam generiše dugi nasumični tajni ključ
+      - key: NODE_VERSION
+        value: "22"
+      - key: NODE_OPTIONS
+        value: --max-old-space-size=448   # Free instanca ima samo 512 MB RAM-a

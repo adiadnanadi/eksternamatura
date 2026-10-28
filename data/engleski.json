@@ -1,0 +1,1127 @@
+[
+ {
+  "original_no": 1,
+  "subject": "ENGLESKI",
+  "topic": "Vokabular",
+  "level": "OSNOVNI",
+  "question": "My sister's daughter is my ___________.",
+  "passage": null,
+  "options": [
+   "SISTER",
+   "NIECE",
+   "AUNT",
+   "GRANDMOTHER"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 2,
+  "subject": "ENGLESKI",
+  "topic": "Vokabular",
+  "level": "OSNOVNI",
+  "question": "__________ is the sixth month of the year.",
+  "passage": null,
+  "options": [
+   "JUNE",
+   "JULY",
+   "AUGUST",
+   "MAY"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 3,
+  "subject": "ENGLESKI",
+  "topic": "Vokabular",
+  "level": "OSNOVNI",
+  "question": "My favourite ___________ is blue.",
+  "passage": null,
+  "options": [
+   "COLLOR",
+   "PEINT",
+   "COLOR",
+   "CUOLOR"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 4,
+  "subject": "ENGLESKI",
+  "topic": "Vokabular",
+  "level": "OSNOVNI",
+  "question": "Football is my favourite _____________.",
+  "passage": null,
+  "options": [
+   "SPORT",
+   "SPORTS",
+   "TOY",
+   "OBJECT"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 5,
+  "subject": "ENGLESKI",
+  "topic": "Vokabular",
+  "level": "OSNOVNI",
+  "question": "You can see lots of stars in the _______ at night.",
+  "passage": null,
+  "options": [
+   "EARTH",
+   "WALL",
+   "SKY",
+   "TABLE"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 6,
+  "subject": "ENGLESKI",
+  "topic": "Vokabular",
+  "level": "OSNOVNI",
+  "question": "What time is it? ___________ Five ( 5.30)",
+  "passage": null,
+  "options": [
+   "HALF PAST",
+   "THIRTY-FIVE",
+   "FIVE AND THIRTY",
+   "THIRTY TO SIX"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 7,
+  "subject": "ENGLESKI",
+  "topic": "Vokabular",
+  "level": "OSNOVNI",
+  "question": "My favourite ___________ is maths.",
+  "passage": null,
+  "options": [
+   "QUESTION",
+   "TASK",
+   "OBJECT",
+   "SUBJECT"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 8,
+  "subject": "ENGLESKI",
+  "topic": "Vokabular",
+  "level": "OSNOVNI",
+  "question": "Sarajevo is the ___________ city of Bosnia and Herzegovina.",
+  "passage": null,
+  "options": [
+   "MAIN",
+   "CAPITAAL",
+   "LEAST",
+   "CAPITOOL"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 9,
+  "subject": "ENGLESKI",
+  "topic": "Vokabular",
+  "level": "OSNOVNI",
+  "question": "Potato, beans and cabbage are ______________.",
+  "passage": null,
+  "options": [
+   "VEGETABLES",
+   "FRUIT",
+   "FRUITS",
+   "MEAT"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 10,
+  "subject": "ENGLESKI",
+  "topic": "Vokabular",
+  "level": "OSNOVNI",
+  "question": "Mercedes is one of the best __________ in the world.",
+  "passage": null,
+  "options": [
+   "BAAL",
+   "TOYS",
+   "CARS",
+   "TV"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 11,
+  "subject": "ENGLESKI",
+  "topic": "Vokabular",
+  "level": "SREDNJI",
+  "question": "Could you ____________ this letter to the Post Office please?",
+  "passage": null,
+  "options": [
+   "TAKE",
+   "GET",
+   "LEAVE",
+   "BRING"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 12,
+  "subject": "ENGLESKI",
+  "topic": "Vokabular",
+  "level": "SREDNJI",
+  "question": "I don't think green suits me. Perhaps they have it in another _______________.",
+  "passage": null,
+  "options": [
+   "COLLOR",
+   "PEINT",
+   "COLOR",
+   "CUOLOR"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 13,
+  "subject": "ENGLESKI",
+  "topic": "Vokabular",
+  "level": "SREDNJI",
+  "question": "In some part of Canada they only have two _________________, summer and winter.",
+  "passage": null,
+  "options": [
+   "DAY",
+   "SEASONS",
+   "MONTHS",
+   "MOMENT"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 14,
+  "subject": "ENGLESKI",
+  "topic": "Vokabular",
+  "level": "SREDNJI",
+  "question": "When you buy something you are usually given a _____________.",
+  "passage": null,
+  "options": [
+   "DIPLOMA",
+   "CERTIFICATE OF APPRECIATION",
+   "LIST",
+   "RECEIPT"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 15,
+  "subject": "ENGLESKI",
+  "topic": "Vokabular",
+  "level": "SREDNJI",
+  "question": "He told us a _________________ story. (We were fascinated by the story.)",
+  "passage": null,
+  "options": [
+   "FASCINATING",
+   "FASCIN",
+   "FASCINATE",
+   "FASCINATED"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 16,
+  "subject": "ENGLESKI",
+  "topic": "Vokabular",
+  "level": "SREDNJI",
+  "question": "_______________ is a team sport where players wear helmets and play with an egg-shaped ball.",
+  "passage": null,
+  "options": [
+   "HANDBALL",
+   "TENNIS",
+   "RUGBY",
+   "VOLLEYBALL"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 17,
+  "subject": "ENGLESKI",
+  "topic": "Vokabular",
+  "level": "SREDNJI",
+  "question": "I'm afraid she's not here. Do you want to ____________ a message?",
+  "passage": null,
+  "options": [
+   "LEAVE",
+   "GET",
+   "TAKE",
+   "BRING"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 18,
+  "subject": "ENGLESKI",
+  "topic": "Vokabular",
+  "level": "SREDNJI",
+  "question": "This computer is _____________ slow to do this calculation.",
+  "passage": null,
+  "options": [
+   "---------",
+   "TOO",
+   "TO",
+   "THE"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 19,
+  "subject": "ENGLESKI",
+  "topic": "Vokabular",
+  "level": "SREDNJI",
+  "question": "To make a lemonade you need _____WATER________, sugar and lemons.",
+  "passage": null,
+  "options": [
+   "WATER",
+   "JUICE",
+   "MILK",
+   "CHOCOLATE"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 20,
+  "subject": "ENGLESKI",
+  "topic": "Vokabular",
+  "level": "SREDNJI",
+  "question": "He has been arrested and he will spend the night in _____________.",
+  "passage": null,
+  "options": [
+   "MUSEUM",
+   "CINEMA",
+   "THEATRE",
+   "JAIL/PRISON"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 21,
+  "subject": "ENGLESKI",
+  "topic": "Vokabular",
+  "level": "VISI",
+  "question": "My grandmother never wore trousers. She always wore a skirt or a ______________.",
+  "passage": null,
+  "options": [
+   "DRESS",
+   "JEANS",
+   "BERMUDA SHORTS",
+   "LEGGINGS"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 22,
+  "subject": "ENGLESKI",
+  "topic": "Vokabular",
+  "level": "VISI",
+  "question": "A scratch in the paint is a ____________ damage on a car.",
+  "passage": null,
+  "options": [
+   "BIG",
+   "SMALL/TINY",
+   "BIGG",
+   "HUGE"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 23,
+  "subject": "ENGLESKI",
+  "topic": "Vokabular",
+  "level": "VISI",
+  "question": "A person who is sympathetic is ____________________.",
+  "passage": null,
+  "options": [
+   "RUDE, EVIL",
+   "EVIL, BAD",
+   "BAD",
+   "THOUGHTFUL, SENSITIVE, SORRY"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 24,
+  "subject": "ENGLESKI",
+  "topic": "Vokabular",
+  "level": "VISI",
+  "question": "If there is a chill in the air, how does it feel?",
+  "passage": null,
+  "options": [
+   "COLD",
+   "HOT",
+   "WARM",
+   "TOO HOT"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 25,
+  "subject": "ENGLESKI",
+  "topic": "Vokabular",
+  "level": "VISI",
+  "question": "Can I _____________ your book? I forgot mine at home.",
+  "passage": null,
+  "options": [
+   "BOROW/ TEKE",
+   "BORROW/ TAKE",
+   "BARROW/ TAKE",
+   "BORROOW/ TAKE"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 26,
+  "subject": "ENGLESKI",
+  "topic": "Vokabular",
+  "level": "VISI",
+  "question": "My friend always tells the truth. He is a/an _______________ person.",
+  "passage": null,
+  "options": [
+   "LIE",
+   "UNTRUE",
+   "DISHONESTY",
+   "HONEST"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 27,
+  "subject": "ENGLESKI",
+  "topic": "Vokabular",
+  "level": "VISI",
+  "question": "They _______________ each other at first sight. They got married last year.",
+  "passage": null,
+  "options": [
+   "FELL IN LOVE WITH",
+   "THEY HATED",
+   "THEY DIDN'T LIKE",
+   "THEY DIDN'T FALL IN LOVE"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 28,
+  "subject": "ENGLESKI",
+  "topic": "Vokabular",
+  "level": "VISI",
+  "question": "Yesterday morning, I found my little bird lying dead inside its ______________.",
+  "passage": null,
+  "options": [
+   "WARDROBE",
+   "CAGE",
+   "CAGGE",
+   "CEGE"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 29,
+  "subject": "ENGLESKI",
+  "topic": "Vokabular",
+  "level": "VISI",
+  "question": "No one died in a train crash but hundreds of people have been ______________.",
+  "passage": null,
+  "options": [
+   "INJURED",
+   "UNTOUCHED",
+   "WITHOUT INJURY",
+   "INURED"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 30,
+  "subject": "ENGLESKI",
+  "topic": "Vokabular",
+  "level": "VISI",
+  "question": "__________ medal is the top Olympic medal.",
+  "passage": null,
+  "options": [
+   "SILVER",
+   "BRONZE",
+   "GOLD",
+   "GLASS"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 31,
+  "subject": "ENGLESKI",
+  "topic": "Gramatika",
+  "level": "OSNOVNI",
+  "question": "The plural of \"man\" is __________.",
+  "passage": null,
+  "options": [
+   "MEN",
+   "MAN",
+   "MANS",
+   "THE MAN"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 32,
+  "subject": "ENGLESKI",
+  "topic": "Gramatika",
+  "level": "OSNOVNI",
+  "question": "Are there ________ books in your bag?",
+  "passage": null,
+  "options": [
+   "HONEY",
+   "ANY",
+   "HALF",
+   "A"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 33,
+  "subject": "ENGLESKI",
+  "topic": "Gramatika",
+  "level": "OSNOVNI",
+  "question": "This woman is a teacher. ________ name is Emily.",
+  "passage": null,
+  "options": [
+   "HER`S",
+   "HIS",
+   "SHE",
+   "HER"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 34,
+  "subject": "ENGLESKI",
+  "topic": "Gramatika",
+  "level": "OSNOVNI",
+  "question": "He usually ___________ to work by car. (go)",
+  "passage": null,
+  "options": [
+   "GOES",
+   "GO",
+   "GOING",
+   "WILL GO"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 35,
+  "subject": "ENGLESKI",
+  "topic": "Gramatika",
+  "level": "OSNOVNI",
+  "question": "Brad and Angelina aren't French. They ________ American. (be)",
+  "passage": null,
+  "options": [
+   "IS",
+   "BE",
+   "ARE",
+   "AM"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 36,
+  "subject": "ENGLESKI",
+  "topic": "Gramatika",
+  "level": "OSNOVNI",
+  "question": "John is ________ best teacher in our school.",
+  "passage": null,
+  "options": [
+   "THE",
+   "A",
+   "------",
+   "OUR"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 37,
+  "subject": "ENGLESKI",
+  "topic": "Gramatika",
+  "level": "OSNOVNI",
+  "question": "___________ you like apples?",
+  "passage": null,
+  "options": [
+   "ARE",
+   "DO",
+   "WILL",
+   "IS"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 38,
+  "subject": "ENGLESKI",
+  "topic": "Gramatika",
+  "level": "OSNOVNI",
+  "question": "Sally and Joe ____________ (play) tennis at the moment.",
+  "passage": null,
+  "options": [
+   "PLAYING",
+   "PLAY",
+   "PLAYS",
+   "ARE PLAYING"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 39,
+  "subject": "ENGLESKI",
+  "topic": "Gramatika",
+  "level": "OSNOVNI",
+  "question": "How __________ apples are there on the table?",
+  "passage": null,
+  "options": [
+   "ARE",
+   "MANY",
+   "ANY",
+   "MUCH"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 40,
+  "subject": "ENGLESKI",
+  "topic": "Gramatika",
+  "level": "OSNOVNI",
+  "question": "She ____________ my best friend now. (be)",
+  "passage": null,
+  "options": [
+   "IS",
+   "BE",
+   "ARE",
+   "HAS"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 41,
+  "subject": "ENGLESKI",
+  "topic": "Gramatika",
+  "level": "SREDNJI",
+  "question": "How old are your ____________? (child)",
+  "passage": null,
+  "options": [
+   "CHILDRES",
+   "CHALD",
+   "CHILD",
+   "CHILDREN"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 42,
+  "subject": "ENGLESKI",
+  "topic": "Gramatika",
+  "level": "SREDNJI",
+  "question": "He lived in London for two years and then he ____________ to Edinburgh. (move)",
+  "passage": null,
+  "options": [
+   "MOVED",
+   "MOVING",
+   "MOVE",
+   "MOVES"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 43,
+  "subject": "ENGLESKI",
+  "topic": "Gramatika",
+  "level": "SREDNJI",
+  "question": "We _______________ that film last week. (see)",
+  "passage": null,
+  "options": [
+   "SEE",
+   "SAW",
+   "SEEING",
+   "SEES"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 44,
+  "subject": "ENGLESKI",
+  "topic": "Gramatika",
+  "level": "SREDNJI",
+  "question": "Your room is tidy, but my room is ____________. (tidy)",
+  "passage": null,
+  "options": [
+   "UNTIDY",
+   "ANTIDY",
+   "ANTIDDY",
+   "NO TIDY"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 45,
+  "subject": "ENGLESKI",
+  "topic": "Gramatika",
+  "level": "SREDNJI",
+  "question": "Gary was writing postcards while Mary _____________ photos. (take)",
+  "passage": null,
+  "options": [
+   "WAS TAKES",
+   "WAS TAKED",
+   "WAS TAKING",
+   "WAS TAKE"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 46,
+  "subject": "ENGLESKI",
+  "topic": "Gramatika",
+  "level": "SREDNJI",
+  "question": "I ______________ Mary for two months. (not see)",
+  "passage": null,
+  "options": [
+   "NOT SEE",
+   "HAVEN'T SEEN",
+   "HAVE NOT SEE",
+   "DON'T SEE"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 47,
+  "subject": "ENGLESKI",
+  "topic": "Gramatika",
+  "level": "SREDNJI",
+  "question": "Elephants are _____________ than horses. (big)",
+  "passage": null,
+  "options": [
+   "BIGGER",
+   "BIGGEST",
+   "MOST BIGGEST",
+   "BIG"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 48,
+  "subject": "ENGLESKI",
+  "topic": "Gramatika",
+  "level": "SREDNJI",
+  "question": "The first computer ____________ in the 1940s. (invent)",
+  "passage": null,
+  "options": [
+   "WERE INVENT",
+   "INVENTS",
+   "WAS INVENTED",
+   "WILL INVENT"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 49,
+  "subject": "ENGLESKI",
+  "topic": "Gramatika",
+  "level": "SREDNJI",
+  "question": "George ____________ a car crash last week. (have)",
+  "passage": null,
+  "options": [
+   "HAVE",
+   "HAS",
+   "HAD",
+   "WILL HAVE"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 50,
+  "subject": "ENGLESKI",
+  "topic": "Gramatika",
+  "level": "SREDNJI",
+  "question": "Jane ________________ to music when she heard a strange noise. (listen)",
+  "passage": null,
+  "options": [
+   "LISTENING",
+   "WAS LISTENING",
+   "WILL LISTEN",
+   "LISTEN"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 51,
+  "subject": "ENGLESKI",
+  "topic": "Gramatika",
+  "level": "VISI",
+  "question": "Mark is _______________ boy in the class. He is almost 2 metres tall.",
+  "passage": null,
+  "options": [
+   "THE TALLEST",
+   "TALL",
+   "TALLEST",
+   "A TALLED"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 52,
+  "subject": "ENGLESKI",
+  "topic": "Gramatika",
+  "level": "VISI",
+  "question": "The Browns have three children, two sons and ______________.",
+  "passage": null,
+  "options": [
+   "THE DAUGHTER",
+   "DAUGHTER",
+   "A DAUGHTER",
+   "AN"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 53,
+  "subject": "ENGLESKI",
+  "topic": "Gramatika",
+  "level": "VISI",
+  "question": "Coffee _______________ in Colombia. (grow)",
+  "passage": null,
+  "options": [
+   "GROW",
+   "IS GROWN",
+   "GROWN",
+   "GROWED"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 54,
+  "subject": "ENGLESKI",
+  "topic": "Gramatika",
+  "level": "VISI",
+  "question": "America _______________ by Columbus. (discover)",
+  "passage": null,
+  "options": [
+   "WAS DISCOVERING",
+   "DISCOVER",
+   "WAS DISCOVERED",
+   "DISCOVERED"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 55,
+  "subject": "ENGLESKI",
+  "topic": "Gramatika",
+  "level": "VISI",
+  "question": "We ______________ to Paris three times. (be)",
+  "passage": null,
+  "options": [
+   "HAVE BEEN",
+   "HAS BEE",
+   "BEEN",
+   "BE"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 56,
+  "subject": "ENGLESKI",
+  "topic": "Gramatika",
+  "level": "VISI",
+  "question": "We _____________ (live) next door to each other and then Alison ____________ (move) to London.",
+  "passage": null,
+  "options": [
+   "HAS LIVED/ MOVE",
+   "HAD LIVED/ MOVED",
+   "HAD LIVE/ MOVE",
+   "LIVE/ MOVE"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 57,
+  "subject": "ENGLESKI",
+  "topic": "Gramatika",
+  "level": "VISI",
+  "question": "We came to the party too late. Everybody ____________ (leave) before 10 p.m.",
+  "passage": null,
+  "options": [
+   "LEAVE",
+   "HAD LEFT",
+   "HAS LEAVE",
+   "LEFT"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 58,
+  "subject": "ENGLESKI",
+  "topic": "Gramatika",
+  "level": "VISI",
+  "question": "I feel _____________ on Sundays. (relax)",
+  "passage": null,
+  "options": [
+   "RELAXED",
+   "RELAX",
+   "A RELAXED",
+   "THE RELAXING"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 59,
+  "subject": "ENGLESKI",
+  "topic": "Gramatika",
+  "level": "VISI",
+  "question": "Many infectious diseases ___________ (spread) by mice and rats.",
+  "passage": null,
+  "options": [
+   "SPREADED",
+   "SPREAD",
+   "IS SPREAD",
+   "ARE SPREAD"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 60,
+  "subject": "ENGLESKI",
+  "topic": "Gramatika",
+  "level": "VISI",
+  "question": "Dave _____________ (talk) on the phone when his mum ___________ (enter) his room.",
+  "passage": null,
+  "options": [
+   "TALKED/ ENTERED",
+   "ARE TALKIN/ENTERING",
+   "TALK/ENTER",
+   "WAS TALKIN/ENTERED"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 61,
+  "subject": "ENGLESKI",
+  "topic": "Čitanje i razumijevanje",
+  "level": "OSNOVNI",
+  "question": "How old is Ben?",
+  "passage": "My name is Ben and I come from Australia. I am 24 years old and I live in a small town near Sydney called Branton.",
+  "options": [
+   "24 years old",
+   "42 years old",
+   "21 years old",
+   "12 years old"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 62,
+  "subject": "ENGLESKI",
+  "topic": "Čitanje i razumijevanje",
+  "level": "OSNOVNI",
+  "question": "How does Tom go to his brother's house?",
+  "passage": "On Sunday, Tom gets up at 10 o'clock. Then he reads his newspaper in the kitchen. He has breakfast at 11.30 and then he telephones his mother in Scotland. At 6 p.m. Tom swims for one hour and then he goes by bike to his brother´s house. They talk and listen to music. Tom watches television in the evening and drinks a glass of hot milk. He goes to bed at 10 p.m.",
+  "options": [
+   "He goes by scooter to his brother´s house.",
+   "He goes by car to his brother´s house.",
+   "He goes by bike to his brother´s house.",
+   "He goes by motorcycle to his brother´s house."
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 63,
+  "subject": "ENGLESKI",
+  "topic": "Čitanje i razumijevanje",
+  "level": "OSNOVNI",
+  "question": "Does Jessica like French?",
+  "passage": "My name is Jessica Poole. I’m 12 and I live in London. I go to Watermead High School. I am in a class 8B. My favourite subjects are chemistry and geography. I don’t like French and maths. I take the bus to school with my friends. We meet at the bus stop at a quarter past eight.",
+  "options": [
+   "Jessica like French",
+   "Jessica like French, very much.",
+   "Jessica doesn't know if she likes French.",
+   "Jessica don’t like French"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 64,
+  "subject": "ENGLESKI",
+  "topic": "Čitanje i razumijevanje",
+  "level": "OSNOVNI",
+  "question": "Where was Mozart born?",
+  "passage": "Mozart was born in 1756 in Salzburg in Austria. His father was one of Europe’s best music teachers.\nMozart and his father were in Vienna for a year from 1767 to 1768.",
+  "options": [
+   "Mozart was born in Vienna in Austria.",
+   "Mozart was born in Salzburg in Austria.",
+   "Mozart was born in Graz in Austria.",
+   "Mozart was born in Berlin in Germany."
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 65,
+  "subject": "ENGLESKI",
+  "topic": "Čitanje i razumijevanje",
+  "level": "OSNOVNI",
+  "question": "What is poncho like?",
+  "passage": "Some native people of the Andes region of South America wear traditional clothes. Ponchos are like coats but haven't got sleeves.",
+  "options": [
+   "Ponchos are like coats but haven't got sleeves.",
+   "Ponchos are like skirt",
+   "Ponchos are like trousers.",
+   "Ponchos are like swimsuit."
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 66,
+  "subject": "ENGLESKI",
+  "topic": "Čitanje i razumijevanje",
+  "level": "SREDNJI",
+  "question": "What instrument does Jessica play?",
+  "passage": "My name is Jessica Poole. I’m 12 and I live in London. I go to Watermead High School. I am in a class 8B. My favourite subjects are chemistry and geography. I don’t like French and maths. I take the bus to school with my friends. We meet at the bus stop at a quarter past eight. School starts at a quarter to nine and finishes at half-past three. I have my clarinet lessons at a quarter past four.",
+  "options": [
+   "PIANO",
+   "GUITAR",
+   "TRUMPET",
+   "CLARINET"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 67,
+  "subject": "ENGLESKI",
+  "topic": "Čitanje i razumijevanje",
+  "level": "SREDNJI",
+  "question": "What does Jennifer do in her free time?",
+  "passage": "When she was a child, Jennifer Lawrence liked sports and she played hockey and basketball. She also worked as a model. At the age of fourteen she knew she wanted to be an actress, so she went to New York to look for work. She appeared in advertisements for MTV and the fashion company H&M and got work as an actress on TV. Her family moved to Los Angeles so that Jennifer could work on TV and in films. In 2010 she acted in the film Winter’s Bone and she was nominated for many awards including Academy Award. In 2012 she starred in the film The Hunger Games as Katniss Everdeen. When she isn’t at work, Jennifer goes surfing or plays the guitar.",
+  "options": [
+   "Jennifer goes surfing or plays the guitar.",
+   "Jennifer goes surfing or plays the piano.",
+   "Jennifer goes swimming or plays the guitar.",
+   "Jennifer goes swimming or plays the trumpet."
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 68,
+  "subject": "ENGLESKI",
+  "topic": "Čitanje i razumijevanje",
+  "level": "SREDNJI",
+  "question": "Why did Louis Lassen start making hamburgers?",
+  "passage": "The first hamburgers in U.S. history were served in New Haven, Connecticut, at Louis' Lunch sandwich shop in 1895. Louis Lassen, founder of Louis' Lunch, ran a small lunch wagon selling steak sandwiches to local factory workers. Lassen didn't want to waste the excess beef from his daily lunch rush, he ground it up, grilled it, and served it between two slices of bread - and America's first hamburger was created.",
+  "options": [
+   "Lassen wanted to get rich.",
+   "Lassen wanted to become famous.",
+   "Lassen didn't want to waste the excess beef from his daily lunch rush, he ground it up, grilled it, and served it between two slices of bread.",
+   "Lassen wanted to make delicious food."
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 69,
+  "subject": "ENGLESKI",
+  "topic": "Čitanje i razumijevanje",
+  "level": "SREDNJI",
+  "question": "Which of the two hurricanes, Andrew or Katrina, caused greater damage?",
+  "passage": "In 2005 Hurricane Katrina hit the south-eastern coast of the USA. It was one of the deadliest natural disasters ever. Over 1200 people died during its course. Total property damage was estimated around 100 billion dollars, four times greater than the damage caused by hurricane Andrew in 1992. Katrina formed over the Bahamas on August 23 and it soon intensified into a tropical storm. After moving west towards Florida, it strengthened into a hurricane.",
+  "options": [
+   "Andrew",
+   "Katrina",
+   "Both hurricanes caused the same damage.",
+   "Both hurricanes did no damage at all."
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 70,
+  "subject": "ENGLESKI",
+  "topic": "Čitanje i razumijevanje",
+  "level": "SREDNJI",
+  "question": "How many people are there in Carly's family?",
+  "passage": "Carly has a large family. She lives with four people. Carly also has two pets. Her mum is a doctor and she works at hospital. Her dad works at home. He cooks for his family and drives the kids to soccer practice. Carly has two brothers. James is ten years old. Jack is fifteen years old. Carly has also two pets. Jinx is a small, black cat. Diego is a large, brown dog. Carly loves her family!",
+  "options": [
+   "3",
+   "4",
+   "6",
+   "5"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 71,
+  "subject": "ENGLESKI",
+  "topic": "Čitanje i razumijevanje",
+  "level": "VISI",
+  "question": "According to the traditional instrument classification system piano is both_________________ and ___________________instrument.",
+  "passage": "One of the most popular musical instruments is the piano. In the traditional musical instrument classification system of string, woodwind, percussion and brass, the piano falls into two categories. It is considered a string instrument because the sound comes from the strings inside the piano. It is also considered a percussion instrument, since the player strikes the keyboard, which signals an internal hammer to strike the strings.",
+  "options": [
+   "a string/ a percussion",
+   "a string/ a wind",
+   "a string/a indigenous folk",
+   "a wind/ a percussion"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 72,
+  "subject": "ENGLESKI",
+  "topic": "Čitanje i razumijevanje",
+  "level": "VISI",
+  "question": "_________________ caused many Irish to immigrate to the United States.",
+  "passage": "Irish immigration to the United States began during the early development of the American colonies. It is estimated that 200,000 Irish came to the U.S. in the 17th and 18th centuries. The numbers swelled from 1820 to 1850 to almost 2 million Irish immigrants. Most of these were running away from starvation, from 1845 until 1852. Steady numbers continued to arrive during the late 19th and 20th centuries. Today, over 36 million Americans claim some level of Irish ancestry.",
+  "options": [
+   "Lack of drinking water",
+   "The desire to become rich",
+   "Starvation",
+   "Warfare"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 73,
+  "subject": "ENGLESKI",
+  "topic": "Čitanje i razumijevanje",
+  "level": "VISI",
+  "question": "What was the purpose of organizing the Girl Scouts?",
+  "passage": "Juliette \"Daisy\" Gordon Low organized the first group of Girl Scouts on March 12, 1912, because she wanted to give girls the opportunity to get out of the house and get involved in their community and the outdoors. She got the idea of starting a girls' group after spending time in England with General Robert Baden-Powell and his sister Agnes, who had founded the Boy Scouts and the Girl Guides. Low took these ideas back to the U.S. and established the Girl Guides of America. It started out as a group of 18 girls who met regularly with a naturalist to go on nature walks, cook meals over campfires, and do other \"scouting\" activities.",
+  "options": [
+   "To give girls the opportunity to get out of the house and get involved in their community and the outdoors.",
+   "Give girls the opportunity to stay at home and get involved in the work.",
+   "Give girls the opportunity to stay at home.",
+   "To give girls the opportunity to get out of the house."
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 74,
+  "subject": "ENGLESKI",
+  "topic": "Čitanje i razumijevanje",
+  "level": "VISI",
+  "question": "In the winter, it was warm in the classroom because_____________________.",
+  "passage": "In the 19th and early 20th centuries, most American students attended a one-room schoolhouse. A single teacher would typically have students from the first through eighth grade, and he/she taught them all. The number of students varied from six to forty or more. The youngest children sat in the front, while the oldest students sat in the back. The teacher usually taught reading, writing, arithmetic, history, and geography. Students memorized and recited their lessons. The classroom of a one-room schoolhouse probably looked much like your own. The teacher's desk used to be on a raised platform in the front of the room and there was a wood-burning stove.",
+  "options": [
+   "there was a coal-burning stove.",
+   "there was a oil-burning stove.",
+   "there was a wood-burning stove.",
+   "there was an electric stove."
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 75,
+  "subject": "ENGLESKI",
+  "topic": "Čitanje i razumijevanje",
+  "level": "VISI",
+  "question": "What reason does the author give to support why Australia is called \"The Land Down Under\"?",
+  "passage": "Australia is a country. It is also a continent and an island. A lot of the country is desert, but the climate varies. The country is surrounded by water, so it has a lot of beaches. It is called \"The Land Down Under.\" That is because it is on the southern part of the globe. Much of the country is covered with plants. It is also home to many animals you will not find anywhere else in the world.",
+  "options": [
+   "Because it is on the northern part of the globe.",
+   "Because it is on the southern part of the globe.",
+   "Because it is on the right part of the globe.",
+   "Not mentioned in the text."
+  ],
+  "correct_index": 1
+ }
+]

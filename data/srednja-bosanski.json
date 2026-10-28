@@ -1,0 +1,4517 @@
+[
+ {
+  "original_no": 1,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "OSNOVNI",
+  "question": "Kako se pišu višečlani nazivi naseljenih mjesta?",
+  "passage": null,
+  "options": [
+   "samo se prvi član piše velikim slovom",
+   "svi članovi pišu se velikim slovom",
+   "velikim slovom pišu se svi članovi osim prijedloga i veznika",
+   "velikim slovom pišu se svi članovi bez obzira na to kojoj vrsti riječi pripadaju"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 2,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "OSNOVNI",
+  "question": "Gdje upotrebljavamo tačku kao interpunkcijski znak?",
+  "passage": null,
+  "options": [
+   "iza klauza unutar složene rečenice",
+   "na kraju upitne rečenice",
+   "na kraju izjavne rečenice",
+   "prilikom nabrajanja"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 3,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "OSNOVNI",
+  "question": "Prema pravilima o pisanju velikog i malog početnog slova tačno je napisano:",
+  "passage": null,
+  "options": [
+   "jadransko More, crno More, mrtvo More",
+   "jadransko more, crno more, mrtvo more",
+   "Jadransko more, Crno more, Mrtvo more",
+   "Jadransko More, Crno More, Mrtvo More"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 4,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "OSNOVNI",
+  "question": "U kojoj rečenici je pravilno napisan naziv institucije?",
+  "passage": null,
+  "options": [
+   "Učenik sam gimnazije Ismet Mujezinović.",
+   "Učenik sam Gimnazije „Ismet Mujezinović”.",
+   "Učenik sam Gimnazije Ismet Mujezinović.",
+   "Učenik sam „gimnazije Ismet Mujezinović”."
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 5,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "OSNOVNI",
+  "question": "Prema pravilima o pisanju velikog i malog početnog slova tačno je napisano:",
+  "passage": null,
+  "options": [
+   "Sniježničko Jezero, Panonsko Jezero, Modračko jezero",
+   "Sniježničko jezero, Panonsko jezero, Modračko jezero",
+   "sniježničko jezero, panonsko jezero, modračko jezero",
+   "sniježničko Jezero, panonsko Jezero, modračko Jezero"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 6,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "OSNOVNI",
+  "question": "Koje vlastito ime nije napisano pravilno?",
+  "passage": null,
+  "options": [
+   "Žuta rijeka",
+   "Atlantski okean",
+   "Južno Kinesko more",
+   "Panonska nizija"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 7,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "OSNOVNI",
+  "question": "Kako se pišu naslovi knjiga, poglavlja, odlomaka, časopisa, novina, zakona, filmova, likovnih i drugih umjetničkih djela?",
+  "passage": null,
+  "options": [
+   "velikim slovom piše se prvi član i član koji se inače piše velikim slovom",
+   "svi članovi pišu se velikim slovom",
+   "velikim slovom pišu se svi članovi osim prijedloga i veznika",
+   "velikim slovom pišu se svi članovi bez obzira na to kojoj vrsti riječi pripadaju"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 8,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "OSNOVNI",
+  "question": "Pravilno je napisano:",
+  "passage": null,
+  "options": [
+   "Nedavno smo proslavili osmi Mart, međunarodni Dan žena.",
+   "Nedavno smo proslavili Osmi Mart, Međunarodni dan Žena.",
+   "Nedavno smo proslavili Osmi mart, Međunarodni dan žena.",
+   "Nedavno smo proslavili osmi mart, međunarodni dan žena."
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 9,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "OSNOVNI",
+  "question": "Pravilno naveden upravni govor je:",
+  "passage": null,
+  "options": [
+   "«Donesi mi malo cvijeća za vazu», reče mi majka.",
+   "«Donesi mi malo cvijeća za vazu», : reče mi majka.",
+   "Donesi mi malo cvijeća za vazu: «reče mi majka».",
+   "«Donesi mi malo cvijeća za vazu, reče mi majka»."
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 10,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "OSNOVNI",
+  "question": "U kojoj rečenici je pravilno napisan naziv institucije?",
+  "passage": null,
+  "options": [
+   "Moja majka radi u Domu zdravlja „Dr. Mustafa Šehović“ u Tuzli.",
+   "Moja majka radi u domu zdravlja „Dr. Mustafa Šehović“ u Tuzli.",
+   "Moja majka radi u Domu Zdravlja „Dr. Mustafa Šehović“ u Tuzli.",
+   "Moja majka radi u Domu zdravlja „dr. Mustafa Šehović“ u Tuzli."
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 11,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "OSNOVNI",
+  "question": "Odrična riječca ne uz glagole se piše odvojeno. Izuzetak su glagolski oblici:",
+  "passage": null,
+  "options": [
+   "nemoj, neću, nemam",
+   "nemogu, nisam, neznam",
+   "nemoj, neznam, nemam",
+   "neznam, nemam, neću"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 12,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "OSNOVNI",
+  "question": "Jedan niz riječi napisan je pravilno.",
+  "passage": null,
+  "options": [
+   "nesreća, nemio, ne znam, neću, nevoljko",
+   "ne sreća, nemio, ne znam, neću, ne voljko",
+   "nesreća, nemio, neznam, neću, nevoljko",
+   "ne sreća, ne mio, neznam, neću, ne voljko"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 13,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "OSNOVNI",
+  "question": "Koja tvrdnja za upotrebu tačke nije tačna?",
+  "passage": null,
+  "options": [
+   "Tačka se stavlja na kraju izjavne rečenice.",
+   "Tačka se stavlja iza rednih brojeva.",
+   "Tačka se stavlja iza rimskih brojeva kojima je obilježen mjesec u datumima.",
+   "Tačka se stavlja iza nekih skraćenica."
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 14,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "OSNOVNI",
+  "question": "Jedan niz riječi napisan je pravilno.",
+  "passage": null,
+  "options": [
+   "vidjeo, cjev, dio, htjeo",
+   "vidio, cio, dio, htio,",
+   "vidijo, cijo, dijo, htio",
+   "video, ceo, dijo, htijo"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 15,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "OSNOVNI",
+  "question": "Kako se pišu imena sazviježđa i nebeskih tijela?",
+  "passage": null,
+  "options": [
+   "mala kola, halejeva kometa, saturn, mliječni put",
+   "Mala kola, Halejeva kometa, Saturn, Mliječni put",
+   "Veliki Medvjed, Halejeva Kometa, Saturn, Mliječni Put",
+   "veliki Medvjed, halejeva Kometa, Saturn, mliječni Put"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 16,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "OSNOVNI",
+  "question": "Uz jedan glagol riječca ne napisana je pogrešno.",
+  "passage": null,
+  "options": [
+   "ne čuh",
+   "ne dostajati",
+   "nestati (iščeznuti)",
+   "ne pogledavši"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 17,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "OSNOVNI",
+  "question": "Kada se upotrebljava dvotačka?",
+  "passage": null,
+  "options": [
+   "kada se izostavlja dio tuđeg teksta",
+   "kad tekst koji slijedi sadrži objašnjenje ili zaključak teksta koji prethodi i ispred jedinica u nabrajanju",
+   "ukoliko se iz teksta koji se prenosi izostavi jedna rečenica",
+   "unutar odlomka između rečenica"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 18,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "OSNOVNI",
+  "question": "Kako se pišu članovi naziva država, kontinenata i naseljenih mjesta?",
+  "passage": null,
+  "options": [
+   "svi članovi pišu se velikim slovom",
+   "velikim slovom pišu se svi članovi osim prijedloga i veznika",
+   "samo se prvi član piše velikim slovom",
+   "velikim slovom pišu se svi članovi bez obzira na to kojoj vrsti riječi pripadaju"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 19,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "OSNOVNI",
+  "question": "U geografskih/zemljopisnih imena velikim početnim slovom pišu se:",
+  "passage": null,
+  "options": [
+   "svi članovi",
+   "samo prvi član",
+   "samo prvi član ukoliko se ostali sami po sebi ne pišu velikim početnim slovom",
+   "samo prvi član bez obzira na svojstvo ostalih članova"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 20,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "OSNOVNI",
+  "question": "Prema pravilima o pisanju velikog i malog početnog slova tačno je napisano:",
+  "passage": null,
+  "options": [
+   "Aleja bosne srebrene, Trg heroja, Bulevar meše selimovića",
+   "Aleja Bosne Srebrene, Trg Heroja, Bulevar Meše Selimovića",
+   "Aleja Bosne srebrene, Trg heroja, Bulevar Meše Selimovića",
+   "aleja Bosne srebrene, trg Heroja, bulevar Meše Selimovića"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 21,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "OSNOVNI",
+  "question": "U kojoj rečenici su pravilno obilježeni pravopisni znaci?",
+  "passage": null,
+  "options": [
+   "Upisala se u Gimnaziju Meša Selimović u Tuzli školske 1998-99. godine.",
+   "Upisala se u gimnaziju „Meša Selimović“ u Tuzli, školske 1998/ʾ99. godine.",
+   "Upisala se u Gimnaziju „Meša Selimović“ u Tuzli školske 1998/99. godine.",
+   "Upisala se u Gimnaziju „Meša Selimović“, u Tuzli, školske 1998.-ʾ99. godine."
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 22,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "OSNOVNI",
+  "question": "Kako se pišu prisvojni pridjevi izvedeni od vlastitih imena koji završavaju na -ov i -ev?",
+  "passage": null,
+  "options": [
+   "Velikim slovom pišu se svi prisvojni pridjevi izvedeni od vlastitih imena koji završavaju na -ov i -ev",
+   "Velikim slovom pišu se samo pridjevi izvedeni od vlastitih imena koji završavaju na -ov",
+   "Velikim slovom pišu se samo pridjevi izvedeni od vlastitih imena koji završavaju na -ev",
+   "Svi pridjevi izvedeni od vlastitih imena koji završavaju na -ov i -ev pišu se malim slovom"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 23,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "OSNOVNI",
+  "question": "Kako se pišu nazivi institucija?",
+  "passage": null,
+  "options": [
+   "samo se prvi član i vlastita imena, ukoliko ih ima, pišu velikim slovom",
+   "svi članovi pišu se velikim slovom",
+   "velikim slovom pišu se svi članovi osim prijedloga i veznika",
+   "velikim slovom pišu se svi članovi bez obzira na to kojoj vrsti riječi pripadaju"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 24,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "OSNOVNI",
+  "question": "Kako se piše riječca ne uz imenice, pridjeve i priloge?",
+  "passage": null,
+  "options": [
+   "sastavljeno uz imenice, pridjeve i priloge",
+   "sastavljeno uz imenice, a odvojeno od pridjeva i priloga",
+   "sastavljeno uz imenice i uz pridjeve, a odvojeno od priloga",
+   "sastavljeno uz pridjeve, a odvojeno od imenica i od priloga"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 25,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Jedan niz riječi nije napisan u skladu s pravilima pisanja riječce ne?",
+  "passage": null,
+  "options": [
+   "neznati, neznanje, nepoznat, negledajući, neću",
+   "ne znam, nevolja, nepodesan, nemoguće, nestajati",
+   "nisam, ne pogledavši, nesretna, nevoljko, nedostajati",
+   "ne bih, ne budem, ne znam, neobuzdan, nesretan"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 26,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Prema pravilima pisanja višečlanih brojeva pravilno napisan oblik broja 698 je:",
+  "passage": null,
+  "options": [
+   "šesto devedeset osam",
+   "šeststo devedeset osam",
+   "šeststodevedeset i osam",
+   "šesto devedesetosam"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 27,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Zaokruži slovo ispred tačno upotrijebljenog naziva institucije.",
+  "passage": null,
+  "options": [
+   "Medicinski fakultet Univerziteta u Tuzli",
+   "medicinski fakultet univerziteta u Tuzli",
+   "Medecinski fakultet Univerziteta u Tuzli",
+   "Medicinski Fakultet Univerziteta u Tuzli"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 28,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Jedan niz riječi nije napisan u skladu s pravilima pisanja riječce ne uz glagole.",
+  "passage": null,
+  "options": [
+   "neću, nemam, nisam, nemoj",
+   "ne bismo, ne bih, ne budem, ne znam",
+   "nebismo, nebih, nebudem, nemogu",
+   "ne radim, ne čuh, ne imadoh, ne htjedoh"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 29,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Prema pravilima pisanja višečlanih brojeva pravilno napisan oblik broja 60.679 je:",
+  "passage": null,
+  "options": [
+   "šezdeset hiljada šesto sedamdeset devet",
+   "šezdesethiljada šeststosedamdesetdevet",
+   "šezdeset hiljada šeststo sedamdeset devet",
+   "šesdeset hiljada šesto sedamdeset i devet"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 30,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Prema pravilima pisanja složenica i polusloženica pravilno je napisano:",
+  "passage": null,
+  "options": [
+   "autoškola, radiostanica, fotoaparat",
+   "auto škola, radio stanica, foto aparat",
+   "auto-škola, radio-stanica, foto-aparat",
+   "Auto-Škola, Radio stanica, Foto aparat"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 31,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Prema pravilima pisanja velikog i malog početnog slova tačno je napisano:",
+  "passage": null,
+  "options": [
+   "Bosansko Petrovo selo, Novi grad, Sanski most, Stari most u Mostaru",
+   "Bosansko Petrovo Selo, Novi Grad, Sanski Most, Stari most u Mostaru",
+   "bosansko Petrovo Selo, novi Grad, sanski Most, stari Most u Mostaru",
+   "Bosansko petrovo selo, Novi grad, Sanski most, Stari most u Mostaru"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 32,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Pravilno je upotrijebljen jedan naziv institucije:",
+  "passage": null,
+  "options": [
+   "Prirodno-matematički fakultet Univerziteta u Tuzli",
+   "Prirodno-matematički fakultet univerziteta u Tuzli",
+   "Prirodnomatematički fakultet univerziteta u Tuzli",
+   "Prirodno-Matematički Fakultet Univerziteta u Tuzli"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 33,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Pravilno je upotrijebljen jedan naziv institucije:",
+  "passage": null,
+  "options": [
+   "Interna klinika Univerzitetsko-kliničkog centra Tuzla",
+   "Interna Klinika Univerzitetsko-Kliničkog centra Tuzla",
+   "interna klinika Univerzitetsko-kliničkog centra Tuzla",
+   "interna Klinika univerzitetsko-kliničkog centra Tuzla"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 34,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Zaokruži slovo ispred tačno napisane rečenice:",
+  "passage": null,
+  "options": [
+   "Učenica sam prvog razreda frizerske škole u Javnoj ustanovi Mješovita srednja škola „Tuzla“.",
+   "Učenica sam prvog razreda Frizerske škole u Javnoj Ustanovi Mješovita srednja škola „Tuzla“.",
+   "Učenica sam prvog razreda frizerske škole u javnoj ustanovi Mješovita Srednja Škola „Tuzla“.",
+   "Učenica sam prvog razreda frizerske škole u Javnoj ustanovi mješovitoj srednjoj školi „Tuzla“."
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 35,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Jedan niz riječi nije napisan u skladu s pravilima pisanja riječce ne uz glagole.",
+  "passage": null,
+  "options": [
+   "nemoj, nisam, neću, nemam, ne gledajući",
+   "ne bih, ne čuh, ne mogu, ne pogledavši",
+   "nemogu, ne ću, nebismo, neznam",
+   "ne mogu, neću, ne bismo, ne vidjevši"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 36,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Prema pravilima o pisanju višečlanih brojeva pravilno napisan oblik broja 968 je:",
+  "passage": null,
+  "options": [
+   "devesto šezdeset osam",
+   "devetsto šezdeset osam",
+   "devetstošezdeset i osam",
+   "devetsto šesdeset i osam"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 37,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Koja skupina riječi nije napisana pravilno?",
+  "passage": null,
+  "options": [
+   "neznanje, nebriga, nesreća, nevolja",
+   "neznan, nesrećan, nemoguć, nepristojan",
+   "nemoguće, neprestano, nevoljko, nepristojno",
+   "negledajući, neznam, nemogu, nevidim, nenaspavan"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 38,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Koji je oblik potencijala pravilno napisan?",
+  "passage": null,
+  "options": [
+   "bih išao, bi išao, bi išao, bismo išli, biste išli, bi išli",
+   "bi išao, bi išao, bi išao, bismo išli, biste išli, bi išli",
+   "bih išao, bi išao, bi išao, bi smo išli, bi ste išli, bi išli",
+   "bih išao, bi išao, bi išao, bih išli, bih išli, bi išli"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 39,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Jedna je riječ napisana pravilno.",
+  "passage": null,
+  "options": [
+   "najjužniji",
+   "posle",
+   "uvjek",
+   "dole"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 40,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Zaokruži pogrešno napisanu rečenicu!",
+  "passage": null,
+  "options": [
+   "Vi sada pogledajte prijedloge pa ćemo zajedno odlučiti.",
+   "Ti sada pogledaj te prijedloge pa ćemo zajedno odlučiti.",
+   "Vi sada pogledaj te prijedloge pa ćemo zajedno odlučiti.",
+   "Vi sada pogledajte te prijedloge pa ćemo zajedno odlučiti."
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 41,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Koji je niz pojmova napisan pravilno?",
+  "passage": null,
+  "options": [
+   "Bosanski pašaluk, Obala slonove kosti, Novo selo",
+   "bosanski pašaluk, Obala slonove kosti, Novo selo",
+   "Bosanski pašaluk, Obala Slonove Kosti, Novo Selo",
+   "Bosanski Pašaluk, Obala Slonove Kosti, Novo selo"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 42,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Pravilno je napisano:",
+  "passage": null,
+  "options": [
+   "mostarac, bišćanin, tuzlak, sarajlija",
+   "Mostarac, Bihaćanin, Tuzlak, Sarajlija",
+   "Mostarac, Bišćanin, Tuzlak, Sarajlija",
+   "mostarac, bihaćanin, tuzlak, sarajlija"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 43,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "U kojem su nizu riječi tačno napisani svi nazivi?",
+  "passage": null,
+  "options": [
+   "Simin Han, Velika kladuša, Duboki potok, Brčanska malta",
+   "Simin han, Velika Kladuša, Duboki potok, Brčanska Malta",
+   "Simin Han, Velika Kladuša, Duboki Potok, Brčanska Malta",
+   "Simin Han, Velika kladuša, duboki Potok, brčanska Malta"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 44,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Koji niz riječi nije napisan u skladu s pravopisnim pravilima?",
+  "passage": null,
+  "options": [
+   "uraditi ćemo, ćeš napisati, moć ćeš, pisati ću",
+   "pisat ćemo, uradit ćeš, moći ćeš, gledat ću",
+   "gledat ćemo, napisat ćeš, uradit ću, doći će",
+   "moći ćeš, doći ćemo, pisat ću, gledat ćete"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 45,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Zaokruži slovo ispred pravilno napisanog broja 1/33!",
+  "passage": null,
+  "options": [
+   "jednatridesttrećina",
+   "jedna trideset trećina",
+   "jedna tridesettrećina",
+   "jedan kroz tridesettri"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 46,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Zaokruži slovo ispred rečenice koja je napisana u skladu s pravilima pisanja velikog i malog početnog slova.",
+  "passage": null,
+  "options": [
+   "Član sam fotografske sekcije Prve gimnazije u Sarajevu.",
+   "Član sam Fotografske sekcije Prve gimnazije u Sarajevu.",
+   "Član sam fotografske sekcije prve gimnazije u Sarajevu.",
+   "Član sam Fotografske sekcije prve Gimnazije u Sarajevu."
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 47,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Date su rečenice. U jednoj od njih pravopisni znaci nisu obilježeni kako treba.",
+  "passage": null,
+  "options": [
+   "Htio bih znati može li se to popraviti.",
+   "Ne zna se ni ko pije ni ko plaća.",
+   "Ua! Dolje laži.",
+   "Zar i ti, sine Brute?!"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 48,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Koji je naziv praznika pravilno napisan?",
+  "passage": null,
+  "options": [
+   "nova godina, Kurban-bajram, ramazanski bajram, uskrs, vaskrs",
+   "Praznik Rada, Kurban-Bajram, Ramazanski Bajram, Uskrs, Vaskrs",
+   "Dan državnosti, kurban-Bajram, ramazanski Bajram, Uskrs",
+   "Praznik rada, Kurban-bajram, Ramazanski bajram, Uskrs, Vaskrs"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 49,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Koja je rečenica upravnog govora tačno napisana?",
+  "passage": null,
+  "options": [
+   "„Nisam znala da i ti sve znaš“, šapnula je“.",
+   "„Nisam znala, da i ti sve znaš“, šapnula je.“",
+   "„Nisam znala da i ti sve znaš“, šapnula je.",
+   "„Nisam znala da i ti sve znaš šapnula je.“"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 50,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Prema pravilima o pisanju velikog i malog početnog slova tačno je napisano:",
+  "passage": null,
+  "options": [
+   "Tuzlanski kanton, Hercegovačko-neretvanski kanton, Srednjobosanski kanton",
+   "tuzlanski kanton, hercegovačko-neretvanski kanton, srednjobosanski kanton",
+   "Tuzlanski Kanton, Hercegovačko-Neretvanski Kanton, Srednjobosanski Kanton",
+   "tuzlanski Kanton, hercegovačko neretvanski Kanton, srednjobosanski Kanton"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 51,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Prema pravilima o pisanju složenica i polusloženica pravilno je napisano:",
+  "passage": null,
+  "options": [
+   "bosansko-hercegovačka država",
+   "bosankohercegovačka država",
+   "bosansko hercegovačka država",
+   "Bosansko-Hercegovačka država"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 52,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Prema pravilima o sastavljenom i rastavljenom pisanju riječi, ispravno je napisano:",
+  "passage": null,
+  "options": [
+   "fotoreporter, svijetloplav, rang-lista, asistent pripravnik",
+   "foto-reporter, svijetloplav, rang-lista, asistent pripravnik",
+   "fotoreporter, svijetlo-plav, ranglista, asistent-pripravnik",
+   "foto reporter, svijetlo plav, rang lista, asistent pripravnik"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 53,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Koji je naziv institucije tačno napisan?",
+  "passage": null,
+  "options": [
+   "Odsjek za romanistiku filozofskog fakulteta Univerziteta u Sarajevu",
+   "odsjek za romanistiku filozofskog fakulteta univerziteta u Sarajevu",
+   "Odsjek za romanistiku Filozofskog fakulteta Univerziteta u Sarajevu",
+   "Odsjek za Romanistiku Filozofskog Fakulteta Univerziteta u Sarajevu"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 54,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Dati su primjeri prenošenja riječi u novi red: crno- -bijeli banja- lučki srednjo- bosanski Kako bismo navedene riječi napisali u jednom redu?",
+  "passage": null,
+  "options": [
+   "crnobijeli, banja-lučki, srednjobosanski",
+   "crno-bijeli, banja-lučki, srednjobosanski",
+   "crno-bijeli, banjalučki, srednjobosanski",
+   "crnobijeli, banjalučki, srednjobosanski"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 55,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Jedan niz riječi napisan je u skladu s pravilima pisanja riječce \"ne\"?",
+  "passage": null,
+  "options": [
+   "nemajući, ne pogledavši, ne hrđa, nećemo, ne slušajući, nevjerovanje",
+   "nemajući, ne pogledavši, nehrđa, ne ćemo, ne slušajući, ne vjerovanje",
+   "nemajući, nepogledavši, ne hrđa, nečuju, ne dostajati, nevoljko",
+   "negledajući, ne budem, ne znam, neobuzdan, ne poznavši"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 56,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Jedna rečenica napisana je u skladu s pravilima o pisanju zareza.",
+  "passage": null,
+  "options": [
+   "Ne mogu prijatelju jer gubim čast mir i još nešto više.",
+   "Ne mogu, prijatelju, jer, gubim čast, mir i još nešto više.",
+   "Ne mogu, prijatelju, jer gubim čast, mir i još nešto više.",
+   "Ne mogu, prijatelju jer gubim čast mir i još nešto više."
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 57,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Koji je niz riječi napisan pravilno?",
+  "passage": null,
+  "options": [
+   "ne davno, nablizu, manje-više, urijetko, polakše",
+   "nedavno,na blizu,manje više,urijetko, polakše",
+   "nedavno, nablizu, manje-više, u rijetko, po lakše",
+   "nedavno, nablizu, manje-više, urijetko, polakše"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 58,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Koja je rečenica pravilno napisana?",
+  "passage": null,
+  "options": [
+   "Nemogu dozvoliti da budem neobrazovan i nenačitan.",
+   "Ne mogu dozvoliti da budem ne obrazovan i ne načitan.",
+   "Ne mogu dozvoliti da budem neobrazovan i ne načitan.",
+   "Ne mogu dozvoliti da budem neobrazovan i nenačitan."
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 59,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Koji od sljedećih primjera nije napisan pravilno?",
+  "passage": null,
+  "options": [
+   "U Srebreniku, 23. 9. 2014.",
+   "U Srebreniku, 23. IX 2014.",
+   "Srebrenik, 23. 9. 2014.",
+   "Srebrenik 23. IX. 2014."
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 60,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Koji je niz naziva država pravilno napisan?",
+  "passage": null,
+  "options": [
+   "Savezna republika Njemačka, Sjedinjene američke države, Ujedinjeni emirati",
+   "Savezna Republika Njemačka, Sjedinjene Američke Države, Ujedinjeni Emirati",
+   "Savezna republika Njemačka, Sjedinjene Američke države, Ujedinjeni emirati",
+   "savezna republika njemačka, sjedinjene američke države, ujedinjeni emirati"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 61,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Prema pravilima o pisanju naziva ulica pravilno je napisano:",
+  "passage": null,
+  "options": [
+   "ulica Isa bega Isakovića, Sarajevska Ulica",
+   "ulica Isa-Bega Isakovića, sarajevska Ulica",
+   "Ulica Isa-bega Isakovića, Sarajevska ulica",
+   "Ulica Isa-Bega Isakovića, Ulica Sarajevska"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 62,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Jedan niz riječi napisan je u skladu s pravilima pisanja riječce ne?",
+  "passage": null,
+  "options": [
+   "ne znati, ne znanje, ne poznat, nevidjevši, ne koji, nečovjek",
+   "ne znam, nevolja, nepodesan, neuredan, nekoji, nečovjek",
+   "nisam, ne gledajući, nesretna, nevoljko, ne koji, ne čovjek",
+   "nebih, nebudem, ne znam, neobuzdan, nesretan"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 63,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "SREDNJI",
+  "question": "Zaokruži pravilno napisan skup riječi!",
+  "passage": null,
+  "options": [
+   "vidila, želili, volile, prebolio, uspio, htio",
+   "vidjela, željeli, voljele, preboljeo, uspjeo, htjeo",
+   "vidjela, željeli, voljeli, prebolio, uspio, htio",
+   "vidila, želili, volili, preboljeo, uspjeo, htjeo"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 64,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "VISI",
+  "question": "Pažljivo pročitaj sljedeću rečenicu, koja je napisana u četiri oblika. Koja je od navedenih rečenica napisana pravilno?",
+  "passage": null,
+  "options": [
+   "Prema posljednjim podacima Pedagoškog zavoda Tuzlanskog kantona učenici naše škole ostvarili su naj bolje rezultate na školskim, kantonalnim i državnim takmičenjima, čemu je naj više doprinijela učenica M. S. koja je na petoj Juniorskoj olimpijadi matematičara Bosne i Hercegovine osvojila zapaženo 3. mjesto.",
+   "Prema posljednjim podacima Pedagoškog zavoda Tuzlanskog kantona učenici naše škole ostvarili su najbolje rezultate na školskim, kantonalnim i državnim takmičenjima, čemu je najviše doprinijela učenica M. S., koja je na Petoj juniorskoj olimpijadi matematičara Bosne i Hercegovine osvojila 3. mjesto.",
+   "Prema poslednjim podacima Pedagoškog zavoda Tuzlanskog Kantona učenici naše škole ostvarili su najbolje rezultate na školskim, kantonalnim i državnim takmičenjima, čemu je najviše doprinijela učenica M. S. koja je na petoj juniorskoj olimpijadi matematičara Bosne i Hercegovine osvojila zapaženo 3 mjesto.",
+   "Prema posljednjim podacima Pedagoškog Zavoda Tuzlanskog Kantona učenici naše škole ostvarili su najbolje rezultate na školskim, kantonalnim i državnim takmičenjima, čemu je najviše doprinijela učenica M. S., koja je na Petoj Juniorskoj Olimpijadi Matematičara Bosne i Hercegovine osvojila zapaženo 3. mjesto."
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 65,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "VISI",
+  "question": "Koja je rečenica napisana pravilno?",
+  "passage": null,
+  "options": [
+   "„Poštovani profesore“, upitaše đaci, „Možete li Vi uraditi prvi zadatak”?",
+   "„Poštovani profesore“, upitaše đaci, „možete li vi uraditi prvi zadatak?”",
+   "„Poštovani, profesore, upitaše đaci, možete li vi uradit prvi zadatak?”",
+   "„Poštovani profesore“, upitaše đaci, „možete li Vi uraditi prvi zadatak?”"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 66,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "VISI",
+  "question": "Koja je rečenica pravilno napisana?",
+  "passage": null,
+  "options": [
+   "Derviš i smrt, najpoznatije djelo tuzlaka Meše Selimovića roman je kojeg najčešće citiraju Bosanci i Hercegovci na internet-stranicama.",
+   "Derviš i smrt, najpoznatije djelo Tuzlaka Meše Selimovića, roman je koji najčešće citiraju Bosanci i Hercegovci na internet-stranicama.",
+   "Derviš i smrt, naj poznatije dijelo Tuzlaka Meše Selimovića, roman je kojeg najčešće citiraju Bosanci i Hercegovci na internet-stranicama.",
+   "Derviš i smrt, najpoznatije djelo Tuzlaka Meše Selimovića, roman je koji najčešće citiraju bosanci i hercegovci na internet-stranicama."
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 67,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "VISI",
+  "question": "Zaokruži slovo ispred pravilno napisane rečenice.",
+  "passage": null,
+  "options": [
+   "Mi bi željeli posjetiti Zemaljski muzej u Sarajevu.",
+   "Mi bismo želili posjetiti Zemaljski muzej u Sarajevu.",
+   "Mi bismo željeli posjetiti Zemaljski muzej u Sarajevu.",
+   "Mi bi smo željeli posjetit Zemaljski muzej u Sarajevu."
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 68,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "VISI",
+  "question": "Koja je rečenica napisana pravilno?",
+  "passage": null,
+  "options": [
+   "Ako Svemogući Stvoritelj ukaže svoju milost Bošnjacima u Bosni i Hercegovini, Kurban-bajram ove godine ne će biti vrijeme za tugu mnogima porodicama, koje do sada nisu imale priliku prinijeti žrtvu Svevišnjem.",
+   "Ako Svemogući Stvoritelj ukaže Svoju milost Bošnjacima u Bosni i Hercegovini, Kurban-bajram ove godine neće biti vrijeme za tugu mnogim porodicama koje do sada nisu imale priliku prinijeti žrtvu Svevišnjem.",
+   "Predstavnici Instituta za jezik iz Sarajeva posjetili su ne davno Narodnu i univerzitetsku biblioteku Derviš Sušić u Tuzli s namjerom da u arhivi ove Biblioteke pokušaju pronaći spise, koji sadrže podatke o jezičkim aktivnostima u doba bivše Jugoslavije.",
+   "Predstavnici Instituta za Jezik iz Sarajeva posjetili su nedavno Narodnu i univerzitetsku biblioteku Derviš Sušić u Tuzli s namjerom da u arhivi ove biblioteke pokušaju pronaći spise, koji sadrže podatke o jezičkim aktivnostima u doba Bivše Jugoslavije."
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 69,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "VISI",
+  "question": "Pažljivo pročitaj sljedeće rečenice! Koja je od navedenih varijanti napisana pravilno?",
+  "passage": null,
+  "options": [
+   "Dječak Enes Hodžić bio je učenik Javne Ustanove osnovne škole “Mejdan” u Tuzli. Tragično je stradao od neprijateljske granate 18. 11. 1994. godine. Granata je ispaljena s lokacije Biljeg, na Majevici. O njemu je snimljen dokumentarni film “dječija svita” čiju režiju potpisuje njegov nastavnik Jusuf Jaganjac.",
+   "Dječak Enes Hodžić bio je učenik Javne ustanove Osnovna škola “Mejdan” u Tuzli. Tragično je stradao od neprijateljske granate 18. 11. 1994. godine. Granata je ispaljena s lokacije Biljeg, na Majevici. O njemu je snimljen dokumentarni film “Dječija svita”, čiju režiju potpisuje njegov nastavnik Jusuf Jaganjac.",
+   "Dječak Enes hodžić je bio učenik javne Ustanove osnovne škole “Mejdan” u Tuzli. Tragično je stradao od neprijateljske granate 18. 11. 1994. godine. Granata je ispaljena s lokacije Biljeg, na Majevici. O njemu je snimljen dokumentarni film “dječija svita”, čiju režiju potpisuje njegov nastavnik Jusuf Jaganjac.",
+   "Dječak Enes Hodžić je bio učenik Javne ustanove osnovna škola Mejdan u Tuzli. Tragično je stradao od neprijateljske granate 18. 11. 1994. godine. Granata je ispaljena s lokacije Biljeg, na majevici. O njemu je snimljen dokumentarni film “dječija svita”, čiju režiju potpisuje njegov nastavnik, Jusuf Jaganjac."
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 70,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "VISI",
+  "question": "Koja je rečenica napisana u skladu s pravopisnim pravilima?",
+  "passage": null,
+  "options": [
+   "“Sutra, dragi učenici, nema nastave”, rekao je direktor, “ali vi ste obavezni doći u školu.”",
+   "“Sutra, dragi učenici, nema nastave, rekao je direktor, ali vi ste obavezni doći u školu.”",
+   "“Sutra, dragi učenici, nema nastave”, rekao je direktor, „ali Vi ste obavezni doći u školu.“",
+   "“Sutra dragi učenici nema nastave”, obratio se direktor učenicima “ali Vi ste obavezni doći u školu.”"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 71,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "VISI",
+  "question": "Jedna rečenica nije napisana pravilno!",
+  "passage": null,
+  "options": [
+   "Nije dobio pozitivnu ocjenu iako je nešto znao o humanizmu i renesansi.",
+   "Krenuo je na dug put oko Atlanskog okeana.",
+   "Životinjski svijet u tom dijelu planete Zemlje vrlo je raznolik.",
+   "Taj prolaz odvaja Žuto more i Japansko more."
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 72,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "VISI",
+  "question": "Zaokruži slovo ispred pravilno napisanog niza rečenica:",
+  "passage": null,
+  "options": [
+   "Dali znaš? Morao je da vikne nebili ih umirio. Mi pošli, kadli se on pojavi. Ona je to bolje obavila negoli sam se nadao. Nije stigao ni da predahne, akamoli da sa mnom popriča.",
+   "Da li znaš? Morao je da vikne ne bi li ih umirio. Mi pošli, kadli se on pojavi. Ona je to bolje obavila negoli sam se nadao. Nije stigao ni da predahne, a kamoli da sa mnom popriča.",
+   "Dali znaš? Morao je da vikne nebili ih umirio. Mi pošli, kadli se on pojavi. Ona je to bolje obavila negoli sam se nadao. Nije stigao ni da predahne, a kamoli da samnom popriča.",
+   "Dali znaš? Morao je da vikne nebili ih umirio. Mi pošli, kadli se on pojavi. Ona je to bolje obavila negoli sam se nadao. Nije stigao ni da predahne, a kamoli da sa mnom popriča."
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 73,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "VISI",
+  "question": "Pažljivo pročitaj rečenicu koja je napisana u četiri oblika. Koja je od navedenih rečenica napisana pravilno?",
+  "passage": null,
+  "options": [
+   "Prije nego se pokupim i zauvijek napustim drevnu zemlju Afganistan i krenem u Perziju, hoću da odem u Gazni, grad koji je nekada bio najmoćniji, najprosvjećeniji i najsjajniji grad čitave Azije.",
+   "Prie nego se pokupim i zauvjek napustim drevnu zemlju Avganistan i krenem u Persiju hoću da odem u Gazni, grad koji je nekada bio naj moćnii, najprosvijećeniji i najsjajniji grad ćitave Azie.",
+   "Prije nego se pokupim i zauvijek napustim drevnu zemlju Afganistan i krenem u Perziju, hoću da odem u Gazni, grad koji je nekada bio naj- moćniji, najprosvjećeni i najsjajniji grad ćitave Azije.",
+   "Prije nego se pokupim i zauvjek napustim drevnu zemlju Afganistan i krenem u Persiju hoću da odem u Gazni, grad koji je nekada bijo naj moćnii, naj prosvijećeniji i najsjajniji grad ćitave Azie."
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 74,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "VISI",
+  "question": "Kako koristimo navodnike i zareze kod pisanja upravnog govora?",
+  "passage": null,
+  "options": [
+   "Rekao je: „U 'Opisu mostarskog mosta od Medžazije' luk Staroga mosta upoređen je sa svodom vasione.“",
+   "Rekao je: „U 'Opisu mostarskog mosta od Medžazije' luk Staroga mosta upoređen je sa svodom vasione“.",
+   "Rekao je: „U Opisu mostarskog mosta od Medžazije luk Staroga mosta upoređen je sa „svodom vasione“.“",
+   "Rekao je: „U Opisu mostarskog mosta od Medžazije“ luk Staroga mosta upoređen je sa svodom vasione.“"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 75,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "VISI",
+  "question": "Jedan broj pogrešno je napisan slovima:",
+  "passage": null,
+  "options": [
+   "620.241 – šeststo dvadeset hiljada dvjesta četrdeset i jedan",
+   "505 – petsto pet",
+   "505 – pet stotina pet",
+   "300 – tristo"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 76,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "VISI",
+  "question": "Jedna tvrdnja nije tačna:",
+  "passage": null,
+  "options": [
+   "sastavljeno se pišu superlativi pridjeva",
+   "rastavljeno se pišu pridjevi izvedeni od geografskih imena",
+   "sastavljeno se piše riječca ne uz priloge",
+   "rastavljeno se pišu zamjenice od riječci ma, bilo i put"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 77,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "VISI",
+  "question": "Kada se upotrebljava crta?",
+  "passage": null,
+  "options": [
+   "umjesto brojki i slova",
+   "samo u nabrajanju",
+   "u svim navedenim primjerima, osim u rečenicama sa više zareza",
+   "u dijelovima teksta koji sadrže naknadno objašnjenje, označavanje pauze, odjeljivanje umetnutih dijelova rečenice, pri nizanju odsječaka teksta jednih ispod drugih umjesto brojki i slova i u upravnom govoru"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 78,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "VISI",
+  "question": "Pažljivo pročitaj četiri varijante istih rečenica! Koje su od navedenih rečenica napisane pravilno?",
+  "passage": null,
+  "options": [
+   "U našem školskom listu behar objavljen je rad naj bolje učenice iz trećeg razreda. Ona je učestvovala i na raznim takmičenjima, a prema nedavnim podacima pedagoškog zavoda Tuzlanskog kantona osvojila je zapaženo 2 mjesto na dvadesetšestom općinskom takmičenju iz matematike. Direktor i pedagog škole zahvalili su se svim učenicima koji su učestvovali na takmičenju, a učenici koja je postigla najbolje rezultate dodijelili posebne nagrade.",
+   "U našem školskom listu „Behar“ objavljen je rad najbolje učenice iz trećeg razreda. Ona je učestvovala i na raznim takmičenjima, a prema nedavnim podacima Pedagoškog zavoda Tuzlanskog kantona osvojila je zapaženo 2. mjesto na Dvadeset šestom općinskom takmičenju iz matematike. Direktor i pedagog škole zahvalili su svim učenicima koji su učestvovali na takmičenju, a učenici koja je postigla najbolje rezultate dodijelili posebne nagrade.",
+   "U našem školskom listu „Behar“ objavljen je rad naj bolje učenice iz trećeg razreda. Ona je učestvovala i na raznim takmičenjima, a prema ne davnim podacima Pedagoškog zavoda Tuzlanskog kantona osvojila je zapaženo 2. mjesto na 26. općinskom takmičenju iz matematike. Direktor i pedagog škole zahvalili su se svim učenicima koji su učestvovali na takmičenju, a učenici koja je postigla naj bolje rezultate dodjelili posebne nagrade.",
+   "U našem školskom listu behar objavljen je rad najbolje učenice iz trećeg razreda. Ona je učestvovala i na raznim takmičenjima, a prema ne davnim podacima Pedagoškog Zavoda Tuzlanskog Kantona osvojila je zapaženo 2 mjesto na XXVI. općinskom takmičenju iz matematike. Direktor i pedagog škole zahvalili su se svim učenicima, koji su učetvovali na takmičenju, a učenici, koja je postigla najbolje rezultate dodjelili posebne nagrade."
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 79,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "VISI",
+  "question": "Jedna rečenica napisana je pravilno!",
+  "passage": null,
+  "options": [
+   "Ivo Andrić dobitnik je nobelove nagrade za književnost, a česta tema njegovih djela su mostovi.",
+   "Ivo Andrić dobitnik je nobelove nagrade za književnost, a česta tema njegovi djela su Mostovi.",
+   "Ivo Andrić dobitnik je Nobelove nagrade za književnost, a česta tema njegovih djela su mostovi.",
+   "Ivo Andrić dobitnik je Nobelove nagrade za Književnost, a česta tema njegovih dijela su mostovi."
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 80,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "VISI",
+  "question": "Prema pravilima o pisanju velikog i malog slova tačno je napisan jedan niz naziva:",
+  "passage": null,
+  "options": [
+   "Prvi Svjetski Rat, Rusko-Japanski Rat, Francuska Revolucija, Bitka na Bedru",
+   "Vijeće sigurnosti Organizacije ujedinjenih naroda, Nastavničko vijeće Osnovne škole „Mehmedalija Mak Dizdar“, Zakon o srednjoj školi, Crnogorac",
+   "Evropska unija, Nogometni klub „Željezničar“, Amerikanac, Kršćanin, Musliman",
+   "Bog Allah, Jehova, boginja Aruru, Snješko Bijelić, Večernji List, Šetoaprilska Nagrada Grada Sarajeva"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 81,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "VISI",
+  "question": "Kako pravilno koristimo pravopisne znake?",
+  "passage": null,
+  "options": [
+   "Zašto hodža jedeš sa pet prsta, upita ga.\nZato što nemam šest odgovori mu on.",
+   "„Zašto hodža jedeš sa pet prsta“, upita ga?\n„Zato što nemam šest“ odgovori mu on.",
+   "„Zašto, hodža, jedeš sa pet prsta?“, upita ga.\n„Zato što nemam šest“, odgovori mu hodža.",
+   "„Zašto, hodža, jedeš sa pet prsta?“, Upita ga.\n„Zato što nemam šest“ Odgovori mu hodža."
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 82,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "VISI",
+  "question": "Pažljivo pročitaj sljedeću rečenicu, koja je napisana u četiri oblika. Koja je od navedenih rečenica napisana pravilno?",
+  "passage": null,
+  "options": [
+   "Ahmet Hromadžić (rođen 1923. u selu Bjelaj kod Bosanskog petrovca), najveći pripovjedač bošnjačke dječije književnosti, napisao je, pored ostaloga, i sljedeća djela: Patuljak vam priča, Patuljak iz Zaboravljene Zemlje, Okamenjeni vukovi, Zlatorun, Zelengor, Bistri potoci, Bijeli slavuj, Dječak jaše konja, Bijeli cvijet i Labudova poljana.",
+   "Ahmet Hromadžić (rođen 1923. u selu Bjelaj, kod Bosanskog Petrovca), najveći pripovjedač bošnjačke dječije književnosti, napisao je, pored ostaloga, i sljedeća djela: Patuljak vam priča, Patuljak iz Zaboravljene Zemlje, Okamenjeni vukovi, Zlatorun, Zelengor, Bistri potoci, Bijeli slavuj, Dječak jaše konja, Bijeli cvijet i Labudova poljana.",
+   "Ahmet Hromadžić (rođen 1923. u selu Bjelaj kod Bosanskog Petrovca najveći pripovjedač Bošnjačke dječije književnosti, napisao je, pored ostaloga, i sljedeća djela: Patuljak vam priča, Patuljak iz Zaboravljene Zemlje, Okamenjeni vukovi, Zlatorun, Zelengor, \"Bistri potoci“, Bijeli slavuj, Dječak jaše konja, Bijeli cvijet i Labudova poljana.",
+   "Ahmet Hromadžić (rođen 1923. u selu Bjelaj kod Bosanskog Petrovca), naj veći pripovijedač bošnjačke dječije književnosti, napisao je, pored ostaloga, i sledeća djela: Patuljak vam priča, Patuljak iz zaboravljene zemlje, Okamenjeni vukovi, Zlatorun, Zelengor, Bistri potoci, Bijeli slavuj, Dječak jaše konja, Bijeli cvijet i Labudova poljana.\nZaokruži tačan odgovor!"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 83,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "VISI",
+  "question": "Pažljivo pročitaj rečenicu koja je napisana u četiri oblika. Koja je od navedenih varijanti rečenice napisana pravilno?",
+  "passage": null,
+  "options": [
+   "Prema posljednjim podacima Ministarstva za obrazovanje i nauku tuzlanskog kantona, broj učenika manji je za pesto pedeset pet u odnosu na prethodnu školsku godinu.",
+   "Prema posljednjim podacima Ministarstva za obrazovanje i nauku Tuzlanskog kantona, broj učenika manji je za petsto pedeset pet u odnosu na prethodnu školsku godinu.",
+   "Prema poslednjim podacima Ministarstva obrazovanja i nauke Tuzlanskog Kantona, broj učenika je manji za petsto pedesetpet u odnosu na predhodnu školsku godinu.",
+   "Prema posljednjim podatcima Ministarstva za obrazovanje i nauku tuzlanskog kantona, broj učenika manji je za petstopedeset pet u odnosu na predhodnu školsku godinu."
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 84,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "VISI",
+  "question": "Zaokruži slovo ispred tačnog odgovora! Koja je rečenica pravilno napisana?",
+  "passage": null,
+  "options": [
+   "Film Danisa Tanovića Ničija zemlja osvojio je Oskara 2001 godine.",
+   "Film Danisa Tanovića Ničija Zemlja osvojio je Oskara 2001. godine.",
+   "Film Danisa Tanovića Ničija zemlja osvojio je oskara 2001. godine.",
+   "Film Danisa Tanovića „Ničija zemlja“ osvojio je Oskara 2001. godine."
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 85,
+  "subject": "BOSANSKI",
+  "topic": "Pravopis",
+  "level": "VISI",
+  "question": "Jedan niz riječi napisan je pravilno.",
+  "passage": null,
+  "options": [
+   "djetinstvo, suprostavljen, predsjednik, podpisati, sljedeći, prethodni",
+   "ljudski, pretstava, potpredsjednik, predpostavka, usled, bogastvo",
+   "bezvučni, bezsmrtan, učionica, prehrambeni, životne namjernice",
+   "bezakonje, besciljan, odslušati, predškolski, hljepčić"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 86,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "OSNOVNI",
+  "question": "Koja je rečenica pravilno napisana?",
+  "passage": null,
+  "options": [
+   "Predstavnici instituta za jezik iz Sarajeva posjetili su nedavno narodnu i univerzitetsku biblioteku „Derviš Sušić“ u Tuzli s namjerom da u arhivi ove biblioteke pokušaju pronaći spise, koji sadrže podatke o jezičkim aktivnostima u doba bivše Jugoslavije",
+   "Predstavnici Instituta za jezik iz Sarajeva posjetili su nedavno Narodnu i univerzitetsku biblioteku „Derviš Sušić“ u Tuzli s namjerom da u arhivi ove biblioteke pokušaju pronaći spise koji sadrže podatke o jezičkim aktivnostima u doba bivše Jugoslavije.",
+   "Predstavnici Instituta za jezik iz Sarajeva posjetili su ne davno Narodnu i univerzitetsku biblioteku Derviš Sušić u Tuzli s namjerom da u arhivi ove Biblioteke pokušaju pronaći spise, koji sadrže podatke o jezičkim aktivnostima u doba bivše Jugoslavije.",
+   "Predstavnici Instituta za Jezik iz Sarajeva posjetili su nedavno Narodnu i univerzitetsku biblioteku Derviš Sušić u Tuzli s namjerom da u arhivi ove biblioteke pokušaju pronaći spise, koji sadrže podatke o jezičkim aktivnostima u doba Bivše Jugoslavije."
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 87,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "OSNOVNI",
+  "question": "Koliko dijalekata ima naš jezik?",
+  "passage": null,
+  "options": [
+   "sedam",
+   "tri",
+   "dva",
+   "pet"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 88,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "OSNOVNI",
+  "question": "Koje riječi mogu imati samo silazne akcente (duge i kratke)?",
+  "passage": null,
+  "options": [
+   "imenice",
+   "glagoli",
+   "jednosložne riječi",
+   "sve vrste riječi"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 89,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "OSNOVNI",
+  "question": "Zaokruži netačnu tvrdnju o raspodjeli akcenata u standardnom jeziku:",
+  "passage": null,
+  "options": [
+   "Silazni akcenti mogu stajati samo na prvom slogu višesložne riječi",
+   "Posljednji slog višesložne riječi može imati samo silazni akcent",
+   "Nenaglašeni dugi slogovi mogu stajati samo iza naglašenih slogova",
+   "Uzlazni akcenti mogu stajati na svim slogovima višesložne riječi osim na zadnjem"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 90,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "OSNOVNI",
+  "question": "Skraćeni (enklitički) oblici prezenta pomoćnog glagola biti, oblika jesam, glase:",
+  "passage": null,
+  "options": [
+   "jesam, jesi, jest, jesmo, jeste, jesu",
+   "sam, si, je, smo, ste, su",
+   "budem, budeš, bude, budemo, budete, budu",
+   "ne postoje skraćeni oblici"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 91,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "OSNOVNI",
+  "question": "Jedan od navedenih glagolskih oblika je uljez, jer ne iskazuje glagolsku radnju u prošlosti:",
+  "passage": null,
+  "options": [
+   "perfekt",
+   "prezent",
+   "imperfekt",
+   "pluskvamperfekt"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 92,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "OSNOVNI",
+  "question": "Prvo slavensko pismo je:",
+  "passage": null,
+  "options": [
+   "latinica",
+   "ćirilica",
+   "glagoljica",
+   "arebica"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 93,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "OSNOVNI",
+  "question": "Kojim je pismom napisana Povelja Kulina bana?",
+  "passage": null,
+  "options": [
+   "bosanskom ćirilicom / bosančicom",
+   "glagoljicom",
+   "arebicom",
+   "latinicom"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 94,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "OSNOVNI",
+  "question": "Jedan od navedenih glagolskih oblika nije glagolsko vrijeme:",
+  "passage": null,
+  "options": [
+   "imperfekt",
+   "imperativ",
+   "pluskvamperfekt",
+   "aorist"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 95,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "OSNOVNI",
+  "question": "Nezavisni padeži su:",
+  "passage": null,
+  "options": [
+   "nominativ i akuzativ",
+   "nominativ i vokativ",
+   "nominativ i lokativ",
+   "akuzativ i instrumental"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 96,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "OSNOVNI",
+  "question": "Glagoli se:",
+  "passage": null,
+  "options": [
+   "dekliniraju",
+   "kompariraju",
+   "konjugiraju",
+   "kongruiraju"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 97,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "OSNOVNI",
+  "question": "Samoglasnici (vokali) u našem jeziku su:",
+  "passage": null,
+  "options": [
+   "a, e, i, o, u",
+   "j, v, r, l, lj, m, n, nj",
+   "b, d, g, z, ž, dž, đ",
+   "p, t, k, s, š, ć"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 98,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "OSNOVNI",
+  "question": "Glagoli mogu biti: Zaokruži pogrešan odgovor!",
+  "passage": null,
+  "options": [
+   "svršeni, nesvršeni",
+   "prelazni, neprelazni",
+   "gradivni, zbirni",
+   "učestali, povratni"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 99,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "OSNOVNI",
+  "question": "Bosanski, hrvatski i srpski jezik spadaju u grupu:",
+  "passage": null,
+  "options": [
+   "istočnoslavenskih jezika",
+   "zapadnoslavenskih jezika",
+   "južnoslavenskih jezika",
+   "sjevernoslavenskih jezika"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 100,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "OSNOVNI",
+  "question": "Šta od ponuđenog nije akcenat?",
+  "passage": null,
+  "options": [
+   "kratkosilazni",
+   "kratkouzlazni",
+   "dugosilazni",
+   "postsilazni"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 101,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "OSNOVNI",
+  "question": "Imenice trnje, grmlje, djeca i pilad ubrajaju se u:",
+  "passage": null,
+  "options": [
+   "zajedničke imenice",
+   "vlastite imenice",
+   "zbirne imenice",
+   "gradivne imenice"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 102,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "OSNOVNI",
+  "question": "Kada je napisana Povelja Kulina bana?",
+  "passage": null,
+  "options": [
+   "1172. godine",
+   "1190. godine",
+   "1202. godine",
+   "1189. godine"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 103,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "OSNOVNI",
+  "question": "Prijedlozi su:",
+  "passage": null,
+  "options": [
+   "trkom, sporo, tečno, sada",
+   "i, pa, ne, mada, iako, zbog",
+   "pred, pri, mimo, kod, na, u",
+   "žal, sud, nar, dar, par"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 104,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "OSNOVNI",
+  "question": "Kako se zove morfem škol u riječi predškolski?",
+  "passage": null,
+  "options": [
+   "korijenski",
+   "prefiksalni",
+   "sufiksalni",
+   "afiksalni"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 105,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "OSNOVNI",
+  "question": "Najmanja jezička jedinica u jezičkoj strukturi nekog jezika je:",
+  "passage": null,
+  "options": [
+   "morfem",
+   "leksem",
+   "fonem",
+   "sintagma"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 106,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "OSNOVNI",
+  "question": "Koji niz sadrži sve organe koji učestvuju u stvaranju glasova?",
+  "passage": null,
+  "options": [
+   "grkljan, glasnice, nepce s resicom, jezik, usne, tvrdo nepce, zubi, pluća, desni",
+   "glasnice, nepce, jezik, zubi, pluća, desni, grkljan, usne, nepce s resicom, tvrdo nepce",
+   "pluća, dušnik, grkljan, jezik, usne, zubi, desni, tvrdo nepce, mehko nepce, resica, glasne žice, nosna šupljina, ždrijelna šupljina",
+   "grkljan, glasnice, nepce s resicom, jezik, usne, tvrdo nepce, zubi, pluća, desni"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 107,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "OSNOVNI",
+  "question": "Koji su suglasnici zvučni i imaju svoje bezvučne parnjake?",
+  "passage": null,
+  "options": [
+   "k, č, c, g, ž, z",
+   "l, v, r, lj",
+   "b, d, g, đ, dž, ž, z",
+   "p, t, k, č, ć, s, f, h, c"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 108,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "OSNOVNI",
+  "question": "Koji od navedenih glagolskih oblika ne iskazuje radnju u prošlom vremenu?",
+  "passage": null,
+  "options": [
+   "aorist",
+   "imperfekt",
+   "futur I",
+   "perfekt"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 109,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "OSNOVNI",
+  "question": "Zaokruži slovo ispred tačno navedene podjele riječi na vrste!",
+  "passage": null,
+  "options": [
+   "promjenljive (imenice, zamjenice, glagoli), polupromjenljive (pridjevi, brojevi, prilozi), nepromjenljive (prijedlozi, veznici, uzvici, riječce)",
+   "promjenljive (imenice, zamjenice, glagoli, pridjevi), polupromjenljive (brojevi, prilozi), nepromjenljive (prijedlozi, veznici, uzvici, riječce)",
+   "promjenljive (imenice, zamjenice, pridjevi, glagoli), polupromjenljive (brojevi), nepromjenljive (prilozi, prijedlozi, veznici, uzvici, riječce)",
+   "promjenljive (imenice, zamjenice, pridjevi, glagoli, prijedlozi), polupromjenljive (brojevi, prilozi), nepromjenljive (veznici, uzvici, riječce)"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 110,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "OSNOVNI",
+  "question": "Zaokruži slovo ispred tačnog odgovora. Koji su suglasnici zubni?",
+  "passage": null,
+  "options": [
+   "v, f",
+   "đ, č, ć, dž, lj, nj, ž, š",
+   "d, t, c, z, s",
+   "b, p, m"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 111,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "OSNOVNI",
+  "question": "Književni ili standardni jezik kao jedan od jezičkih idioma spada u:",
+  "passage": null,
+  "options": [
+   "organske idiome i nastao je prirodno",
+   "neorganske idiome i nastao je svjesnim utjecajem čovjeka",
+   "idiom je najvišeg ranga i nastao je spontano",
+   "idiom je najnižeg ranga i nastao je u narodu"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 112,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "OSNOVNI",
+  "question": "Morfem je:",
+  "passage": null,
+  "options": [
+   "vrsta riječi",
+   "najmanja jezička jedinica koja ima značenje i može samostalno stajati",
+   "najmanja jezička jedinica koja ima značenje ali ne može samostalno stajati",
+   "najmanja jezička jedinica koja nema značenje"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 113,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "OSNOVNI",
+  "question": "Deklinacija je skup oblika imenskih riječi koji podrazumijeva razlikovanje sljedećih gramatičkih kategorija:",
+  "passage": null,
+  "options": [
+   "roda, padeža, lica",
+   "padeža, broja, načina",
+   "roda, broja, padeža",
+   "lica, vremena, načina"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 114,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "OSNOVNI",
+  "question": "Suprotni veznici su:",
+  "passage": null,
+  "options": [
+   "i, pa, te, ni, niti",
+   "a, ali, nego, već, no",
+   "ili, ili – ili",
+   "dok, kad, pošto, prije nego"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 115,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "OSNOVNI",
+  "question": "U veznike spadaju riječi:",
+  "passage": null,
+  "options": [
+   "i, pa, te, ni, niti, a, ali, nego",
+   "u, na, po, prema, ka, sa, iza",
+   "jučer, danas, sutra, malo, mnogo, ovdje, ondje",
+   "i, pa, te, u, na, sa, iz, od"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 116,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "OSNOVNI",
+  "question": "Dopusni veznici su:",
+  "passage": null,
+  "options": [
+   "iako, makar, premda, mada",
+   "a, ali, nego, već",
+   "čim, dok, kad, tek, prije nego što, nakon što",
+   "koji, čiji, kakav, koliki"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 117,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "OSNOVNI",
+  "question": "Najmanja jezička jedinica koja nema značenje ali učestvuje u stvaranju razlike u značenju među riječima zove se:",
+  "passage": null,
+  "options": [
+   "fonem",
+   "morfem",
+   "riječ",
+   "rečenica"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 118,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "OSNOVNI",
+  "question": "Glagolski oblici koji označavaju radnju koja se desila u prošlosti su:",
+  "passage": null,
+  "options": [
+   "imperativ i potencijal",
+   "imperativ i prezent",
+   "perfekt i aorist",
+   "perfekt i futur I"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 119,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "Jedna je tvrdnja netačna!",
+  "passage": null,
+  "options": [
+   "Konjugacija je skup oblika kojima se označava vremenski tok u odnosu na trenutak govorenja",
+   "Dekliniraju se imenice, zamjenice, pridjevi i neki brojevi",
+   "U sistemu komparacije postoje tri stepena: pozitiv, komparativ i superlativ",
+   "Komparacijom / poređenjem ili stepenovanjem obuhvaćeni su svi pridjevi i svi prilozi"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 120,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "U rečenici Padoh naglavačke prepoznaj glagolsko vrijeme!",
+  "passage": null,
+  "options": [
+   "prezent",
+   "infinitiv",
+   "aorist",
+   "pluskvamperfekt"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 121,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "Koja imenica nije konkretna?",
+  "passage": null,
+  "options": [
+   "drvo",
+   "polje",
+   "more",
+   "sreća"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 122,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "Kako glasi prvo lice jednine imperativa glagola pjevati?",
+  "passage": null,
+  "options": [
+   "pjevao sam",
+   "pjevam",
+   "pjevat ću",
+   "nema oblika za prvo lice jednine"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 123,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "Prilozi su:",
+  "passage": null,
+  "options": [
+   "kod, nad, po, iz, za",
+   "tečno, brzo, dolje, nadohvat",
+   "a, e, i, o, u",
+   "i, pa, te, niti, ni"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 124,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "Kako se pravilno piše superlativ pridjeva jasan?",
+  "passage": null,
+  "options": [
+   "naj jasniji",
+   "najasniji",
+   "najjasniji",
+   "jasniji"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 125,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "U kojem se padežnom obliku nalazi označena imenica u datoj rečenici? Ahmede, dođi i pomozi mi da napišem zadaću!",
+  "passage": null,
+  "options": [
+   "u vokativu",
+   "u genitivu",
+   "u lokativu",
+   "nominativu"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 126,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "Imenice pijesak, so, ulje, šećer ubrajaju se u:",
+  "passage": null,
+  "options": [
+   "apstraktne imenice",
+   "gradivne imenice",
+   "zbirne imenice",
+   "vlastite imenice"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 127,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "Prepoznaj korijen riječi u sljedećem nizu riječi:\ndomovina, domaći, domaćica; proputovati, putnik, putovanje",
+  "passage": null,
+  "options": [
+   "dom i put",
+   "dom i nik",
+   "put i nik",
+   "anje i ina"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 128,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "U kojoj rečenici je upotrijebljen redni broj?",
+  "passage": null,
+  "options": [
+   "U krađi je učestvovao i jedan maloljetnik, a ne samo on.",
+   "Ona je na fotografiji ona druga zdesna.",
+   "Svoju ljubav poklonila je drugom.",
+   "I drugi su je voljeli kao i ja što sam."
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 129,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "U sljedećim nizovima riječi napisani su glagoli, a u jednom nizu su samo oni glagoli koji označavaju prošlost.",
+  "passage": null,
+  "options": [
+   "uradih, pjevam, trčim, pisali smo, raditi",
+   "uradih, zapjevah, trčim, pisati, radeći",
+   "uradivši, pjevajući, radit ću, trčeći, pišu",
+   "uradih, zapjevah, gledah, trčao sam, pisali su"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 130,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "Kako glasi dativ imenice Banja Luka?",
+  "passage": null,
+  "options": [
+   "Banja Luci",
+   "Banja Luke",
+   "Banja Luku",
+   "Banjoj Luci"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 131,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "U kojoj je riječi prisutan sufiks?",
+  "passage": null,
+  "options": [
+   "potpis",
+   "pročitati",
+   "iščitati",
+   "čitatelj"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 132,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "Jedna od navedenih sintagmi sadrži određeni pridjev:",
+  "passage": null,
+  "options": [
+   "visok čovjek",
+   "lijep čovjek",
+   "naglašeni slog",
+   "hrabar mladić"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 133,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "Samo je jedan oblik imperfekta pravilan.",
+  "passage": null,
+  "options": [
+   "bismo",
+   "bijahu",
+   "zapjevah",
+   "htjedoh"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 134,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "Jedna rečenica sadrži glagol u aoristu.",
+  "passage": null,
+  "options": [
+   "Popeo sam se na sam vrh.",
+   "Popeh se na sam vrh.",
+   "Bio sam se popeo na sam vrh.",
+   "Penjem se na sam vrh."
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 135,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "Pored pridjeva nalaze se prvi i drugi stepen poređenja (komparativ i superlativ). Jedna promjena nije pravilna?",
+  "passage": null,
+  "options": [
+   "dobar – bolji – najbolji",
+   "visok – visočiji – najvisočiji",
+   "lijep – ljepši – najljepši",
+   "sladak – slađi – najslađi"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 136,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "Kako glasi komparativ pridjeva zao?",
+  "passage": null,
+  "options": [
+   "najgori",
+   "lošiji",
+   "gori",
+   "najlošiji"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 137,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "Jedan niz riječi čine glagolske imenice!",
+  "passage": null,
+  "options": [
+   "čitati, pjevati, pisati, plivati",
+   "znam, volim, vjerujem, sanjam",
+   "san, ljubav, sreća, vrijeme",
+   "čitanje, pjevanje, pisanje, plivanje"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 138,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "Zaokruži slovo ispred rečenice u kojoj je riječ prijatelj upotrijebljena u dativu!",
+  "passage": null,
+  "options": [
+   "Sreo sam prijatelja.",
+   "Krenuo sam prijatelju.",
+   "Pričao mi je o prijatelju.",
+   "Šetao sam s prijateljem."
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 139,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "Zaokruži slovo ispred riječi s kratim akcentom!",
+  "passage": null,
+  "options": [
+   "drug",
+   "zlato",
+   "blag",
+   "mak"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 140,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "U rečenici Adnan je trčao brzo, Adi brže, a Alisa najbrže izvršena je komparacija jedne riječi. Ta se riječ ubraja u:",
+  "passage": null,
+  "options": [
+   "imenice",
+   "glagole",
+   "pridjeve",
+   "priloge"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 141,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "U kojem je padežu istaknuta riječ u rečenici Krenuo je u grad da kupi poklon.",
+  "passage": null,
+  "options": [
+   "akuzativu",
+   "nominativu",
+   "dativu",
+   "vokativu"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 142,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "U kojoj rečenici je riječ kolač upotrijebljena u akuzativu!",
+  "passage": null,
+  "options": [
+   "Ana je pojela komadić kolača.",
+   "Pojela sam kolač.",
+   "Kolač je preliven čokoladom.",
+   "Maja se raduje kolaču."
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 143,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "Riječi: noć, rad, most, moj imaju:",
+  "passage": null,
+  "options": [
+   "kratkosilazni akcent",
+   "kratkouzlazni akcent",
+   "dugosilazni akcent",
+   "dugoulazni akcent"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 144,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "U rečenici \"Taj film gledao je veoma pažljivo\" glagol \"gledati\" upotrijebljen je u:",
+  "passage": null,
+  "options": [
+   "futuru I",
+   "futuru II",
+   "perfektu",
+   "pluskvamperfektu"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 145,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "Koji se oblik imenice učenik nalazi u akuzativu jednine?",
+  "passage": null,
+  "options": [
+   "učenikom",
+   "učenik",
+   "učenika",
+   "učeniku"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 146,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "Zamjenica \"ništa\" u konstrukciji s prijedlogom \"od\" u genitivu ima oblik:",
+  "passage": null,
+  "options": [
+   "od ništa",
+   "ni od čega",
+   "niodčega",
+   "ni od šta"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 147,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "Koja je vrsta riječi riječ zamjenica?",
+  "passage": null,
+  "options": [
+   "zamjenica",
+   "pridjev",
+   "imenica",
+   "lična zamjenica"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 148,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "Zaokruži tačan odgovor ispred pravilno napisanog oblika aorista pomoćnog glagola \"biti\"!",
+  "passage": null,
+  "options": [
+   "budem, budeš, bude; budemo, budete, budu",
+   "bijah, bijaše, bijaše; bijasmo, bijaste, bijahu",
+   "budi; budimo, budite",
+   "bih, bi, bi, bismo, biste, biše"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 149,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "Zaokruži slovo ispred pravilno napisane rečenice:",
+  "passage": null,
+  "options": [
+   "Ja vučem, a oni ne vuču.",
+   "Primaoc krvi je zahvalan davaocu.",
+   "Moj klub sad igra u drugoj lizi.",
+   "Tuku se, iako znaju da je tuča pogrešan način rješavanja problema."
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 150,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "Koji je slog naglašen u riječi \"zaključati\"?",
+  "passage": null,
+  "options": [
+   "prvi",
+   "drugi",
+   "treći",
+   "četvrti"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 151,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "U kojoj je rečenici pogrešno upotrijebljen oblik zamjenice \"koji\"?",
+  "passage": null,
+  "options": [
+   "Ugledao je psa kojeg je lani izgubio.",
+   "Hvala na poklonu kojeg si mi poslao.",
+   "Pročitao sam roman koji si mi preporučio.",
+   "Pripremila sam izvještaj koji ste tražili."
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 152,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "U jednoj rečenici pomoćni glagol biti napisan je pravilno.",
+  "passage": null,
+  "options": [
+   "Mi bi pobijedili da smo dovoljno trenirali.",
+   "Mi bih pobijedili da smo dovoljno trenirali.",
+   "Mi bismo pobijedili da smo dovoljno trenirali.",
+   "Mi bi smo pobijedili da smo dovoljno trenirali."
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 153,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "SREDNJI",
+  "question": "Pokazne zamjenice su:",
+  "passage": null,
+  "options": [
+   "ništa, nikakav, niko",
+   "ta, ovaj, onaj",
+   "mene, njega, nas",
+   "naš, njihov, njezin"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 154,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "VISI",
+  "question": "Indonezija je država jugoistočne Azije. U ponuđenoj rečenici pronađi akcenat označene riječi.",
+  "passage": null,
+  "options": [
+   "kratkouzlazni akcenat na drugom slogu i kvantiteta na trećem slogu",
+   "dugosilazni akcenat na trećem slogu i kvantiteta na prvom slogu",
+   "kratkosilazni akcenat na drugom slogu i kvantiteta na četvrtom slogu",
+   "dugouzlazni akcenat na trećem slogu i kvantiteta na drugom slogu"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 155,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "VISI",
+  "question": "Osnovno značenje aorista je:",
+  "passage": null,
+  "options": [
+   "obilježavanje doživljene radnje koja je dugo trajala u prošlosti",
+   "obilježavanje radnje koja je izvršena u neposrednoj prošlosti i završila se prije trenutka govorenja",
+   "obilježavanje radnje koja se dešavala u prošlosti i završila u prošlosti",
+   "obilježavanje radnje koja se izvršila u prošlosti prije neke druge radnje"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 156,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "VISI",
+  "question": "Pročitaj odlomak iz Pjesme nad pjesmama, Biblija\n\nZaručnik:\nLijepa si, prijateljice moja, kao Tirsa,\nKrasna si kao Jeruzalem,\nStrašna kao vojska pod zastavama…\nZaručnica:\nJa pripadam dragome svome\n\nKoliko se puta u navedenim stihovima javljaju dvousneni (usneni, labijalni) suglasnici, a\nkoliko puta zadnjonepčani suglasnici?",
+  "passage": null,
+  "options": [
+   "dvousneni suglasnici 9 puta, zadnjonepčani suglasnici 10",
+   "dvousneni suglasnici 7 puta, zadnjonepčani suglasnici 11",
+   "dvousneni suglasnici 11 puta, zadnjonepčani suglasnici 7",
+   "dvousneni suglasnici 13 puta, zadnjonepčani suglasnici 5"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 157,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "VISI",
+  "question": "Prepoznaj redoslijed akcenata u riječima kuća, žena, ljudi i glava!",
+  "passage": null,
+  "options": [
+   "kratkosilazni, kratkouzlazni, dugosilazni, dugouzlazni",
+   "kratkouzlazni, dugouzlazni, kratkosilazni, dugosilazni",
+   "dugouzlazni, kratkosilazni, kratkouzlazni, dugosilazni",
+   "dugosilazni, kratkouzlazni, kratkosilazni, dugouzlazni"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 158,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "VISI",
+  "question": "Koji je od navedenih glagola prijelazni?",
+  "passage": null,
+  "options": [
+   "pisati",
+   "svjetlucati se",
+   "skakati",
+   "šutjeti"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 159,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "VISI",
+  "question": "Koji je glagol u sljedećoj rečenici upotrijebljen u pasivu: Oprala sam cipele i gledam jesu li dobro očišćene.",
+  "passage": null,
+  "options": [
+   "oprati",
+   "gledati",
+   "biti",
+   "očistiti"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 160,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "VISI",
+  "question": "U kojoj je od navedenih rečenica pravilno upotrijebljen prijedlog s?",
+  "passage": null,
+  "options": [
+   "Trgovao je s njemačkom robom.",
+   "Trgovao je s njemačkim trgovcem.",
+   "Otključao je s ključem.",
+   "Pisao je s olovkom."
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 161,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "VISI",
+  "question": "Koje su riječi u sljedećoj rečenici prilozi?\nDanas ćemo posjetiti drugaricu koja je jako tužna.",
+  "passage": null,
+  "options": [
+   "danas, tužna",
+   "danas, posjetiti",
+   "danas, jako",
+   "jako, tužna"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 162,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "VISI",
+  "question": "Koji je niz riječi tačan?",
+  "passage": null,
+  "options": [
+   "vrebavši, mislivši, dođoh",
+   "pišući, radeći, pomislivši",
+   "šećući, čujah, isplativši",
+   "žvakajući, pisajući, pomislih"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 163,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "VISI",
+  "question": "Proklitike su:",
+  "passage": null,
+  "options": [
+   "ga, im, ih, je, li",
+   "ne, iz, i, uz, u",
+   "joj, ih, u, sa, mu",
+   "konj, prst, voz, crv"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 164,
+  "subject": "BOSANSKI",
+  "topic": "Jezik",
+  "level": "VISI",
+  "question": "U kojoj je rečenici upotrijebljen načinski prilog?",
+  "passage": null,
+  "options": [
+   "Živjeli su blizu.",
+   "Živjeli su tamo kratko.",
+   "Živjeli su složno.",
+   "Živjeli su složnim životom."
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 165,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Pročitaj odlomak je iz pjesme Frančeska Petrarke Blažen bio\n\nI blažena nek je moja prva patnja,\ns kojom me bješe ljubav izmučila,\ni luk i strijela što me oborila,\ni rane što srcu mom postaše pratnja.\n\nI blaženi nek su krici žudnje velje,\ns kojima sam zvao ime čisto,\nte obilne suze, uzdasi i želje.\n\nKoja je ovo vrsta lirske pjesme?",
+  "passage": null,
+  "options": [
+   "misaona / refleksivna",
+   "rodoljubiva / patriotska",
+   "ljubavna pjesma",
+   "socijalna pjesma"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 166,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Pažljivo pročitaj sljedeći tekst:\n\nKREONT: Ti, dakle, ti što oči u tle upireš,\nda l' tajiš ili djelo svoje priznaješ?\nANTIGONA: Učinih to, ne tajim, čin je ovo moj.\nKREONT (stražaru): Ti slobodan si sad. (Antigoni:)\nA ti mi reci kratko – neću govor dug –\nDa l' znala si za nalog naređenja mog?\nANTIGONA: Dakako da sam znala. Svima bješe znan.\nKREONT: Pa kako da se drznu i unatoč tom?\nANTIGONA: Jer nalog o kom zboriš ne proglasi Zeus\nnit Pravda, ukućanka svijeta podzemnog,\nveć oni drugi zakon daše ljudstvu svem.\nJa ne smatrah tvoj nalog tako svesilnim\nda mogao bi smrtnik božji kršit glas\nšto vječit je iako nepisan.\nNe živi božja riječ od dana današnjeg\ni nije tek od jučer, vječan joj je vijek\ni niko ne zna otkad za nju znade svijet.\nPa stoga za bilo čiju obijest ne htjedoh\nnavući na se božji opravdani gnjev.\n\nNavedeni stihovi su iz drame Antigona. Koja je ovo vrsta drame?",
+  "passage": null,
+  "options": [
+   "komedija",
+   "farsa",
+   "tragikomedija",
+   "tragedija"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 167,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Sonet je vrsta lirske pjesme sastavljena od četrnaest stihova. Petrarkin sonet je imao sljedeći raspored stihova:",
+  "passage": null,
+  "options": [
+   "tri katrena i jedan distih",
+   "dva katrena i dva terceta",
+   "četiri terceta i jedan distih",
+   "jednu kvintinu i tri terceta"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 168,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Šta ne pripada nauci/znanosti o književnosti?",
+  "passage": null,
+  "options": [
+   "teorija književnosti",
+   "historija književnosti",
+   "jezik književnosti",
+   "književna kritika"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 169,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Antička drama dijeli se na:",
+  "passage": null,
+  "options": [
+   "satiru i kritiku",
+   "ep i poemu",
+   "tragediju i komediju",
+   "romansu i baladu"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 170,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Antigona je žrtvovala život iz:",
+  "passage": null,
+  "options": [
+   "ljubavi prema majci",
+   "ljubavi prema bratu",
+   "ljubavi prema sestri",
+   "ljubavi prema domovini"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 171,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Sevdalinke su narodne lirske pjesme u kojima se pjeva o",
+  "passage": null,
+  "options": [
+   "ljubavi sestre prema bratu",
+   "ljubavi drage i dragog",
+   "ljubavi brata prema sestri",
+   "ljubavi prema roditeljima"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 172,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Narodna pjesma Hasanaginica je",
+  "passage": null,
+  "options": [
+   "balada",
+   "romansa",
+   "ep",
+   "poema"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 173,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Hiperbola je stilska figura kojom se neka pojava ili osjećanje:",
+  "passage": null,
+  "options": [
+   "preuveličava",
+   "uljepšava",
+   "umanjuje",
+   "zamjenjuje"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 174,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Katren je strofa od:",
+  "passage": null,
+  "options": [
+   "tri stiha",
+   "četiri stiha",
+   "pet stihova",
+   "dva stiha"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 175,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Asonanca je ponavljanje",
+  "passage": null,
+  "options": [
+   "istih suglasnika u stihu",
+   "istih samoglasnika u stihu",
+   "riječi",
+   "rečenica"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 176,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Fabula je:",
+  "passage": null,
+  "options": [
+   "uvod u radnju djela",
+   "slijed događaja u književnom djelu po principu onoga što se dalje zbilo",
+   "opis likova u djelu",
+   "ono što unutrašnji pripovjedač pripovijeda"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 177,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Kojoj književnoj vrsti pripada djelo Dundo Maroje?",
+  "passage": null,
+  "options": [
+   "tragediji",
+   "komediji",
+   "noveli",
+   "romanu"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 178,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Koja književna vrsta ne pripada usmenoj narodnoj književnosti?",
+  "passage": null,
+  "options": [
+   "sevdalinka",
+   "balada",
+   "romansa",
+   "roman"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 179,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Unutrašnji pripovjedač je:",
+  "passage": null,
+  "options": [
+   "glavni lik u pripovijeci",
+   "lik u pripovijeci koji pripovijeda",
+   "sam autor",
+   "svako čiji je dijalog prisutan u pripovijeci"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 180,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Stilska figura u kojoj se iste riječi ponavljaju na početku dvaju ili više stihova zove se:",
+  "passage": null,
+  "options": [
+   "epifora",
+   "simploka",
+   "anafora",
+   "anadiploza"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 181,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Pravilan redoslijed etapa dramske radnje je:",
+  "passage": null,
+  "options": [
+   "uvod, zaplet, vrhunac, peripetija, rasplet",
+   "uvod, zaplet, peripetija, vrhunac, rasplet",
+   "peripetija, uvod, zaplet, vrhunac, rasplet",
+   "uvod, zaplet, vrhunac, rasplet, peripetija"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 182,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Pročitaj odlomak iz antičkog perioda!\n\nTada se mjedi*, ljudi i konja napuni cijelo\npolje i sve je sjalo, pod nogama tutnjaše zemlja\nkada su zajedno išli. A dva tad najbolja borca\nu vojsku obadva zađu, pomamili se za borbom:\nsin Anhisov Eneja i jošte divni Ahilej.\nStrašni Anhisov sin na megdan iziđe prvi,\nteški se tres'o mu šljem, na grudima nanijet mu bješe\noklop, a od mjedi kopljem u ruci je vitlao junak.\nA s druge strane se diže Ahilej, Pelejev sinak,\npoput grabežljiva lava, kad sabrani žele ga ljudi\nubit' – sav narod, a on se prezrenjem isprva stupa,\nali kada ga koji od gađanju vičnih lovaca\npogodi kopljem, on zine i sagne se, te mu na usta\nizbije pjena, a srce u grudima mu smiono bije,\nrepom na obje strane ošibuje leđa i bedra\ni sad podstiče sebe da borbu zametne s njima,\ngore mu oči, a jarost na lovce ga vuče, ne bi l´\nzaklao kojeg, il´ sam u prvoj pogin´o gužvi:\ntako Ahileja junačko gonjaše srce\nda se ogleda tada u borbi s junakom Enejom.\n\nKoja je vrsta književnog djela navedeni odlomak?",
+  "passage": null,
+  "options": [
+   "lirska pjesma",
+   "tragedija",
+   "ep",
+   "poema"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 183,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Od koliko novela se sastoji Bokačov Dekameron?",
+  "passage": null,
+  "options": [
+   "deset",
+   "pedeset",
+   "sto",
+   "hiljadu"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 184,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Odisej se poslije dugogodišnjih izbivanja vraća na svoj otok, gdje ga čeka vjerna žena:",
+  "passage": null,
+  "options": [
+   "Kalipso",
+   "Demetra",
+   "Helena",
+   "Penelopa"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 185,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "U baladi Hasanaginica imotski kadija je Hasanaginicin:",
+  "passage": null,
+  "options": [
+   "prosac",
+   "muž",
+   "brat",
+   "otac"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 186,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Balada Hasanaginica prevođena je na mnoge jezike, a u našoj književnosti zauzima značajno mjesto. Hasanaginica je pogođena muževljevom odlukom. U kojim stihovima se govori o toj odluci?",
+  "passage": null,
+  "options": [
+   "Što se b'jeli u gori zelenoj?\nAl' su snijezi, al' su labudovi?",
+   "Oblazi ga mati i sestrica,\na ljubovca od stida ne mogla.",
+   "Ne čekaj me u dvoru bjelomu,\nni u dvoru ni u rodu momu!",
+   "Bogom brate, svatov' starišina,\nUstavi mi konje uza dvora,"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 187,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Romansa je:",
+  "passage": null,
+  "options": [
+   "epska pjesma",
+   "lirsko-epska pjesma",
+   "lirska pjesma",
+   "pjesma u prozi"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 188,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Stih od šest stopa kojim je ispjevana Ilijada zove se:",
+  "passage": null,
+  "options": [
+   "heksagram",
+   "aleksandrinac",
+   "heksastilon",
+   "heksametar"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 189,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Stilska figura koja označava neki konkretan pojam koji, po konvenciji ili asocijaciji, upućuje na nešto drugo, nešto što ima neko šire značenje naziva se:",
+  "passage": null,
+  "options": [
+   "metafora",
+   "simbol",
+   "znak",
+   "poređenje"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 190,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Katarza je:",
+  "passage": null,
+  "options": [
+   "očišćenje od nagomilanih emocija",
+   "dio dramske radnje",
+   "tragična ironija",
+   "objašnjenje za scensku realizaciju teksta"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 191,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Pročitaj odlomak iz pjesme Frančeska Petrarke Blažen bio!\n\nI blažena nek je moja prva patnja,\nS kojom me bješe ljubav izmučila,\nI luk i strijela što me oborila,\nI rane što srcu mom postaše patnja.\n\nI blaženi nek su krici žudnje velje,\nS kojima sam zvao ime čisto,\nTe obilne suze,uzdasi i želje.\n\nKojem književnom rodu pripada pjesma?",
+  "passage": null,
+  "options": [
+   "lirskom",
+   "epskom",
+   "dramskom",
+   "dokumentarnom"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 192,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Jedna tvrdnja o usmenoj narodnoj književnosti nije tačna.",
+  "passage": null,
+  "options": [
+   "Bajke, basne i anegdote vrste su usmene narodne priče.",
+   "Nasrudin-hodža je lik iz šaljive narodne priče.",
+   "Obični ljudi iz naroda koji se bore za pravdu ne mogu se oduprijeti zlim i moćnim silama u bajkama.",
+   "Anegdota je kratka duhovita priča o nekoj poznatoj ličnosti ili događaju."
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 193,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Antigona je klasično djelo starogrčke dramske umjetnosti. Koji se lik ne pojavljuje u drami?",
+  "passage": null,
+  "options": [
+   "Ismena",
+   "Edip",
+   "Antigona",
+   "Kreont"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 194,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Kao i kod drugih naroda naša usmena epska pjesma nastajala je i živjela kao neka vrsta kolektivnog sjećanja na ličnosti i događaje iz prošlosti. Pronađi uljeza među karakteristikama naše usmene epske pjesme!",
+  "passage": null,
+  "options": [
+   "idealizacija prošlosti",
+   "narodni pjevači sami su prenosili ili stvarali pjesme",
+   "usmena balada je tipična epska pjesma",
+   "epske formule omogućavaju da se uz pomoć usvojenih postupaka brzo i lako obrađuju nove teme i nove fabule"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 195,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Šta ne čini strukturu drame kao književnog roda:",
+  "passage": null,
+  "options": [
+   "dijalog",
+   "likovi",
+   "pripovjedač",
+   "radnja"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 196,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Karakterističan epski stih kod naših epskih pjevača bio je epski:",
+  "passage": null,
+  "options": [
+   "deseterac",
+   "jedanaesterac",
+   "dvanaesterac",
+   "šesnaesterac"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 197,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Prozni epski žanrovi su:",
+  "passage": null,
+  "options": [
+   "epska pjesma i ep",
+   "lirska pjesma i poema",
+   "komedija i tragedija",
+   "novela i pripovijetka"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 198,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Koliko se djece spominje u baladi Hasanaginica?",
+  "passage": null,
+  "options": [
+   "troje",
+   "petero",
+   "šestero",
+   "četvero"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 199,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Šta nije odlika dramske radnje?",
+  "passage": null,
+  "options": [
+   "neizvjesnost",
+   "sukob",
+   "napetost",
+   "monotonija"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 200,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Koja je tvrdnja tačna?",
+  "passage": null,
+  "options": [
+   "Balada je lirsko-epska pjesma koja ima tragičan kraj.",
+   "Balada je lirska pjesma koja ima tragičan kraj.",
+   "Balada je epska pjesma koja ima tragičan kraj.",
+   "Balada je lirsko-epska pjesma koja ima sretan kraj."
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 201,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Koji je motiv prisutan u stihovima:\n\n„S dvije kule velika ćuprija\nPružila se preko rijeke čarne\nTe sa svojim velebnijem lukom\nPričinja se poput duge šarne.“",
+  "passage": null,
+  "options": [
+   "misaoni",
+   "deskriptivni",
+   "ljubavni",
+   "socijalni"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 202,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Danteova Božanstvena komedija sastoji se iz:",
+  "passage": null,
+  "options": [
+   "dva dijela",
+   "tri dijela",
+   "sedam dijelova",
+   "devet dijelova"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 203,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Pročitaj sljedeće kratke odlomke iz usmene narodne priče. Jedan odlomak sadrži karakterističan motiv po kojem se bajka razlikuje od ostalih vrsta narodne priče:",
+  "passage": null,
+  "options": [
+   "„Ono ti je bio neki carević. Carević ko carević, nije ti znao šta je muka i nevolja, nego je uvijek živio u izobilju.“",
+   "„Momče, bježi otalen, jazuk je da tako mlad zaglaviš. Moj je muž div, pa ako dođe, pojest će te.“",
+   "„Bijaše jedan car i imađaše tri sina i tri ćerke. Kad ga već starost obuzme, dođe vrijeme da umre.“",
+   "„Poinatio se i plahu kavgu zakuhao Nasredin negdje u mehani. Došle zaptije da ga u vreću metnu i u more bace.“"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 204,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Dekameron Đovanija Bokača je zbirka:",
+  "passage": null,
+  "options": [
+   "bajki",
+   "tragedija",
+   "pjesama",
+   "novela"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 205,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Koji lik nije iz djela Ilijada?",
+  "passage": null,
+  "options": [
+   "Beatriča",
+   "Ahilej",
+   "Helena",
+   "Hektor"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 206,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Šta je sevdalinka?",
+  "passage": null,
+  "options": [
+   "usmena narodna lirska pjesma koja pjeva o ljubavnoj čežnji",
+   "umjetnička lirska pjesma koja pjeva o ljubavnoj čežnji",
+   "lirska pjesma s tragičnim završetkom",
+   "epska pjesma koja pjeva o tragičnoj ljubavi"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 207,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Laert je bio:",
+  "passage": null,
+  "options": [
+   "Hamletov stric",
+   "Hamletov ljubavni suparnik",
+   "Hamletov prijatelj koji će ga izazvati na dvoboj",
+   "Hamletov sin"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 208,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Pročitaj sljedeće stihove i odgovori na pitanja iza teksta:",
+  "passage": "Knjigu piše paša Ali-paša:\n„Lijepa Maro, bi li pošla za me?“\nS Bišća Mara njemu poručuje:\n„Da me prosiš, ne bih pošla za te,\nDa s' oženiš bih se otrovala!“\n\nJedna tvrdnja nije tačna.",
+  "options": [
+   "Ali-paša se želi oženiti lijepom Marom",
+   "U pjesmi se govori o nemogućoj ljubavi",
+   "Lijepa Mara čezne za Ali-pašom",
+   "Lijepa Mara mrzi Ali-pašu"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 209,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Kojem književnom rodu pripadaju djela Ilijada, Odiseja, Pakao i Dekameron?",
+  "passage": null,
+  "options": [
+   "lirskom",
+   "epskom",
+   "lirsko-epskom",
+   "dramskom"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 210,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "OSNOVNI",
+  "question": "Osnovno načelo klasicizma u književnosti bilo je:",
+  "passage": null,
+  "options": [
+   "originalnost",
+   "oponašanje (uzora)",
+   "autentičnost",
+   "izvornost"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 211,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "SREDNJI",
+  "question": "Pročitaj stihove lirske narodne pjesme Dva su cvijeta u bostanu rasla i odgovori na pitanja!\n\nDva cvijeta u bostanu rasla,\nplavi zumbul i zelena kada.\nPlavi zumbul ode na Doljane,\nosta kada u bostanu sama.\n\nPoručuje zumbul sa Doljana:\n„Dušo moja, u bostanu kado,\nkako ti je u bostanu samoj?“\n\nPoručuje iz bostana kada:\n„Što je nebo, da je list hartije,\nšto je gora da su kalemovi,\nšto je more, da je crn murećef,\npa da pišem tri godine dana,\nne bi mogla ispisati jada!“\n\nOsnovni motiv u ovoj pjesmi je:",
+  "passage": null,
+  "options": [
+   "ljepota cvijeća",
+   "buđenje proljeća",
+   "čežnja za voljenim bićem",
+   "ljepota bostana (vrta)"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 212,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "SREDNJI",
+  "question": "Dati su stihovi pjesme Frančeska Petrarke:\n\nBlažen bio dan, mjesec i doba,\nGodina i mjesto i predjel i vrijeme,\nKad su moje usne zadrhtale nijeme,\nA njene me oči svezale ko roba.\n\nI blažena nek je moja prva patnja,\nS kojom me bješe ljubav izmučila,\nI luk i strijela što me oborila,\nI rane što srcu mom postaše pratnja.\n\nKoje su misli i osjećanja izraženi u navedenim stihovima?",
+  "passage": null,
+  "options": [
+   "bezizlaznost, pesimizam",
+   "ljubav, patnja, bol, zahvalnost",
+   "ljubav, sreća, radost, ushićenost",
+   "tuga, žalost"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 213,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "SREDNJI",
+  "question": "Pročitaj sljedeće stihove i odgovori na pitanja iza teksta:",
+  "passage": "Knjigu piše paša Ali-paša:\n„L'jepa Maro, bi li pošla za me?“\nS Bišća Mara njemu poručuje:\n„Da me prosiš, ne bih pošla za te,\nDa s' oženiš bih se otrovala!“\n\nKojim stihom je ispjevana ova pjesma?",
+  "options": [
+   "osmercem",
+   "desetercem",
+   "jedanaestercem",
+   "devetercem"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 214,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "SREDNJI",
+  "question": "Pažljivo pročitaj sljedeći tekst:\n\nKREONT: Ti, dakle, ti što oči u tle upireš,\nda l' tajiš ili djelo svoje priznaješ?\nANTIGONA: Učinih to, ne tajim, čin je ovo moj.\nKREONT (stražaru): Ti slobodan si sad. (Antigoni:)\nA ti mi reci kratko - neću govor dug –\nDa l' znala si za nalog naređenja mog?\nANTIGONA: Dakako da sam znala. Svima bješe znan.\nKREONT: Pa kako da se drznu i unatoč tom?\nANTIGONA: Jer nalog o kom zboriš ne proglasi Zeus\nnit Pravda, ukućanka svijeta podzemnog,\nveć oni drugi zakon daše ljudstvu svem.\nJa ne smatrah tvoj nalog tako svesilnim\nda mogao bi smrtnik božji kršit glas\nšto vječit je iako nepisan.\nNe živi božja riječ od dana današnjeg\ni nije tek od jučer, vječan joj je vijek\ni niko ne zna otkad za nju znade svijet.\nPa stoga za bilo čiju obijest ne htjedoh\nnavući na se božji opravdani gnjev.\n\nAntigona priznaje Kreontu šta je uradila. Iz njenih riječi možemo zaključiti da je:",
+  "passage": null,
+  "options": [
+   "hrabra, religiozna i moralna žena",
+   "uplašena, nemoćna i zabrinuta žena",
+   "tužna, razočarana i naivna žena",
+   "osvetoljubiva i zla žena"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 215,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "SREDNJI",
+  "question": "Pažljivo pročitaj sljedeći tekst?\n\nKREONT (stražaru): Ti slobodan si sad. (Antigoni:)\nA ti mi reci kratko – neću govor dug –\nDa l' znala si za nalog naređenja mog?\nANTIGONA: Dakako da sam znala. Svima bješe znan.\nKREONT: Pa kako da se drznu i unatoč tom?\nANTIGONA: Jer nalog o kom zboriš ne proglasi Zeus\nnit Pravda, ukućanka svijeta podzemnog,\nveć oni drugi zakon daše ljudstvu svem.\nJa ne smatrah tvoj nalog tako svesilnim\nda mogao bi smrtnik božji kršit glas\nšto vječit je iako nepisan.\nNe živi božja riječ od dana današnjeg\ni nije tek od jučer, vječan joj je vijek\ni niko ne zna otkad za nju znade svijet.\nPa stoga za bilo čiju obijest ne htjedoh\nnavući na se božji opravdani gnjev.\n\nKakvog vladara predstavlja Kreont?",
+  "passage": null,
+  "options": [
+   "pravednog vladara",
+   "bogobojaznog vladara",
+   "apsolutističkog vladara",
+   "vizionarskog vladara"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 216,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "SREDNJI",
+  "question": "U epskoj narodnoj pjesmi pjeva se o:",
+  "passage": null,
+  "options": [
+   "junačkim događajima",
+   "sukobima unutar patrijarhalne porodice",
+   "ljubavi",
+   "fantastičnim događajima"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 217,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "SREDNJI",
+  "question": "Metonimija je stilska figura kojom se:",
+  "passage": null,
+  "options": [
+   "ljudske osobine pridaju neživom",
+   "osnovno značenje neke riječi prenosi na neki drugi pojam na osnovu sličnosti",
+   "zamjenjuju pojmovi na osnovu njihove bliskosti ili logičke veze",
+   "neočekivano povezuju prividno protivrječne stvari, čime se ukazuje na neku istinu"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 218,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "SREDNJI",
+  "question": "U epskoj narodnoj pjesmi Budalina Tale dolazi u Liku istaknuti su dijelovi pjesme.\n\nRedna čaša na okolo hoda,\nDođe čaša Bunićanin-Muji,\nA on čašu pruži nalivenu:\n„Eto t’, brate, čaše od meneka!“\nUze momak, pa je iskapio:\n„Fala tebi, novi pobratime,\nA na daru i poštenju tvome!“\nNiko više ne da golotinji.\nRedna čaša na okolo hoda,\nopet dođe Bunićanin-Muji,\nOpet dade čašu nalivenu:\n„Eto t’, brate, čaše od meneka!“\nPopi čašu, pa mu je povrati:\n„Fala tebi, novi pobratime!“\nTurci piju, grohotom se smiju.\nRedna čaša na okolo hoda,\nJope dođe Bunićanin-Muji,\nJope dade čašu nalivenu:\n„Dede, brate, turska golotinjo!“\nUze momak, i treću popio:\n„Fala tebi, novi pobratime,\nA na daru i poštenju tvome!“\n\nKako se zove ova pojava u epskoj narodnoj poeziji?",
+  "passage": null,
+  "options": [
+   "okamenjeni epiteti",
+   "slavenska antiteza",
+   "epsko ponavljanje",
+   "dramska (dijaloška) retardacija"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 219,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "SREDNJI",
+  "question": "Dat je odlomak iz Epa o Gilgamešu. U njemu Gilgameš razgovara sa sjenom svog prijatelja Enkidua.\n\nGilgameš otvori usta i reče:\n„Govori, prijatelju moj,\ngovori, prijatelju moj!\nObjavi mi sada zakon zemlje\nkoju si vidio!\"\n„Ja ti to ne mogu reći, prijatelju,\nja ti to ne mogu reći.\nAko bih ti otkrio zakon zemlje koju sam vidio,\nti bi sjeo i zaplakao.\"\n„Pa hoću da sjednem i da plačem dovijeka!\"\n\nŠta Gilgameš želi saznati od Enkidua?",
+  "passage": null,
+  "options": [
+   "kakvo je stanje u zemlji u koju je otišao kao špijun i koju planiraju pokoriti",
+   "tajnu zagrobnog života i smrti",
+   "da li je u drugoj zemlji bolje nego u njegovom kraljevstvu",
+   "kako da otkrije svoju ljudsku stranu"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 220,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "SREDNJI",
+  "question": "Koje su stilske figure prisutne u stihovima Derviš-paše Bajezidagića?\n\nS dvije kule velika ćuprija\nPružila se preko rijeke čarne,\nTe sa svojim velebnijem lukom\nPričinja se poput duge šarne.",
+  "passage": null,
+  "options": [
+   "kontrast i poređenje",
+   "epiteti i poređenje",
+   "onomatopeja i simbol",
+   "onomatopeja i poređenje"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 221,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "SREDNJI",
+  "question": "U jednom nizu književnih vrsta nalazi se uljez?",
+  "passage": null,
+  "options": [
+   "roman, pripovijetka, ep, metafora",
+   "roman, pripovijetka, novela, crtica",
+   "komedija, tragedija, monodrama, jednočinka",
+   "himna, oda, rodoljubiva pjesma, misaona pjesma"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 222,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "SREDNJI",
+  "question": "Pročitaj odlomak iz pjesme Budalina Tale dolazi u Liku.\n\nTaj je momak vrlo ogolio,\nNa njem ništa od odila nije.\nKad dojaha njima na poljane,\nMeđer jaše dorušu kobilu,\nNa njoj sedlo od orahovine,\nA kolani od kore lipove…\nKroz kapu mu perčin ispanuo,\nA za pasom samica kubura,\nNa njoj dvan'est trišnjovih linova.\n\nKoja je ovo vrsta pjesme?",
+  "passage": null,
+  "options": [
+   "sevdalinka",
+   "epska narodna pjesma",
+   "elegija",
+   "socijalna pjesma"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 223,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "SREDNJI",
+  "question": "Pročitaj odlomak iz narodne pjesme Hasanaginica.\n\nŠta se bijeli u gori zelenoj?\nAl su snijezi, al su labudovi?\nDa su snijezi već bi okopnili,\nlabudovi već bi poletjeli;\nnit su snijezi nit su labudovi,\nnego šator age Hasan age:\non boluje u ranami ljutim.\nOblazi ga mater i sestrica,\na ljubovca od stida ne mogla.\n\nKoju stilsku figuru prepoznaješ u navedenim stihovima?",
+  "passage": null,
+  "options": [
+   "metonimija",
+   "simbol",
+   "slavenska antiteza",
+   "paradoks"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 224,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "SREDNJI",
+  "question": "Kreont i Antigona stoje jedno nasuprot drugom u nepomirljivoj suprotnosti. Tokom razgovora s Kreontom Antigona izriče u ime čega se bori i čemu teži. Koju repliku ne izgovara Antigona?",
+  "passage": null,
+  "options": [
+   "I mrtvog dušmanina mrzim srcem svim.",
+   "Ne mržnju, nego ljubav ište život moj.",
+   "A ja za ljubav samo na taj dođoh svijet.",
+   "A ipak isti zakon za sve traži Had."
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 225,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "SREDNJI",
+  "question": "Kojim osjećajem je ispunjen rastanak Hektora i Andromahe u Ilijadi?",
+  "passage": null,
+  "options": [
+   "osjećajem straha",
+   "osjećajem krivice",
+   "osjećajem sreće",
+   "osjećajem ljutnje"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 226,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "SREDNJI",
+  "question": "O kakvim se događajima govori u narodnoj pjesmi Hasanaginica?",
+  "passage": null,
+  "options": [
+   "junačkim",
+   "tragičnim",
+   "radosnim",
+   "monotonim"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 227,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "SREDNJI",
+  "question": "Gledajući stradanje junakinje u drami Antigona gledaoci postižu emocionalno pročišćenje koje se naziva:",
+  "passage": null,
+  "options": [
+   "protagonista",
+   "melanholija",
+   "katarza",
+   "tragedija"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 228,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "SREDNJI",
+  "question": "Dati su stihovi Petrarkinog soneta!\n\nI blažena nek je moja prva patnja,\nS kojom me bješe ljubav izmučila,\nI luk i strijela što me oborila\nI rane što srcu mom postaše pratnja.\n\nKoja je stilska figura prisutna u trećem stihu?",
+  "passage": null,
+  "options": [
+   "simbol",
+   "komparacija",
+   "kontrast",
+   "asonanca"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 229,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "SREDNJI",
+  "question": "Pročitaj izdvojene stihove iz Kanconijera:\n\nBlažen bio dan, mjesec i doba,\nGodina i mjesto i predjel i vrijeme,\nKad su moje usne zadrhtale nijeme,\nA njene me oči svezale ko roba.\n\nI blažena nek je moja prva patnja,\nS kojom me bješe ljubav izmučila,\nI luk i strijela što me oborila,\nI rane što srcu mom postaše pratnja.\n\nŠta ljubav nije podarila pjesniku:",
+  "passage": null,
+  "options": [
+   "patnju",
+   "pjesničku inspiraciju",
+   "ostvarenje snova",
+   "čežnju"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 230,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "SREDNJI",
+  "question": "Koja je stilska figura upotrijebljena u stihu A njene me oči svezale ko roba?",
+  "passage": null,
+  "options": [
+   "personifikacija",
+   "anafora",
+   "hiperbola",
+   "epifora"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 231,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "SREDNJI",
+  "question": "U pjesmi Čamdži Mujo i lijepa Uma alhamijado pjesnikinje Umihane Čuvidine osjeća se utjecaj koje književnosti?",
+  "passage": null,
+  "options": [
+   "perzijske klasične književnosti",
+   "bošnjačke narodne pjesme",
+   "orijentalne književnosti",
+   "sufizma"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 232,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "SREDNJI",
+  "question": "Pažljivo pročitaj sljedeći tekst iz Antigone:\n\nOvakvih zakona ti ljudma postavi;\nNit tvoj je, mišljah, proglas taj toliko jak,\nTe ti ko smrtnik dići bi se mogao\nNad božje, nepisane, stalne zakone.\nDa ću mrijet, to znala sam –\nTa kako ne? – pa da i ne proglasi ti.\nTrup da sina matere\nJa rođene bez groba pustit odolim,\nTo peklo bi me, – ali ovo ne žalim.\n\nŠta razumijemo iz govora junakinje? Samo je jedna tvrdnja tačna!",
+  "passage": null,
+  "options": [
+   "Ona poštuje božanske zakone o mrtvima.",
+   "Ona smatra da su ljudski zakoni iznad božanskih.",
+   "Ona smatra da je dužna pokoriti se vladarevoj volji.",
+   "Ona voli brata, ali je strah sprečava da ga pokopa."
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 233,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "SREDNJI",
+  "question": "Odgovori na pitanje iza teksta:\n\n„... što je nebo da je list hartije,\nŠto je gora da su kalemovi,\nŠto je more da je crn murećep,\nPak da pišem tri godine dana,\nNe bih mojih ispisala jada!“\n\nKoja je stilska figura sadržana u obilježenim stihovima?",
+  "passage": null,
+  "options": [
+   "gradacija",
+   "hiperbola",
+   "personifikacija",
+   "poređenje"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 234,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "SREDNJI",
+  "question": "Koja je stilska figura prisutna u sljedećim stihovima Gundulićevog Osmana:\n\n„sad na carstvo rob se uzvisi,\na tko car bi, rob je sada?“",
+  "passage": null,
+  "options": [
+   "simbol",
+   "antiteza",
+   "personifikacija",
+   "hiperbola"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 235,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "SREDNJI",
+  "question": "Pročitaj stihove iz pjesme Telal viče od jutra do mraka i odgovori na pitanja.\n\n„Ko j' u koga noćas na konaku,\nNek ne ide rano sa konaka;\nUtekla je pašina robinja\nI odnijela dva tovara blaga\nI ukrala sahat iz njedara\nI odvela ata iz ahara\nI povela Muju haznadara.“\nSusreli je pašini kavazi:\n\"Kuda bježiš, pašina robinjo?\n...\n\"Blago nosim da putem ne prosim,\nsahat nosim da gdje ne zakasnim,\nata vodim da pješke ne hodim,\nhaznadara – da ne spavam sama.\"\n\nZaokruži netačnu tvrdnju!",
+  "passage": null,
+  "options": [
+   "Navedeni stihovi odlomak su iz romanse.",
+   "Robinja je opljačkala pašu jer je osvetoljubiva.",
+   "U pjesmi se očekuje sretan rasplet.",
+   "Robinja je snalažljiva i domišljata."
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 236,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "SREDNJI",
+  "question": "Hamlet je danski kraljević, a Ofelija je:",
+  "passage": null,
+  "options": [
+   "Klaudijeva kćerka",
+   "Polonijeva kćerka",
+   "Hamletova sestra",
+   "Horacijeva ljubavnica"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 237,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "SREDNJI",
+  "question": "U jednom nizu stilskih figura nalazi se uljez!",
+  "passage": null,
+  "options": [
+   "epitet, metafora, metonimija, komparacija",
+   "epifora, anafora, epitet, personifikacija",
+   "asonanca, aliteracija, atribut, epitet",
+   "onomatopeja, komparacija, alegorija, simbol"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 238,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "VISI",
+  "question": "U kojem stihu riječi nisu upotrijebljene u svom osnovnom značenju?",
+  "passage": null,
+  "options": [
+   "te obilne suze, uzdasi i želje",
+   "I blažena nek je moja prva patnja",
+   "I luk i strijela što me oborila",
+   "I blaženi nek su krici žudnje velje"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 239,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "VISI",
+  "question": "Pažljivo pročitaj sljedeći tekst:\n\nKREONT: Ti, dakle, ti što oči u tle upireš,\nda l' tajiš ili djelo svoje priznaješ?\nANTIGONA: Učinih to, ne tajim, čin je ovo moj.\nKREONT (stražaru): Ti slobodan si sad. (Antigoni:)\nA ti mi reci kratko – neću govor dug –\nDa l' znala si za nalog naređenja mog?\nANTIGONA: Dakako da sam znala. Svima bješe znan.\nKREONT: Pa kako da se drznu i unatoč tom?\nANTIGONA: Jer nalog o kom zboriš ne proglasi Zeus\nnit Pravda, ukućanka svijeta podzemnog,\nveć oni drugi zakon daše ljudstvu svem.\nJa ne smatrah tvoj nalog tako svesilnim\nda mogao bi smrtnik božji kršit glas\nšto vječit je iako nepisan.\nNe živi božja riječ od dana današnjeg\ni nije tek od jučer, vječan joj je vijek\ni niko ne zna otkad za nju znade svijet.\nPa stoga za bilo čiju obijest ne htjedoh\nnavući na se božji opravdani gnjev.\n\nZbog čega se Antigona usprotivila Kreontu?\nZaokruži netačnu tvrdnju!",
+  "passage": null,
+  "options": [
+   "zato što poštuje božanske zakone",
+   "zato što smatra da su božanski zakoni vječni",
+   "zato što ne želi na sebe navući božiju srdžbu",
+   "zato što smatra da Kreont nije toliko moćan da joj može nauditi"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 240,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "VISI",
+  "question": "Pročitaj odlomak iz pjesme Budalina Tale dolazi u Liku.\n\nTaj je momak vrlo ogolio,\nNa njem ništa od odila nije.\nKad dojaha njima na poljane,\nMeđer jaše dorušu kobilu,\nNa njoj sedlo od orahovine,\nA kolani od kore lipove…\n\nZašto je Budalina Tale netipični narodni junak?",
+  "passage": null,
+  "options": [
+   "bezosjećajan je",
+   "nije hrabar",
+   "nema dobrog konja ni opremu",
+   "nema junačkog ponosa"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 241,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "VISI",
+  "question": "Koji junak nije lik iz narodne pjesme Budalina Tale dolazi u Liku?",
+  "passage": null,
+  "options": [
+   "Smiljanić Tadija",
+   "Bunićanin Mujo",
+   "Glumac Osmanaga",
+   "Đerzelez Alija"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 242,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "VISI",
+  "question": "Pročitaj odlomak iz narodne pjesme Hasanaginica!\n\nŠta se bijeli u gori zelenoj?\nAl su snijezi, al su labudovi?\nDa su snijezi već bi okopnili,\nlabudovi već bi poletjeli;\nnit su snijezi nit su labudovi,\nnego šator age Hasan age:\non boluje u ranami ljutim.\nOblazi ga mater i sestrica,\na ljubovca od stida ne mogla.\n\nKakav je stid koji se spominje u stihovima Hasanaginice?",
+  "passage": null,
+  "options": [
+   "stid žene koja ne voli muža",
+   "stid snahe pred svekrvom",
+   "stid žene da javno iskaže osjećanja prema mužu",
+   "stid majke da napušta djecu zbog muža"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 243,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "VISI",
+  "question": "Pročitaj sljedeće stihove i odgovori na pitanja iza teksta:",
+  "passage": "Knjigu piše paša Ali-paša:\n„L'jepa Maro, bi li pošla za me?“\nS Bišća Mara njemu poručuje:\n„Da me prosiš, ne bih pošla za te,\nDa s' oženiš bih se otrovala!“\n\nU kojoj formi je ispjevana pjesma?",
+  "options": [
+   "u formi lirskog dijaloga",
+   "u formi momačkog lirskog monologa",
+   "u formi djevojačkog lirskog monologa",
+   "u formi dramskog dijaloga"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 244,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "VISI",
+  "question": "Odgovori na pitanja iza stihova?\n\nIl je majka ukopala sina\nIl sestrica brata jedinoga\nIl djevojka svoga suđenika?\nNit je majka ukopala sina,\nni sestrica brata jedinoga,\nveć djevojka svoga suđenika.\n\nStilskom figurom koja je prisutna u navedenim stihovima počinje i jedna od najpoznatijih\nbošnjačkih balada? Kako se zove ta stilska figura?",
+  "passage": null,
+  "options": [
+   "slavenska antiteza",
+   "antiteza",
+   "slavenska personifikacija",
+   "slavensko poređenje"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 245,
+  "subject": "BOSANSKI",
+  "topic": "Teorija književnosti",
+  "level": "VISI",
+  "question": "Pročitaj sljedeće stihove:",
+  "passage": "Četu kupi Glumac Osmanaga\nPo Udbini i širokoj Lici,\nBira aga po Lici junake:\nPo oku momka, po uhu hajvana.\n...\nKud će aga s četom okrenuti?\nHoće aga preko Vučijaka,\nNa Kotare kuli Smiljanića,\nBiloj kuli Smiljanić-Tadije,\nNa veselje Smiljanić-Tadiji.\n...\nNa poljani četu zastavio,\nNa poljani konje razjahaše...\nPogledaše niz duge poljane.\nNiz poljane klancu knježičkome\nAl iz klanca konjik iskočio,\nTiho konja jaše uz poljane,\nTiho jaše, konju ne kidiše.\nGledao ga Glumac Osmanaga,\nPoznaje ga, poznat ga ne more,\nTaj je momak vrlo ogolio,\nNa njem ništa od odila nije.\nKad dojaha njima na poljane,\nMedjer jaše dorušu kobilu,\nNa njoj sedlo od orahovine,\n...\nKad dojaha momak na kobili,\nSalam nazva, odjaha kobilu,\nZapeše joj od lika kajasi,\nNiko primi, niko ne otprimi,\nI taj momak side kod Ličana.\n...\nStade vika Glumac-Osmanage:\n„O Ličani, moji sokolovi!\nNije l’ majka rodila junaka,\nDa obuče kaursko odilo,\nDa uzjaše ata na poljani,\nDa prećera preko Vučijaka,\nDa se spusti kuli Smiljanića,\nDa uhodi kulu i avliju:\nJe l’ mu šenluk kod kule kamene,\nIgra li mu kolo u avliji,\nHoda l’ kolo trijest divojaka,\nSve sestara kotarskih serdara,\nJe l’ u kolu Ana Smiljanića,\nPiju l’ piće kotarski serdari?\nDa se natrag na poljane vrati,\nDa m’ iznese haber na poljane,\nEvo njemu pedeset dukata.“\nTurci muče, ni mukaet nisu,\nStade vika momka golotinje:\n„Glumac-aga sa Udbine grada!\nEvo j’ majka rodila junaka,\nViše nije, neg mene jednoga,\nJa ću saći kuli Smiljanića.“\nAga muči, ni mukaet nije,\nNeg Ličanom veli u koledi:\n„Ko će saći kuli Smiljanića?\nSvaki muči ništa ne divani,\nJope viknu momak na poljani:\n„Evo, aga, takoga junaka!“\nU njeg aga ni da gleda ne će,\nNeg Ličanom jope govorio:\n„Ko će saći kuli Smiljanića,\nKršno će ga aga darovati.“\nSvi Ličani oči oborili,\nSvaki muči, ništa ne divani.\nAl podviknu momak na poljani:\n„Evo, aga, takoga junaka,\nDrugog ti danas uhodnika nejma.“\nPa na noge skoči na poljani\npojaha dorušu kobilu...“\n\nJedna tvrdnja nije tačna.",
+  "options": [
+   "Pred Ličanima je težak i zahtjevan zadatak, za koji je potrebna hrabrost.",
+   "Glumac Osman-aga ne želi prihvatiti ponudu momka koji se javlja da izvrši njegovu naredbu jer izgleda umoran od dugog putovanja.",
+   "Glumac Osman-aga ne želi prihvatiti ponudu momka koji se javlja da izvrši njegovu naredbu jer smatra da je momak za to nesposoban.",
+   "Osman-aga želi poslati jednog svog junaka u izviđanje suprotstavljenog tabora."
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 246,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "OSNOVNI",
+  "question": "Pažljivo pročitaj sljedeći tekst:\n\nHektor se sinu svome, kad vidje ga, ćutke nasmiješi\na Andromaha stane kraj vojna roneći suze,\nstisne mu ruku i ovako mu besjedit' poče:\n„Jadniče, sa svog ćeš srca zaglavit' a nejakog čeda\nnije ti žao ni mene sirote; ja ću se brzo\ntvoja udovica nazvat', jer tebe će smaći Ahejci,\nkad odasvud bahnu, a meni bilo bi bolje\nda pod zemljicu siđem, kad nema te više, jer neću\nimati utjehe druge, kad žitku stigne ti svršetak,\nnego žalost kad nemam ni oca ni gospođe majke...\nSad si mi, Hektore, sve, i otac i gospođa majka,\nti si mi brat sada, a i moj mlađahni vojno;\nnego smiluj se na me i ostani ovdje na kuli,\nsina ne ostav' sirotom, a ni udovicom ljubu!”\n\nKojem djelu pripadaju navedeni stihovi",
+  "passage": null,
+  "options": [
+   "Odiseji",
+   "Antigoni",
+   "Eneidi",
+   "Ilijadi"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 247,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "OSNOVNI",
+  "question": "Jedan pjesnik nije grčki liričar!",
+  "passage": null,
+  "options": [
+   "Anakreont",
+   "Sapha",
+   "Petrarka",
+   "Alkej"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 248,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "OSNOVNI",
+  "question": "Koji lik nije iz grčkog epa Ilijada?",
+  "passage": null,
+  "options": [
+   "Ahilej",
+   "Hektor",
+   "Prijam",
+   "Rustem"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 249,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "OSNOVNI",
+  "question": "Ep o Gilgamešu pripada:",
+  "passage": null,
+  "options": [
+   "arapskoj književnosti",
+   "grčkoj književnosti",
+   "asirsko-babilonskoj književnosti",
+   "rimskoj književnosti"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 250,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "OSNOVNI",
+  "question": "Hrvatski komediograf Marin Držić bio je:",
+  "passage": null,
+  "options": [
+   "srednjovjekovni pisac",
+   "renesansni pisac",
+   "barokni pisac",
+   "prosvjetiteljski pisac"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 251,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "OSNOVNI",
+  "question": "Izabranica Don Kihotova srca je:",
+  "passage": null,
+  "options": [
+   "Rosinanta od Toboza",
+   "Končita od Toboza",
+   "Doroteja od Toboza",
+   "Dulsineja od Toboza"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 252,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "OSNOVNI",
+  "question": "Klasicizam kao književna epoha javlja se između:",
+  "passage": null,
+  "options": [
+   "humanizma i baroka",
+   "baroka i romantizma",
+   "prosvjetiteljstva i romantizma",
+   "romantizma i realizma"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 253,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "OSNOVNI",
+  "question": "Antičkoj književnosti pripadaju:",
+  "passage": null,
+  "options": [
+   "stara grčka i rimska književnost",
+   "engleska književnost",
+   "njemačka književnost",
+   "češka književnost"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 254,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "OSNOVNI",
+  "question": "Prepoznatljiva karakteristika antičke književnosti jeste:",
+  "passage": null,
+  "options": [
+   "estetika",
+   "opširnost",
+   "mašta",
+   "mitska slika svijeta"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 255,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "OSNOVNI",
+  "question": "Autor epova Ilijada i Odiseja je",
+  "passage": null,
+  "options": [
+   "Sofokle",
+   "Plaut",
+   "Sapha",
+   "Homer"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 256,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "OSNOVNI",
+  "question": "U epu Ilijada opjevan je rat između",
+  "passage": null,
+  "options": [
+   "Grčke i Troje",
+   "Poljske i Prusije",
+   "Rusije i Ukrajine",
+   "Engleske i Francuske"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 257,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "OSNOVNI",
+  "question": "Dramu Antigona napisao je",
+  "passage": null,
+  "options": [
+   "Sofokle",
+   "Homer",
+   "Eshil",
+   "Euripid"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 258,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "OSNOVNI",
+  "question": "Pjesma nad pjesmama dio je svete knjige",
+  "passage": null,
+  "options": [
+   "Kur'an",
+   "Talmud",
+   "Biblija",
+   "Tora"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 259,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "OSNOVNI",
+  "question": "Poznati srednjovjekovni bosanski pisani spomenici su",
+  "passage": null,
+  "options": [
+   "natpisi na stećcima",
+   "balade",
+   "pjesme",
+   "romani"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 260,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "OSNOVNI",
+  "question": "Koje osobine obilježavaju prosvjetiteljstvo?",
+  "passage": null,
+  "options": [
+   "kult misli i prosvijećenost",
+   "osjećanja",
+   "mašta",
+   "subjektivnost"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 261,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "OSNOVNI",
+  "question": "„Što je zapisano ostaje, što se pamti nestaje“ napisao je u svom Ljetopisu:",
+  "passage": null,
+  "options": [
+   "Muhamed Nerkesija",
+   "Sabit Alaudin Užičanin",
+   "Muhamed Hevaji Uskufi",
+   "Mula Mustafa Bašeskija"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 262,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "OSNOVNI",
+  "question": "Najpopularnije pjesničke forme bošnjačke književnosti na orijentalnim jezicima su:",
+  "passage": null,
+  "options": [
+   "rubaija, gazel, kasida, tarih",
+   "sonet, balada, romansa, elegija",
+   "poema, rubaija, balada, sevdalinka",
+   "pripovijetka, novela, roman, crtica"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 263,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "OSNOVNI",
+  "question": "Da bi razotkrio zločin Šekspirov Hamlet se koristi:",
+  "passage": null,
+  "options": [
+   "špijuniranjem",
+   "glumom",
+   "ispitivanjem",
+   "optuživanjem"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 264,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "OSNOVNI",
+  "question": "Najveći dramski pisac renesanse bio je:",
+  "passage": null,
+  "options": [
+   "Kornej",
+   "Šekspir",
+   "Molijer",
+   "Rasin"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 265,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "OSNOVNI",
+  "question": "Jedan niz imena pripada antičkoj književnosti!",
+  "passage": null,
+  "options": [
+   "Molijer, Šekspir, Gete",
+   "Homer, Sofokle, Vergilije",
+   "Muhamed Nerkesi, Matija Divković, Marin Držić",
+   "Meša Selimović, Umihana Čuvidina, Ilhamija"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 266,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "OSNOVNI",
+  "question": "Šta su stećci?",
+  "passage": null,
+  "options": [
+   "srednjovjekovni nadgrobni spomenici",
+   "romani",
+   "eseji",
+   "memoari"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 267,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "OSNOVNI",
+  "question": "U kojem je djelu opisana scena borbe viteza s vjetrenjačama?",
+  "passage": null,
+  "options": [
+   "Dundo Maroje",
+   "Gazel o Mostaru",
+   "Don Kihot",
+   "Dekameron"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 268,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "OSNOVNI",
+  "question": "Alhamijado književnost je:",
+  "passage": null,
+  "options": [
+   "književnost na turskom jeziku",
+   "književnost na arapskom jeziku",
+   "književnost na perzijskom jeziku",
+   "književnost na narodnom (bosanskom) jeziku pisana arebicom"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 269,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "OSNOVNI",
+  "question": "Kasida je vrsta:",
+  "passage": null,
+  "options": [
+   "grčke pjesme",
+   "indijske pjesme",
+   "rimske",
+   "staroarapske pjesme"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 270,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "OSNOVNI",
+  "question": "Koji pisac nije predstavnik grčke književnosti?",
+  "passage": null,
+  "options": [
+   "Vergilije",
+   "Homer",
+   "Sofokle",
+   "Eshil"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 271,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "OSNOVNI",
+  "question": "Koja sveta knjiga sadrži riječi:\n„Kunem se Danom kada Smak svijeta nastupi\ni kunem se dušom koja sebe kori.\nZar čovjek misli da kosti njegove nećemo sakupiti?“",
+  "passage": null,
+  "options": [
+   "Tora",
+   "Biblija",
+   "Kur'an",
+   "Novi zavjet"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 272,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "OSNOVNI",
+  "question": "Ko su najpoznatiji grčki tragičari?",
+  "passage": null,
+  "options": [
+   "Alkej, Sapha i Anakreont",
+   "Eshil, Sofokle i Euripid",
+   "Aristofan, Sapha i Anakreont",
+   "Plaut, Vergilije i Molijer"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 273,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "OSNOVNI",
+  "question": "Koji je od navedenih pisaca predstavnik hrvatskog baroka?",
+  "passage": null,
+  "options": [
+   "Ivan Gundulić",
+   "Antun Gustav Matoš",
+   "Marin Držić",
+   "Šiško Menčetić"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 274,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "OSNOVNI",
+  "question": "Koji je hronološki slijed književnih epoha i pravaca ispravan?",
+  "passage": null,
+  "options": [
+   "antika, srednji vijek, humanizam, renesansa, barok, klasicizam, prosvjetiteljstvo",
+   "antika, srednji vijek, renesansa, humanizam, barok, klasicizam, prosvjetiteljstvo",
+   "antika, srednji vijek, prosvjetiteljstvo, klasicizam, renesansa, humanizam, barok",
+   "antika, humanizam, renesansa, barok, srednji vijek, klasicizam, prosvjetiteljstvo"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 275,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "OSNOVNI",
+  "question": "Molijer pripada epohi:",
+  "passage": null,
+  "options": [
+   "humanizma i renesanse",
+   "baroka i romantizma",
+   "romantizma",
+   "klasicizma"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 276,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "OSNOVNI",
+  "question": "Pročitaj stihove sljedeće pjesme Čamdži Mujo i lijepa Uma!\n\nOva kosa u devletu rasla,\nU golemu jadu odrezana:\nIl' je majka ukopala sina,\nIl' sestrica brata jedinoga?\nIl' djevojka svoga suđenika?\nNit je majka ukopala sina,\nNi sestrica brata jedinoga,\nVeć djevojka svoga suđenika,\nŠto ga neće steći dovijeka!\n\nZaokruži pogrešnu tvrdnju koja se odnosi na navedenu pjesmu!",
+  "passage": null,
+  "options": [
+   "Ovo je narodna pjesma",
+   "Pjesma pripada alhamijado književnosti",
+   "Pjesma je napisana bosanskim jezikom i arebicom",
+   "Pjesma je napisana po uzoru na narodnu pjesmu"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 277,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "OSNOVNI",
+  "question": "Koji od navedenih autora ne pripada bošnjačkoj književnosti na orijentalnim jezicima?",
+  "passage": null,
+  "options": [
+   "Derviš-paša Bajezidagić",
+   "Mula Mustafa Bašeskija",
+   "Abdulvehab Ilhamija Žepljak",
+   "Muhamed Nerkesija"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 278,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "SREDNJI",
+  "question": "Pažljivo pročitaj sljedeći tekst:\n\nHektor se sinu svome, kad vidje ga, ćutke nasmiješi\na Andromaha stane kraj vojna roneći suze,\nstisne mu ruku i ovako mu besjedit' poče:\n„Jadniče, sa svog ćeš srca zaglavit' a nejakog čeda\nnije ti žao ni mene sirote; ja ću se brzo\ntvoja udovica nazvat', jer tebe će smaći Ahejci,\nkad odasvud bahnu, a meni bilo bi bolje\nda pod zemljicu siđem, kad nema te više, jer neću\nimati utjehe druge, kad žitku stigne ti svršetak,\nnego žalost kad nemam ni oca ni gospođe majke...\nSad si mi, Hektore, sve, i otac i gospođa majka,\nti si mi brat sada, a i moj mlađahni vojno;\nnego smiluj se na me i ostani ovdje na kuli,\nsina ne ostav' sirotom, a ni udovicom ljubu!”\n\nIz razgovora Hektora i Andromahe uočavamo da Hektor napušta ženu i sina. Zbog čega to radi?",
+  "passage": null,
+  "options": [
+   "zbog osvete Ahejcima",
+   "da odbrani porodicu i domovinu",
+   "slavi rat",
+   "da se prikaže kao najhrabriji grčki junak"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 279,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "SREDNJI",
+  "question": "Koja je od navedenih tvrdnji tačna?",
+  "passage": null,
+  "options": [
+   "Don Kihot je seljak koji je izgubio razum",
+   "Don Kihot čini dobro u ime djevojke Sanče",
+   "Don Kihot je sluga gazdi koji se zove Sančo Pansa",
+   "Konj Don Kihota zove se Rosinante"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 280,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "SREDNJI",
+  "question": "Jedna je tvrdnja tačna.",
+  "passage": null,
+  "options": [
+   "Dositej Obradović je predstavnik franjevačke književnosti i pisao je besjede.",
+   "Dositej Obradović je predstavnik baroka i pisao je religiozne poeme.",
+   "Dositej Obradović je predstavnik prosvjetiteljstva i pisao je basne.",
+   "Dositej Obradović je predstavnik klasicizma i pisao je basne."
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 281,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "SREDNJI",
+  "question": "Jedan od četiri navedena pisca ne pripada renesansi:",
+  "passage": null,
+  "options": [
+   "Žan Rasin",
+   "Frančesko Petrarka",
+   "Miguel de Servantes",
+   "Viljem Šekspir"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 282,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "SREDNJI",
+  "question": "Koji niz književnih vrsta pripada srednjovjekovnoj književnosti?",
+  "passage": null,
+  "options": [
+   "epovi, religiozne pjesme, ljubavne pjesme",
+   "ljetopisi, hronike, hagiografije",
+   "romani, pripovijetke, komedije",
+   "elegije, ode, ditiramb, epigram"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 283,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "SREDNJI",
+  "question": "Kolijevka humanizma i renesanse je:",
+  "passage": null,
+  "options": [
+   "Italija",
+   "Hrvatska",
+   "Japan",
+   "Grčka"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 284,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "SREDNJI",
+  "question": "Ivan Gundulić napisao je ep:",
+  "passage": null,
+  "options": [
+   "Dekameron",
+   "Osman",
+   "Eneida",
+   "Pakao"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 285,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "SREDNJI",
+  "question": "Mula Mustafa Bašeskija je predstavnik:",
+  "passage": null,
+  "options": [
+   "književnosti na orijentalnim jezicima",
+   "alhamijado književnosti",
+   "prosvjetiteljstva",
+   "antičke književnosti"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 286,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "SREDNJI",
+  "question": "Najznačajniji predstavnik franjevačke književnosti u Bosni je:",
+  "passage": null,
+  "options": [
+   "Ivan Gundulić",
+   "Dositej Obradović",
+   "Marin Držić",
+   "Matija Divković"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 287,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "SREDNJI",
+  "question": "Kojem djelu i autoru pripadaju sljedeći stihovi:\n\nTako se spustih iz prvoga kruga\nU drugi, manji prostorom, al' koji\nTim više ječi od plača i tuge.\n\nTu Minos strašan, zubima režeć stoji:\nNa pragu ovdje grijehe ispitiva,\nSudi i šalje, repom pravdu kroji.",
+  "passage": null,
+  "options": [
+   "Odiseja, Homer",
+   "Kanconijer, Frančesko Petrarka",
+   "Pakao, Dante Aligijeri",
+   "Don Kihot, Miguel Servantes"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 288,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "SREDNJI",
+  "question": "Povelja Kulina bana i Ljetopis popa Dukljanina pripadaju:",
+  "passage": null,
+  "options": [
+   "srednjovjekovnoj književnosti Bosne i Huma",
+   "baroku",
+   "prosvjetiteljstvu",
+   "antičkoj književnosti"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 289,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "SREDNJI",
+  "question": "Pjesmu Gazel o Mostaru napisao je:",
+  "passage": null,
+  "options": [
+   "Derviš-paša Bajezidagić",
+   "Muhamed Nerkesi",
+   "Mustafa Bašeskija",
+   "Fevzija Mostarac"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 290,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "SREDNJI",
+  "question": "Šekspirova djela su:",
+  "passage": null,
+  "options": [
+   "Hamlet, Dekameron, Don Kihot",
+   "Romeo i Julija, Pakao, Kanconijer",
+   "Kralj Lir, Hamlet, Romeo i Julija",
+   "Hamlet, Don Kihot, Tvrdica"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 291,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "SREDNJI",
+  "question": "Zaokruži tačan odgovor! Riječi: „Biti il' ne biti – to je pitanje“ pripadaju:",
+  "passage": null,
+  "options": [
+   "renesansnom djelu Hamlet",
+   "baroknom djelu Osman",
+   "baroknom djelu Hamlet",
+   "renesansnom djelu Don Kihot"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 292,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "SREDNJI",
+  "question": "Pročitaj stihove iz poznate zbirke ljubavne poezije:\n\nNe nalazim mira, a za rat sam mlitav,\nPlačem se i nadam, plamtim, komad leda,\nČas me svod uza se, čas na zemlji gleda,\nI stišćem prazninu i grlim svijet čitav.\n\nKo je napisao stihove navedene pjesme:",
+  "passage": null,
+  "options": [
+   "Đovani Bokačo",
+   "Dante Aligijeri",
+   "Fransoa Rable",
+   "Frančesko Petrarka"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 293,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "SREDNJI",
+  "question": "U kojem se ratu borio Ahilej?",
+  "passage": null,
+  "options": [
+   "grčko-perzijskom ratu",
+   "ratu protiv titana",
+   "punskim ratovima",
+   "trojanskome ratu"
+  ],
+  "correct_index": 3
+ },
+ {
+  "original_no": 294,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "SREDNJI",
+  "question": "Pažljivo pročitaj sljedeći tekst:\n\nIza desetog dana proljeća jako se razvio behar. Kiša je padala cijeli mjesec, pa i više, po prilici oko četrdeset dana. Zato je behar zakasnio, a i snijeg se dugo zadržao na planinama. Bilo je mnogo i blata. Zbog velikih kiša i snijega koji padahu u proljeće, a i uslijed slabosti životinja, malo je poskupilo meso, pšenica, a i svjećari podigoše cijenu svijećama.\n\nKoje djelo sadrži navedeni citat?",
+  "passage": null,
+  "options": [
+   "Besjede Matije Divkovića",
+   "Ljetopis Nikole Lašvanina",
+   "Ljetopis Mula Mustafe Bašeskije",
+   "Ljetopis Hasana Kafija Pruščaka"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 295,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "SREDNJI",
+  "question": "Iz koje su pjesme sljedeći stihovi?\n\nO pero, iako si nemoćno i naoko nijemo, bez jezika,\nKad pređeš u ruke pjesniku, on od tebe načini slavuja;\nIstoga časa počneš izvijati pjesme,\nU svakome napjevu otkrivaš hiljade tajni.\nHodi sada, otpočni pjesmu i složi glas\nSa slavujem moje naravi!",
+  "passage": null,
+  "options": [
+   "Pismo, Muhamed Nerkesi",
+   "Pjesma peru, Muhamed Nerkesi",
+   "Čamdži Mujo i lijepa Uma, Umihana Čuvidina",
+   "Gazel o Mostaru, Derviš-paša Bajezidagić"
+  ],
+  "correct_index": 1
+ },
+ {
+  "original_no": 296,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "VISI",
+  "question": "Dat je odlomak iz jedne od Besjeda Matije Divkovića. Šta je cilj ovakvog zaključka na kraju besjede?\n\n„Ako je, dakle, tolika i taka slatkost i razgovor u pjevan'ju jednoga anđela, kolika će, dakle, radost, koliko vesel'je i koliko uživan'je tada biti u kraljevstvu nebeskomu, kada uspoje devet kora anđeoskieh, blažena Gospa i svekoliko mnoštvo svetieh božieh hvaleći i slaveći gospodina Boga bez pristanka.“",
+  "passage": null,
+  "options": [
+   "podsticanje vjernika da se zamonaše i tako zasluže raj",
+   "isticanje razlike između anđela i običnih smrtnika",
+   "isticanje ljepote koja čeka vjernike u raju",
+   "podsticanje ljudi da stvaraju umjetnost po uzoru na anđele"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 297,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "VISI",
+  "question": "U jednom nizu književnih pravaca nalazi se uljez.",
+  "passage": null,
+  "options": [
+   "sumersko-babilonska književnost, grčka književnost, rimska književnost, poezija",
+   "srednjovjekovna književnost, humanizam, renesansa, klasicizam",
+   "barok, klasicizam, prosvjetiteljstvo, renesansa",
+   "srednji vijek, humanizam, renesansa, barok"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 298,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "VISI",
+  "question": "Šta su renesansni ideali?",
+  "passage": null,
+  "options": [
+   "humanost, prosvjeta",
+   "didaktičnost, objektivnost",
+   "senzualizam i hedonizam, individualizam, ugledanje na prirodu i artizam",
+   "ljubav prema dragoj, subjektivnost, vraćanje u prošlost"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 299,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "VISI",
+  "question": "Jedan od navedenih junaka ne pripada „svome“ autoru:",
+  "passage": null,
+  "options": [
+   "Laura – Frančesko Petrarka",
+   "Čičibio – Đovani Bokačo",
+   "Don Kihot – Vilijam Šekspir",
+   "Dundo Maroje – Marin Držić"
+  ],
+  "correct_index": 2
+ },
+ {
+  "original_no": 300,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "VISI",
+  "question": "Pročitaj sljedeći odlomak!",
+  "passage": "Lav, prvi i najstariji od sviju životinja, nahodeći se slaba zdravlja, ne izlažaše iz svoje peštere. Mnogi lavovi, carski ministri, proči zverinjaknezovi i poglavari, i sami majmun, majmunski birov, krome jedne lisice, sakupe se za posetiti i nagledati lava, cara svog. Kurjak, prvi kurjački muselim, odavno pametozlopstvovašena jednoga komšijusvoga, staroga lisca, zato što ovi, najdeblje guske hvatajući, sebe samoga čašćašebez najmanjeg kurjaku peškeša.\n\nZaokruži netačnu tvrdnju koja se odnosi na djelo iz kojeg je preuzet odlomak!",
+  "options": [
+   "Ovo djelo je bajka",
+   "Djelo pripada epohi prosvjetiteljstva",
+   "Životinje imaju ljudske osobine",
+   "Djelo ima satirički i poučni karakter"
+  ],
+  "correct_index": 0
+ },
+ {
+  "original_no": 301,
+  "subject": "BOSANSKI",
+  "topic": "Historija književnosti",
+  "level": "VISI",
+  "question": "Pročitaj sljedeći odlomak:",
+  "passage": "HARPAGON: (Brendavoanu) Neka se onda upregnu konji. (Marijani) Molim vas, ljepotice, da me izvinite što sam zaboravio da vam priredim malu užinu prije no što pođete.\nKLEANT: Pobrinuo sam se ja, oče, i poslao da se u vaše ime donese nekoliko tanjira kineskih pomorandži, slatkih limunova i kolača.\nHARPAGON: (Valeru) Valere!\nVALER: (Harpagonu) Poludio je.\nKLEANT: Mislite, oče, da nije dovoljno? Gospođica je dobra, pa će vas izviniti.\nMARIJANA: Pa to nije ni trebalo.\nKLEANT: Da li ste, gospođice, ikad vidjeli sjajniji dijamant od ovog što je na ruci moga oca?\nMARIJANA: Zaista divno blista.\nKLEANT: (Skida ga s očeva prsta i daje Marijani) Treba izbliza da ga vidite.\nMARIJANA: Vrlo je lijep, zaista, i sjaji na sve strane.\nKLEANT: (Stane pred Marijanu, koja hoće da ga vrati) Ne, gospođice, on se nalazi u najljepšim rukama. To vam je poklon od mog oca.\nHARPAGON: Od mene?\nKLEANT: Je li, oče, vi hoćete da ga gospođica zadrži za vašu ljubav?\nHARPAGON: (Sinu) Šta kažeš?\nKLEANT: (Za sebe) Lijepo pitanje! (Marijani) Daje mi znak da vas privolim da ga zadržite.\nMARIJANA: Nisam rada...\nKLEANT: (Marijani) Šalite se? On nipošto neće da ga primi natrag.\nHARPAGON: (Za sebe) Poludjet ću.\n\nKoju osobinu pokazuje Kleant, a koju Harpagon u ovom odlomku?",
+  "options": [
+   "Kleant je domišljat, a Harpagon škrt",
+   "Kleant je škrt, a Harpagon domišljat",
+   "Kleant je škrt, a Harpagon darežljiv",
+   "Kleant je darežljiv, a Harpagon milostiv"
+  ],
+  "correct_index": 0
+ }
+]

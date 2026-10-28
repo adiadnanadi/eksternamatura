@@ -1,0 +1,74 @@
+// Prisma schema — Kviz aplikacija (banka pitanja: matematika, bosanski, engleski)
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id           String        @id @default(cuid())
+  email        String        @unique
+  passwordHash String
+  name         String
+  createdAt    DateTime      @default(now())
+  updatedAt    DateTime      @updatedAt
+  quizSessions QuizSession[]
+}
+
+model Question {
+  id             String       @id @default(cuid())
+  subject        String // MATEMATIKA | BOSANSKI | ENGLESKI
+  school         String       @default("OSNOVNA") // OSNOVNA | SREDNJA
+  originalNo     Int
+  topic          String
+  level          String // OSNOVNI | SREDNJI | VISI
+  text           String
+  passage        String? // za engleska pitanja citanja
+  image          String? // /quiz-media/...
+  optionsJson    String // JSON: string[] tekstovi opcija (A-E)
+  correctIndex   Int // NIJEDAM put se ne salje klijentu prije odgovora
+  solutionJson   String? // JSON: string[] paragrafi rjesenja (LaTeX za matematiku)
+  solutionImages String? // JSON: string[] putanje slika uz rjesenje
+  answers        QuizAnswer[]
+
+  @@index([subject, level])
+  @@index([subject, topic])
+  @@index([school, subject])
+}
+
+model QuizSession {
+  id              String       @id @default(cuid())
+  userId          String
+  user            User         @relation(fields: [userId], references: [id], onDelete: Cascade)
+  subject         String
+  school          String       @default("OSNOVNA") // OSNOVNA | SREDNJA
+  mode            String // UCENJE | TEST
+  status          String // AKTIVAN | ZAVRSEN | PREKINUT
+  questionIdsJson String // JSON: string[] id-jeva pitanja po redoslijedu
+  total           Int
+  currentIndex    Int          @default(0) // indeks sljedeceg neodgovorenog
+  correctCount    Int          @default(0)
+  createdAt       DateTime     @default(now())
+  completedAt     DateTime?
+  answers         QuizAnswer[]
+
+  @@index([userId, status])
+}
+
+model QuizAnswer {
+  id            String      @id @default(cuid())
+  sessionId     String
+  session       QuizSession @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+  questionId    String
+  question      Question    @relation(fields: [questionId], references: [id])
+  orderIndex    Int
+  selectedIndex Int
+  isCorrect     Boolean
+  createdAt     DateTime    @default(now())
+
+  @@index([sessionId])
+}

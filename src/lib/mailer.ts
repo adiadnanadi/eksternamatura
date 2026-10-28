@@ -18,6 +18,9 @@ export async function sendVerificationEmail(to: string, name: string, token: str
       host: 'smtp.gmail.com',
       port: 465,
       secure: true,
+      connectionTimeout: 5_000,
+      greetingTimeout: 5_000,
+      socketTimeout: 10_000,
       auth: {
         user: process.env.GMAIL_USER,
         pass: process.env.GMAIL_APP_PASSWORD,

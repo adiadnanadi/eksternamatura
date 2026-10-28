@@ -7,6 +7,7 @@ import { rateLimit, clientIp } from '@/lib/rate-limit'
 import { classifySource, classifyDevice, isBot } from '@/lib/visit-source'
 
 const schema = z.object({
+  sid: z.string().max(64).optional(),
   path: z.string().max(180).optional(),
   referrer: z.string().max(500).nullish(),
   country: z.string().max(8).nullish(),
@@ -24,7 +25,7 @@ export async function POST(req: Request) {
   const parsed = schema.safeParse(body)
   if (!parsed.success) return new NextResponse(null, { status: 204 })
 
-  const { path, referrer, country, city } = parsed.data
+  const { sid, path, referrer, country, city } = parsed.data
   const finalPath = (path && path.startsWith('/') ? path : '/').slice(0, 180)
   const host = req.headers.get('host') || ''
 
@@ -51,6 +52,7 @@ export async function POST(req: Request) {
   try {
     await db.visit.create({
       data: {
+        sid: sid || null,
         path: finalPath,
         referrer: referrer || null,
         source: classifySource(referrer, host),

@@ -1,25 +1,22 @@
 'use client'
 
 import { useEffect } from 'react'
+import { getVisitSid, alreadyTracked, markTracked } from '@/lib/visit-client'
 
 // Šalje beacon POST /api/track samo pri PRVOM dolasku u sesiji (tab).
 // Refresh/ponovno učitavanje u istom tabu NE šalje ponovo — statistika
 // pokazuje osobu kad je nova pristupila, ne svaki refresh.
+// Ako se korisnik kasnije uloguje, identifyVisit() u client.ts povezuje
+// istu posjetu (sid) sa njegovim nalogom → email se pojavljuje u panelu.
 // Geo (država/grad) se povlači iz ipwho.is-a i kešira 24h u localStorage —
 // fetch radi BROWSER, ne Render servis (ne troši outband sa servisa).
 
 type Geo = { country?: string; city?: string; t: number }
 
-const FLAG = 'kviz_session_tracked'
-
 export function TrackBeacon() {
   useEffect(() => {
     // već zabilježena posjeta u ovoj sesiji (isti tab) → bez ponavljanja
-    try {
-      if (sessionStorage.getItem(FLAG)) return
-    } catch {
-      // sessionStorage blokiran → svejedno pokušaj
-    }
+    if (alreadyTracked()) return
 
     const send = async () => {
       try {
@@ -50,6 +47,7 @@ export function TrackBeacon() {
           headers: { 'Content-Type': 'application/json' },
           keepalive: true,
           body: JSON.stringify({
+            sid: getVisitSid(),
             path: location.pathname,
             referrer: document.referrer || null,
             country: geo?.country || null,
@@ -58,11 +56,7 @@ export function TrackBeacon() {
         })
         // bilježi "već viđeno" samo ako je server prihvatio (204)
         if (res.ok || res.status === 204) {
-          try {
-            sessionStorage.setItem(FLAG, '1')
-          } catch {
-            // ignore
-          }
+          markTracked()
         }
       } catch {
         // tiho — statistika nikad ne smije kvariti app

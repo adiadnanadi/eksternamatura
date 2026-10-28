@@ -77,6 +77,7 @@ model QuizAnswer {
 // Posjeta stranici — statistika odakle ljudi ulaze (izvor, država, uređaj)
 model Visit {
   id        String   @id @default(cuid())
+  sid       String? // klijentski session-id (isti tab) — da se posjeta poveže s nalogom nakon logina
   path      String   @default("/")
   referrer  String?
   source    String   @default("Direktno") // Google | Instagram | Direktno | ...
@@ -90,4 +91,5 @@ model Visit {
   @@index([createdAt])
   @@index([source])
   @@index([country])
+  @@index([sid])
 }

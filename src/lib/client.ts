@@ -1,3 +1,5 @@
+import { identifyVisit } from '@/lib/visit-client'
+
 async function handle<T>(res: Response): Promise<T> {
   const data = await res.json().catch(() => ({}))
   if (!res.ok) {
@@ -9,19 +11,25 @@ async function handle<T>(res: Response): Promise<T> {
 export const api = {
   me: () => fetch('/api/auth/me').then(r => handle<{ user: null | import('./types').UserInfo }>(r)),
 
-  register: (body: { name: string; email: string; password: string }) =>
-    fetch('/api/auth/register', {
+  register: async (body: { name: string; email: string; password: string }) => {
+    const data = await fetch('/api/auth/register', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(body),
-    }).then(r => handle<{ user: import('./types').UserInfo }>(r)),
+    }).then(r => handle<{ user: import('./types').UserInfo }>(r))
+    identifyVisit() // posjeta iz ovog sessiona → email u admin panelu
+    return data
+  },
 
-  login: (body: { email: string; password: string }) =>
-    fetch('/api/auth/login', {
+  login: async (body: { email: string; password: string }) => {
+    const data = await fetch('/api/auth/login', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(body),
-    }).then(r => handle<{ user: import('./types').UserInfo }>(r)),
+    }).then(r => handle<{ user: import('./types').UserInfo }>(r))
+    identifyVisit() // posjeta iz ovog sessiona → email u admin panelu
+    return data
+  },
 
   logout: () => fetch('/api/auth/logout', { method: 'POST' }).then(() => undefined),
 

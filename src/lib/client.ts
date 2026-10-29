@@ -40,6 +40,23 @@ export const api = {
       body: JSON.stringify({ email }),
     }).then(() => undefined),
 
+  forgotPassword: (email: string) =>
+    fetch('/api/auth/forgot-password', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ email }),
+    }).then(r => handle<{ ok: boolean }>(r)),
+
+  resetPassword: async (body: { token: string; password: string }) => {
+    const data = await fetch('/api/auth/reset-password', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(body),
+    }).then(r => handle<{ user: import('./types').UserInfo }>(r))
+    identifyVisit() // ulogovan nakon resete → email u admin panelu
+    return data
+  },
+
   logout: () => fetch('/api/auth/logout', { method: 'POST' }).then(() => undefined),
 
   meta: () => fetch('/api/quiz/meta').then(r => handle<import('./types').QuizMeta>(r)),

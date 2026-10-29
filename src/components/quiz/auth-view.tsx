@@ -27,13 +27,14 @@ export function AuthView({
   onSuccess: (user: UserInfo) => void
   onBack: () => void
 }) {
-  const [mode, setMode] = useState<'login' | 'register'>(initialMode)
+  const [mode, setMode] = useState<'login' | 'register' | 'forgot'>(initialMode)
   const [name, setName] = useState('')
   const [email, setEmail] = useState('')
   const [password, setPassword] = useState('')
   const [error, setError] = useState<string | null>(null)
   const [loading, setLoading] = useState(false)
   const [verifySentTo, setVerifySentTo] = useState<string | null>(null)
+  const [forgotSentTo, setForgotSentTo] = useState<string | null>(null)
   const [unverified, setUnverified] = useState(false)
   const [resendState, setResendState] = useState<'idle' | 'sending' | 'sent'>('idle')
 
@@ -43,6 +44,11 @@ export function AuthView({
     setUnverified(false)
     setLoading(true)
     try {
+      if (mode === 'forgot') {
+        await api.forgotPassword(email)
+        setForgotSentTo(email)
+        return
+      }
       if (mode === 'login') {
         const res = await api.login({ email, password })
         onSuccess(res.user)
@@ -75,6 +81,42 @@ export function AuthView({
   }
 
   const isLogin = mode === 'login'
+  const isForgot = mode === 'forgot'
+
+  // ekran: "poslali smo ti link" nakon zaboravljene lozinke
+  if (forgotSentTo) {
+    return (
+      <main className="relative flex min-h-[calc(100dvh-4rem)] items-center justify-center overflow-hidden px-4 py-10">
+        <div className="hero-blob left-[-12%] top-[5%] h-[360px] w-[360px] bg-emerald-300/50 dark:bg-emerald-700/25" />
+        <motion.div
+          initial={{ opacity: 0, y: 24 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.45 }}
+          className="relative w-full max-w-md rounded-3xl border bg-card p-8 text-center shadow-xl"
+        >
+          <span className="mx-auto mb-4 flex h-14 w-14 items-center justify-center rounded-2xl bg-gradient-to-br from-emerald-500 to-teal-600 text-white shadow-lg shadow-emerald-500/25">
+            <MailCheck className="h-7 w-7" />
+          </span>
+          <h1 className="text-xl font-bold">Provjeri svoj email</h1>
+          <p className="mt-2 text-sm text-muted-foreground">
+            Ako nalog sa <b className="text-foreground">{forgotSentTo}</b> postoji,
+            poslali smo mu link za novu lozinku. (Provjeri i spam folder.)
+          </p>
+          <Button
+            variant="outline"
+            className="mt-6 rounded-xl"
+            onClick={() => {
+              setForgotSentTo(null)
+              setMode('login')
+            }}
+          >
+            <ArrowLeft className="mr-2 h-4 w-4" />
+            Nazad na prijavu
+          </Button>
+        </motion.div>
+      </main>
+    )
+  }
 
   // ekran: "provjeri email" nakon uspješne registracije
   if (verifySentTo) {
@@ -118,7 +160,14 @@ export function AuthView({
         className="relative w-full max-w-md"
       >
         <button
-          onClick={onBack}
+          onClick={() => {
+            if (isForgot) {
+              setMode('login')
+              setError(null)
+            } else {
+              onBack()
+            }
+          }}
           className="mb-4 inline-flex items-center gap-1.5 rounded-lg px-2 py-1 text-sm text-muted-foreground transition-colors hover:bg-secondary hover:text-foreground"
         >
           <ArrowLeft className="h-4 w-4" />
@@ -131,41 +180,45 @@ export function AuthView({
               <GraduationCap className="h-7 w-7" />
             </span>
             <h1 className="text-2xl font-bold tracking-tight">
-              {isLogin ? 'Dobrodošli nazad!' : 'Kreiraj račun'}
+              {isForgot ? 'Zaboravili ste lozinku?' : isLogin ? 'Dobrodošli nazad!' : 'Kreiraj račun'}
             </h1>
             <p className="mt-1.5 text-sm text-muted-foreground">
-              {isLogin
-                ? 'Prijavi se i nastavi gdje si stao.'
-                : 'Registracija je besplatna — potrebni su samo ime i email.'}
+              {isForgot
+                ? 'Unesi email i poslat ćemo ti link za postavku nove lozinke.'
+                : isLogin
+                  ? 'Prijavi se i nastavi gdje si stao.'
+                  : 'Registracija je besplatna — potrebni su samo ime i email.'}
             </p>
           </div>
 
           {/* toggle */}
-          <div className="mb-6 grid grid-cols-2 gap-1 rounded-2xl bg-secondary p-1" role="tablist">
-            {(['login', 'register'] as const).map(m => (
-              <button
-                key={m}
-                role="tab"
-                aria-selected={mode === m}
-                onClick={() => {
-                  setMode(m)
-                  setError(null)
-                  setUnverified(false)
-                  setResendState('idle')
-                }}
-                className={`rounded-xl py-2 text-sm font-semibold transition-all ${
-                  mode === m
-                    ? 'bg-background text-foreground shadow-sm'
-                    : 'text-muted-foreground hover:text-foreground'
-                }`}
-              >
-                {m === 'login' ? 'Prijava' : 'Registracija'}
-              </button>
-            ))}
-          </div>
+          {!isForgot && (
+            <div className="mb-6 grid grid-cols-2 gap-1 rounded-2xl bg-secondary p-1" role="tablist">
+              {(['login', 'register'] as const).map(m => (
+                <button
+                  key={m}
+                  role="tab"
+                  aria-selected={mode === m}
+                  onClick={() => {
+                    setMode(m)
+                    setError(null)
+                    setUnverified(false)
+                    setResendState('idle')
+                  }}
+                  className={`rounded-xl py-2 text-sm font-semibold transition-all ${
+                    mode === m
+                      ? 'bg-background text-foreground shadow-sm'
+                      : 'text-muted-foreground hover:text-foreground'
+                  }`}
+                >
+                  {m === 'login' ? 'Prijava' : 'Registracija'}
+                </button>
+              ))}
+            </div>
+          )}
 
           <form onSubmit={submit} className="space-y-4">
-            {!isLogin && (
+            {mode === 'register' && (
               <div className="space-y-1.5">
                 <Label htmlFor="name">Ime i prezime</Label>
                 <div className="relative">
@@ -201,23 +254,37 @@ export function AuthView({
               </div>
             </div>
 
-            <div className="space-y-1.5">
-              <Label htmlFor="password">Lozinka</Label>
-              <div className="relative">
-                <Lock className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
-                <Input
-                  id="password"
-                  type="password"
-                  value={password}
-                  onChange={e => setPassword(e.target.value)}
-                  placeholder={isLogin ? 'Tvoja lozinka' : 'Najmanje 6 znakova'}
-                  className="h-11 rounded-xl pl-9"
-                  required
-                  minLength={isLogin ? 1 : 6}
-                  autoComplete={isLogin ? 'current-password' : 'new-password'}
-                />
+            {!isForgot && (
+              <div className="space-y-1.5">
+                <Label htmlFor="password">Lozinka</Label>
+                <div className="relative">
+                  <Lock className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
+                  <Input
+                    id="password"
+                    type="password"
+                    value={password}
+                    onChange={e => setPassword(e.target.value)}
+                    placeholder={isLogin ? 'Tvoja lozinka' : 'Najmanje 6 znakova'}
+                    className="h-11 rounded-xl pl-9"
+                    required
+                    minLength={isLogin ? 1 : 6}
+                    autoComplete={isLogin ? 'current-password' : 'new-password'}
+                  />
+                </div>
+                {isLogin && (
+                  <button
+                    type="button"
+                    onClick={() => {
+                      setMode('forgot')
+                      setError(null)
+                    }}
+                    className="text-xs font-medium text-emerald-600 transition-colors hover:text-emerald-700 hover:underline"
+                  >
+                    Zaboravili ste lozinku?
+                  </button>
+                )}
               </div>
-            </div>
+            )}
 
             {error && (
               <div className="pop-in space-y-2 rounded-xl bg-destructive/10 px-3.5 py-2.5">
@@ -262,6 +329,8 @@ export function AuthView({
                   <Loader2 className="mr-2 h-4 w-4 animate-spin" />
                   Sačekaj...
                 </>
+              ) : isForgot ? (
+                'Pošalji link'
               ) : isLogin ? (
                 'Prijavi se'
               ) : (

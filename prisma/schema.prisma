@@ -16,6 +16,8 @@ model User {
   name               String
   emailVerified      DateTime? // null = email još nije potvrđen
   verificationToken  String?       @unique
+  resetToken         String?       @unique // link za reset lozinke (jednokratni)
+  resetTokenExpiresAt DateTime?
   createdAt          DateTime      @default(now())
   updatedAt          DateTime      @updatedAt
   quizSessions       QuizSession[]
